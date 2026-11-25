@@ -1,0 +1,65 @@
+table products
+	lineageTag: 0431cfbe-adac-45f0-a49e-4cb5ccc5882d
+
+	column product_id
+		dataType: string
+		lineageTag: 475cf0e4-fcc3-4934-a8dc-5638c21a3e13
+		summarizeBy: none
+		sourceColumn: product_id
+
+	column product_name
+		dataType: string
+		lineageTag: 93b6e2a7-d325-4237-ab65-c12a8e75e95f
+		summarizeBy: none
+		sourceColumn: product_name
+
+	column category
+		dataType: string
+		lineageTag: 8a1a2063-d10b-4718-acdb-b54dd998e50a
+		summarizeBy: none
+		sourceColumn: category
+
+	column sub_category
+		dataType: string
+		lineageTag: a5795fef-7674-471e-a719-1e2ea27dc06e
+		summarizeBy: none
+		sourceColumn: sub_category
+
+	column collection
+		dataType: string
+		lineageTag: fa606735-3ab6-492a-ba57-f47e23405ed5
+		summarizeBy: none
+		sourceColumn: collection
+
+	column color
+		dataType: string
+		lineageTag: 99210dbd-cb52-49f6-8b0b-bbd355b5c666
+		summarizeBy: none
+		sourceColumn: color
+
+	column list_price
+		dataType: decimal
+		formatString: \$#,0.00;(\$#,0.00);\$#,0.00
+		lineageTag: df5c475f-6fda-475c-ba02-bdc32dc7ef81
+		summarizeBy: none
+		sourceColumn: list_price
+
+	column unit_cost
+		dataType: decimal
+		formatString: \$#,0.00;(\$#,0.00);\$#,0.00
+		lineageTag: 51b7b22a-f747-49d0-8bcb-3cbaf2f18c7f
+		summarizeBy: none
+		sourceColumn: unit_cost
+
+	partition products = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "products.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"product_id", type text}, {"product_name", type text}, {"category", type text}, {"sub_category", type text}, {"collection", type text}, {"color", type text}, {"list_price", Currency.Type}, {"unit_cost", Currency.Type}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table
+

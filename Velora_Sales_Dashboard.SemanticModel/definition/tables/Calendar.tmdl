@@ -1,0 +1,67 @@
+table Calendar
+	lineageTag: 1117131e-e794-48e8-9df5-ee5a3a140834
+	dataCategory: Time
+
+	column Date
+		dataType: dateTime
+		isKey
+		formatString: yyyy-mm-dd
+		lineageTag: 42915c07-c4db-49d3-a600-846b50ca2912
+		summarizeBy: none
+		sourceColumn: Date
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Month
+		dataType: string
+		lineageTag: b5466d48-3f42-4505-a01b-94c1324ad2cf
+		summarizeBy: none
+		sourceColumn: Month
+		sortByColumn: MonthNum
+
+	column MonthNum
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 8f4dd6dc-f15c-4cd3-8122-95b222c2704c
+		summarizeBy: none
+		sourceColumn: MonthNum
+
+	column Quarter
+		dataType: string
+		lineageTag: c5ca817a-2d88-434b-9e81-d1d2935ebd22
+		summarizeBy: none
+		sourceColumn: Quarter
+
+	column Weekday
+		dataType: string
+		lineageTag: b9095c8c-925e-44b4-ba75-e260b2c5f148
+		summarizeBy: none
+		sourceColumn: Weekday
+		sortByColumn: WeekdayNum
+
+	column WeekdayNum
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 2898e6e2-0733-4a2a-9c13-2ae7560b9dec
+		summarizeBy: none
+		sourceColumn: WeekdayNum
+
+	partition Calendar = m
+		mode: import
+		source =
+				let
+				    Dates = List.Dates(#date(2025, 1, 1), 365, #duration(1, 0, 0, 0)),
+				    T = Table.FromList(Dates, Splitter.SplitByNothing(), {"Date"}),
+				    Typed = Table.TransformColumnTypes(T, {{"Date", type date}}),
+				    AddMonth = Table.AddColumn(Typed, "Month", each Date.ToText([Date], [Format = "MMM", Culture = "en-US"]), type text),
+				    AddMonthNum = Table.AddColumn(AddMonth, "MonthNum", each Date.Month([Date]), Int64.Type),
+				    AddQuarter = Table.AddColumn(AddMonthNum, "Quarter", each "Q" & Text.From(Date.QuarterOfYear([Date])), type text),
+				    AddWeekday = Table.AddColumn(AddQuarter, "Weekday", each Date.ToText([Date], [Format = "ddd", Culture = "en-US"]), type text),
+				    AddWeekdayNum = Table.AddColumn(AddWeekday, "WeekdayNum", each Date.DayOfWeek([Date], Day.Monday) + 1, Int64.Type)
+				in
+				    AddWeekdayNum
+
+	annotation PBI_ResultType = Table
+

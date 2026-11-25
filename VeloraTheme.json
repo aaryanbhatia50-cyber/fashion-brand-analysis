@@ -1,0 +1,116 @@
+{
+  "name": "Velora",
+  "dataColors": [
+    "#231F1C",
+    "#B08D57",
+    "#A9553F",
+    "#6B705C",
+    "#C9A9A6",
+    "#5D6D7E",
+    "#8C7B6B",
+    "#E3C9B8"
+  ],
+  "foreground": "#231F1C",
+  "foregroundNeutralSecondary": "#7A6F66",
+  "foregroundNeutralTertiary": "#B9ADA1",
+  "background": "#FFFFFF",
+  "backgroundLight": "#FAF7F3",
+  "backgroundNeutral": "#E6DCD0",
+  "tableAccent": "#B08D57",
+  "good": "#6B705C",
+  "neutral": "#B08D57",
+  "bad": "#A9553F",
+  "maximum": "#231F1C",
+  "center": "#B08D57",
+  "minimum": "#F1E8DD",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 24,
+      "color": "#231F1C"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#231F1C"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#231F1C"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 9,
+      "color": "#7A6F66"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E6DCD0"
+              }
+            },
+            "radius": 10
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ],
+        "title": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#231F1C"
+              }
+            },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F4EFE9"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F4EFE9"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

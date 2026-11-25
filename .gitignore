@@ -1,0 +1,12 @@
+# Power BI local files (rebuilt automatically when the project is opened)
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store

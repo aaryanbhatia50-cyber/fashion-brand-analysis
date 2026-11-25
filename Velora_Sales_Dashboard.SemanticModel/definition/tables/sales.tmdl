@@ -1,0 +1,184 @@
+table sales
+	lineageTag: 5402b9d6-baff-4cc8-b55b-38c765879207
+
+	measure 'Total Sales' = SUM ( sales[net_sales] )
+		formatString: \$#,0;(\$#,0);\$#,0
+		lineageTag: e19e6735-00a5-4fb0-a1ec-59c0d3d37803
+
+	measure 'Total Profit' = SUM ( sales[profit] )
+		formatString: \$#,0;(\$#,0);\$#,0
+		lineageTag: 883e08ef-47f1-4cef-98a5-1b58ad63c501
+
+	measure 'Profit Margin %' = DIVIDE ( [Total Profit], [Total Sales] )
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: ec4d98b1-8e5c-4661-a732-e3884a91bf95
+
+	measure 'Total Orders' = DISTINCTCOUNT ( sales[order_id] )
+		formatString: #,0
+		lineageTag: ce911c3b-d4bd-4b98-923e-6d5704b1f80d
+
+	measure 'Avg Order Value' = DIVIDE ( [Total Sales], [Total Orders] )
+		formatString: \$#,0.00;(\$#,0.00);\$#,0.00
+		lineageTag: 1fa843f1-c052-479f-8f68-58639a43a3cd
+
+	measure 'Units Sold' = SUM ( sales[quantity] )
+		formatString: #,0
+		lineageTag: 43845a2a-6930-459b-bf7e-aea2d4a5490c
+
+	measure 'Active Customers' = DISTINCTCOUNT ( sales[customer_id] )
+		formatString: #,0
+		lineageTag: 609ee3da-27f7-45d7-b052-912a7450beca
+
+	measure 'Avg Discount %' = AVERAGE ( sales[discount_pct] )
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: 8e553e2a-4683-413d-8f1f-c00ace34784f
+
+	measure 'Returned Items' = CALCULATE ( COUNTROWS ( sales ), sales[returned] = "Yes" )
+		formatString: #,0
+		lineageTag: ea73b490-5caf-44b7-b9e9-2e6dfd51d8b8
+
+	measure 'Return Rate %' = DIVIDE ( [Returned Items], COUNTROWS ( sales ) )
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: 4d2ed7b6-497b-4e3e-b250-4640713ca7a6
+
+	measure 'Returned Sales' = CALCULATE ( [Total Sales], sales[returned] = "Yes" )
+		formatString: \$#,0;(\$#,0);\$#,0
+		lineageTag: 2751f460-5aa4-4431-a551-5cf59f58c729
+
+	measure 'Orders per Customer' = DIVIDE ( [Total Orders], [Active Customers] )
+		formatString: #,0.00
+		lineageTag: a7af4592-bddf-4fa2-80de-6a3a3fb8013b
+
+	measure 'Sales MoM %' =
+			VAR PrevMonth = CALCULATE ( [Total Sales], DATEADD ( 'Calendar'[Date], -1, MONTH ) )
+			RETURN DIVIDE ( [Total Sales] - PrevMonth, PrevMonth )
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: 1bf49dfe-e168-48c7-a8af-a89cf3397daf
+
+	measure 'Top 10 Product Sales' =
+			VAR r = RANKX ( ALLSELECTED ( products[product_name] ), [Total Sales] )
+			RETURN IF ( ISINSCOPE ( products[product_name] ) && r <= 10, [Total Sales] )
+		formatString: \$#,0;(\$#,0);\$#,0
+		lineageTag: 9216d044-01dd-481f-b1aa-4284daf96717
+
+	column order_line_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 9f3fcea3-e569-475a-9dc6-967886430b91
+		summarizeBy: none
+		sourceColumn: order_line_id
+
+	column order_id
+		dataType: string
+		lineageTag: 80e25c20-0e4e-42c0-8534-63e5fdabe5d4
+		summarizeBy: none
+		sourceColumn: order_id
+
+	column order_date
+		dataType: dateTime
+		formatString: yyyy-mm-dd
+		lineageTag: 977d1ea6-b710-4999-b05b-9fa9bf8cdf39
+		summarizeBy: none
+		sourceColumn: order_date
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column customer_id
+		dataType: string
+		isHidden
+		lineageTag: c3e6e004-8f61-493e-a951-c9f0ddb6ede3
+		summarizeBy: none
+		sourceColumn: customer_id
+
+	column product_id
+		dataType: string
+		isHidden
+		lineageTag: 9a2c2817-7320-4814-8b77-ff670728d6fa
+		summarizeBy: none
+		sourceColumn: product_id
+
+	column channel
+		dataType: string
+		lineageTag: aaed4513-5d38-47ea-8443-4ccc17981529
+		summarizeBy: none
+		sourceColumn: channel
+
+	column size
+		dataType: string
+		lineageTag: 933a78d0-4aa0-4afe-9b17-e9df68de7d48
+		summarizeBy: none
+		sourceColumn: size
+
+	column quantity
+		dataType: int64
+		formatString: 0
+		lineageTag: 34c06820-4be5-41a1-a0c3-843ebb26a729
+		summarizeBy: none
+		sourceColumn: quantity
+
+	column unit_price
+		dataType: decimal
+		formatString: \$#,0.00;(\$#,0.00);\$#,0.00
+		lineageTag: 4763205a-19b2-4594-8d27-cde1ba77b7e3
+		summarizeBy: none
+		sourceColumn: unit_price
+
+	column discount_pct
+		dataType: double
+		formatString: 0%
+		lineageTag: e158c2cc-a40b-4cb3-b3e4-e9133777a09b
+		summarizeBy: none
+		sourceColumn: discount_pct
+
+	column gross_sales
+		dataType: decimal
+		formatString: \$#,0.00;(\$#,0.00);\$#,0.00
+		lineageTag: ecf47a61-828a-44e8-8b2c-5a67a56fc289
+		summarizeBy: none
+		sourceColumn: gross_sales
+
+	column net_sales
+		dataType: decimal
+		formatString: \$#,0.00;(\$#,0.00);\$#,0.00
+		lineageTag: 33cfcac2-0f0e-4512-af1c-16f757c4aa12
+		summarizeBy: none
+		sourceColumn: net_sales
+
+	column cost
+		dataType: decimal
+		formatString: \$#,0.00;(\$#,0.00);\$#,0.00
+		lineageTag: 5142a35a-7179-4c26-bc8e-ed0e615c34bd
+		summarizeBy: none
+		sourceColumn: cost
+
+	column profit
+		dataType: decimal
+		formatString: \$#,0.00;(\$#,0.00);\$#,0.00
+		lineageTag: 559e5113-89cc-4ce6-9889-2cc00e1b1f5c
+		summarizeBy: none
+		sourceColumn: profit
+
+	column returned
+		dataType: string
+		lineageTag: 71f377c5-aab2-4adf-bdcc-bd7cb8be18d8
+		summarizeBy: none
+		sourceColumn: returned
+
+	column return_reason
+		dataType: string
+		lineageTag: 28efb699-1c6f-410c-99b9-7671d8e166d2
+		summarizeBy: none
+		sourceColumn: return_reason
+
+	partition sales = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "sales.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"order_line_id", Int64.Type}, {"order_id", type text}, {"order_date", type date}, {"customer_id", type text}, {"product_id", type text}, {"channel", type text}, {"size", type text}, {"quantity", Int64.Type}, {"unit_price", Currency.Type}, {"discount_pct", type number}, {"gross_sales", Currency.Type}, {"net_sales", Currency.Type}, {"cost", Currency.Type}, {"profit", Currency.Type}, {"returned", type text}, {"return_reason", type text}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table
+

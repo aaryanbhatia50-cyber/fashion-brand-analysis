@@ -1,0 +1,118 @@
+﻿products.csv        63 rows
+customers.csv    3,000 rows
+sales.csv       22,220 rows
+
+Net sales $1,926,633 | Profit $1,104,149 (57.3%) | Orders 13,347 | AOV $144.35 | Return rate 16.2% | Customers 2,857
+
+By month
+  2025-12                      $    252,841  13.1%  returns 15.7%
+  2025-11                      $    213,535  11.1%  returns 16.7%
+  2025-10                      $    186,197   9.7%  returns 15.7%
+  2025-05                      $    171,838   8.9%  returns 16.5%
+  2025-08                      $    167,140   8.7%  returns 16.7%
+  2025-06                      $    159,250   8.3%  returns 17.2%
+  2025-09                      $    152,363   7.9%  returns 15.0%
+  2025-07                      $    146,719   7.6%  returns 17.5%
+  2025-04                      $    143,715   7.5%  returns 16.1%
+  2025-03                      $    132,828   6.9%  returns 15.2%
+  2025-02                      $    103,463   5.4%  returns 16.1%
+  2025-01                      $     96,743   5.0%  returns 16.1%
+
+By category
+  Dresses                      $    434,242  22.5%  returns 23.4%
+  Outerwear                    $    367,367  19.1%  returns 13.1%
+  Tops                         $    362,626  18.8%  returns 12.9%
+  Footwear                     $    326,218  16.9%  returns 18.2%
+  Bottoms                      $    293,135  15.2%  returns 17.2%
+  Accessories                  $    143,044   7.4%  returns 13.2%
+
+By channel
+  Online                       $    923,116  47.9%  returns 19.8%
+  Store                        $    665,636  34.5%  returns 11.0%
+  Mobile App                   $    337,881  17.5%  returns 17.0%
+
+By region
+  East                         $    595,151  30.9%  returns 16.3%
+  South                        $    481,270  25.0%  returns 15.7%
+  West                         $    463,705  24.1%  returns 16.0%
+  North                        $    386,507  20.1%  returns 17.2%
+
+By loyalty tier
+  Silver                       $    680,233  35.3%  returns 16.9%
+  Bronze                       $    668,521  34.7%  returns 15.5%
+  Gold                         $    577,879  30.0%  returns 16.3%
+
+By age group
+  25-34                        $    669,432  34.7%  returns 16.3%
+  18-24                        $    479,276  24.9%  returns 16.4%
+  35-44                        $    452,903  23.5%  returns 16.6%
+  45-54                        $    210,949  10.9%  returns 15.2%
+  55+                          $    114,072   5.9%  returns 16.0%
+
+Top 5 products
+  P025 Everyday Maxi Dress - Olive $     90,558   4.7%  returns 20.2%
+  P026 Linen Maxi Dress - White $     87,068   4.5%  returns 21.7%
+  P034 Everyday Jacket - Grey  $     76,305   4.0%  returns 12.2%
+  P027 Slim Maxi Dress - Navy  $     71,592   3.7%  returns 26.4%
+  P036 Relaxed Jacket - Black  $     64,363   3.3%  returns 12.8%
+  P037 Everyday Coat - White   $     54,391   2.8%  returns 14.2%
+  P006 Signature Shirt - White $     53,318   2.8%  returns 13.0%
+  P042 Studio Blazer - Grey    $     53,123   2.8%  returns 14.5%
+  P029 Signature Midi Dress - Olive $     52,901   2.7%  returns 24.1%
+  P050 Classic Sandals - White $     52,719   2.7%  returns 15.0%
+  P047 Urban Boots - Black     $     46,718   2.4%  returns 20.8%
+  P007 Cotton Blouse - Grey    $     46,095   2.4%  returns 14.9%
+  P019 Signature Skirt - White $     44,387   2.3%  returns 18.2%
+  P004 Urban Shirt - Grey      $     44,108   2.3%  returns 13.4%
+  P001 Everyday T-Shirt - Olive $     43,675   2.3%  returns 11.2%
+  P051 Cotton Sandals - White  $     43,233   2.2%  returns 17.4%
+  P043 Slim Sneakers - Grey    $     42,585   2.2%  returns 18.2%
+  P048 Studio Boots - Burgundy $     42,240   2.2%  returns 21.1%
+  P015 Signature Jeans - Grey  $     39,632   2.1%  returns 19.6%
+  P033 Everyday Mini Dress - Grey $     38,961   2.0%  returns 23.4%
+  P028 Everyday Midi Dress - Sky Blue $     37,269   1.9%  returns 24.0%
+  P017 Weekend Trousers - Sky Blue $     36,875   1.9%  returns 15.8%
+  P046 Everyday Boots - White  $     34,995   1.8%  returns 16.7%
+  P038 Studio Coat - Navy      $     32,617   1.7%  returns 14.2%
+  P009 Everyday Blouse - White $     31,250   1.6%  returns 9.2%
+  P012 Signature Sweater - Grey $     29,847   1.5%  returns 13.2%
+  P054 Relaxed Bag - Olive     $     27,789   1.4%  returns 11.4%
+  P016 Cotton Trousers - Beige $     27,273   1.4%  returns 17.9%
+  P005 Weekend Shirt - Sky Blue $     26,710   1.4%  returns 12.2%
+  P014 Everyday Jeans - White  $     26,404   1.4%  returns 16.3%
+  P020 Relaxed Skirt - Black   $     25,901   1.3%  returns 17.2%
+  P035 Signature Jacket - White $     25,390   1.3%  returns 14.1%
+  P032 Classic Mini Dress - White $     25,045   1.3%  returns 25.7%
+  P039 Classic Coat - White    $     24,783   1.3%  returns 12.3%
+  P040 Everyday Blazer - White $     24,141   1.3%  returns 11.9%
+  P049 Slim Sandals - Sky Blue $     23,667   1.2%  returns 17.3%
+  P003 Cotton T-Shirt - Black  $     23,576   1.2%  returns 15.9%
+  P044 Weekend Sneakers - Black $     22,415   1.2%  returns 19.4%
+  P011 Urban Sweater - White   $     20,348   1.1%  returns 14.4%
+  P052 Weekend Bag - Beige     $     20,216   1.0%  returns 13.6%
+  P030 Relaxed Midi Dress - Grey $     19,060   1.0%  returns 24.5%
+  P010 Slim Sweater - Burgundy $     18,691   1.0%  returns 12.0%
+  P022 Cotton Shorts - Olive   $     18,009   0.9%  returns 16.1%
+  P024 Urban Shorts - Black    $     17,665   0.9%  returns 17.1%
+  P045 Classic Sneakers - Navy $     17,644   0.9%  returns 20.9%
+  P018 Relaxed Trousers - Black $     17,615   0.9%  returns 18.3%
+  P013 Classic Jeans - Burgundy $     17,019   0.9%  returns 16.5%
+  P053 Cotton Bag - Black      $     16,863   0.9%  returns 11.7%
+  P059 Cotton Scarf - Navy     $     16,275   0.8%  returns 12.3%
+  P002 Urban T-Shirt - White   $     15,012   0.8%  returns 9.2%
+  P061 Weekend Sunglasses - Black $     13,449   0.7%  returns 19.7%
+  P041 Classic Blazer - Sky Blue $     12,255   0.6%  returns 9.9%
+  P031 Urban Mini Dress - Beige $     11,790   0.6%  returns 21.1%
+  P023 Slim Shorts - Beige     $     11,495   0.6%  returns 14.9%
+  P021 Relaxed Skirt - Burgundy $     10,860   0.6%  returns 17.1%
+  P008 Urban Blouse - Burgundy $      9,995   0.5%  returns 11.6%
+  P062 Urban Sunglasses - Sky Blue $      9,182   0.5%  returns 12.7%
+  P060 Slim Scarf - Sky Blue   $      8,956   0.5%  returns 14.5%
+  P056 Classic Belt - Olive    $      8,406   0.4%  returns 16.1%
+  P058 Cotton Scarf - Sky Blue $      6,775   0.4%  returns 7.3%
+  P055 Weekend Belt - Beige    $      6,214   0.3%  returns 11.9%
+  P057 Slim Belt - Burgundy    $      5,446   0.3%  returns 11.9%
+  P063 Slim Sunglasses - Navy  $      3,473   0.2%  returns 16.3%
+
+Return reasons: {'Size/Fit issue': 1875, 'Changed mind': 638, 'Looks different from photo': 491, 'Quality issue': 429, 'Arrived late': 176}
+Lines discounted: 53.5%, avg margin discounted 52.9% vs full price 61.6%

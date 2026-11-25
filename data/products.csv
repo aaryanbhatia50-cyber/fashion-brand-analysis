@@ -1,0 +1,64 @@
+product_id,product_name,category,sub_category,collection,color,list_price,unit_cost
+P001,Everyday T-Shirt - Olive,Tops,T-Shirt,Core,Olive,54.99,19.74
+P002,Urban T-Shirt - White,Tops,T-Shirt,Fall/Winter,White,54.99,20.57
+P003,Cotton T-Shirt - Black,Tops,T-Shirt,Fall/Winter,Black,34.99,12.5
+P004,Urban Shirt - Grey,Tops,Shirt,Core,Grey,49.99,18.15
+P005,Weekend Shirt - Sky Blue,Tops,Shirt,Core,Sky Blue,59.99,21.78
+P006,Signature Shirt - White,Tops,Shirt,Core,White,59.99,20.96
+P007,Cotton Blouse - Grey,Tops,Blouse,Core,Grey,49.99,17.57
+P008,Urban Blouse - Burgundy,Tops,Blouse,Spring/Summer,Burgundy,29.99,10.69
+P009,Everyday Blouse - White,Tops,Blouse,Spring/Summer,White,54.99,22.43
+P010,Slim Sweater - Burgundy,Tops,Sweater,Fall/Winter,Burgundy,44.99,16.65
+P011,Urban Sweater - White,Tops,Sweater,Fall/Winter,White,34.99,13.66
+P012,Signature Sweater - Grey,Tops,Sweater,Fall/Winter,Grey,34.99,12.68
+P013,Classic Jeans - Burgundy,Bottoms,Jeans,Core,Burgundy,74.99,28.37
+P014,Everyday Jeans - White,Bottoms,Jeans,Spring/Summer,White,49.99,21.65
+P015,Signature Jeans - Grey,Bottoms,Jeans,Core,Grey,74.99,32.3
+P016,Cotton Trousers - Beige,Bottoms,Trousers,Core,Beige,44.99,18.14
+P017,Weekend Trousers - Sky Blue,Bottoms,Trousers,Fall/Winter,Sky Blue,59.99,22.65
+P018,Relaxed Trousers - Black,Bottoms,Trousers,Core,Black,64.99,24.19
+P019,Signature Skirt - White,Bottoms,Skirt,Fall/Winter,White,69.99,27.33
+P020,Relaxed Skirt - Black,Bottoms,Skirt,Fall/Winter,Black,64.99,26.94
+P021,Relaxed Skirt - Burgundy,Bottoms,Skirt,Fall/Winter,Burgundy,49.99,19.17
+P022,Cotton Shorts - Olive,Bottoms,Shorts,Spring/Summer,Olive,34.99,14.73
+P023,Slim Shorts - Beige,Bottoms,Shorts,Spring/Summer,Beige,39.99,15.59
+P024,Urban Shorts - Black,Bottoms,Shorts,Spring/Summer,Black,84.99,32.8
+P025,Everyday Maxi Dress - Olive,Dresses,Maxi Dress,Spring/Summer,Olive,134.99,44.3
+P026,Linen Maxi Dress - White,Dresses,Maxi Dress,Spring/Summer,White,134.99,51.67
+P027,Slim Maxi Dress - Navy,Dresses,Maxi Dress,Spring/Summer,Navy,99.99,37.15
+P028,Everyday Midi Dress - Sky Blue,Dresses,Midi Dress,Fall/Winter,Sky Blue,69.99,27.36
+P029,Signature Midi Dress - Olive,Dresses,Midi Dress,Fall/Winter,Olive,114.99,45.5
+P030,Relaxed Midi Dress - Grey,Dresses,Midi Dress,Fall/Winter,Grey,89.99,30.76
+P031,Urban Mini Dress - Beige,Dresses,Mini Dress,Fall/Winter,Beige,54.99,18.69
+P032,Classic Mini Dress - White,Dresses,Mini Dress,Core,White,109.99,42.44
+P033,Everyday Mini Dress - Grey,Dresses,Mini Dress,Fall/Winter,Grey,74.99,27.21
+P034,Everyday Jacket - Grey,Outerwear,Jacket,Fall/Winter,Grey,239.99,106.53
+P035,Signature Jacket - White,Outerwear,Jacket,Fall/Winter,White,119.99,48.93
+P036,Relaxed Jacket - Black,Outerwear,Jacket,Fall/Winter,Black,234.99,90.02
+P037,Everyday Coat - White,Outerwear,Coat,Fall/Winter,White,224.99,88.67
+P038,Studio Coat - Navy,Outerwear,Coat,Fall/Winter,Navy,114.99,47.93
+P039,Classic Coat - White,Outerwear,Coat,Fall/Winter,White,104.99,45.44
+P040,Everyday Blazer - White,Outerwear,Blazer,Fall/Winter,White,94.99,37.23
+P041,Classic Blazer - Sky Blue,Outerwear,Blazer,Fall/Winter,Sky Blue,124.99,48.97
+P042,Studio Blazer - Grey,Outerwear,Blazer,Fall/Winter,Grey,154.99,64.09
+P043,Slim Sneakers - Grey,Footwear,Sneakers,Fall/Winter,Grey,179.99,75.97
+P044,Weekend Sneakers - Black,Footwear,Sneakers,Fall/Winter,Black,64.99,26.66
+P045,Classic Sneakers - Navy,Footwear,Sneakers,Fall/Winter,Navy,119.99,58.97
+P046,Everyday Boots - White,Footwear,Boots,Fall/Winter,White,79.99,35.3
+P047,Urban Boots - Black,Footwear,Boots,Fall/Winter,Black,129.99,53.61
+P048,Studio Boots - Burgundy,Footwear,Boots,Fall/Winter,Burgundy,129.99,55.04
+P049,Slim Sandals - Sky Blue,Footwear,Sandals,Spring/Summer,Sky Blue,89.99,41.89
+P050,Classic Sandals - White,Footwear,Sandals,Spring/Summer,White,99.99,44.62
+P051,Cotton Sandals - White,Footwear,Sandals,Spring/Summer,White,179.99,76.35
+P052,Weekend Bag - Beige,Accessories,Bag,Core,Beige,89.99,25.84
+P053,Cotton Bag - Black,Accessories,Bag,Spring/Summer,Black,59.99,17.27
+P054,Relaxed Bag - Olive,Accessories,Bag,Core,Olive,89.99,29.1
+P055,Weekend Belt - Beige,Accessories,Belt,Spring/Summer,Beige,24.99,7.05
+P056,Classic Belt - Olive,Accessories,Belt,Spring/Summer,Olive,34.99,9.64
+P057,Slim Belt - Burgundy,Accessories,Belt,Core,Burgundy,34.99,10.78
+P058,Cotton Scarf - Sky Blue,Accessories,Scarf,Fall/Winter,Sky Blue,74.99,20.29
+P059,Cotton Scarf - Navy,Accessories,Scarf,Fall/Winter,Navy,84.99,23.13
+P060,Slim Scarf - Sky Blue,Accessories,Scarf,Fall/Winter,Sky Blue,59.99,16.35
+P061,Weekend Sunglasses - Black,Accessories,Sunglasses,Spring/Summer,Black,89.99,25.43
+P062,Urban Sunglasses - Sky Blue,Accessories,Sunglasses,Spring/Summer,Sky Blue,24.99,7.87
+P063,Slim Sunglasses - Navy,Accessories,Sunglasses,Spring/Summer,Navy,34.99,11.3

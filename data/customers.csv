@@ -1,0 +1,3001 @@
+customer_id,gender,age_group,city,region,signup_date,loyalty_tier
+C0001,Male,25-34,Philadelphia,East,2024-11-11,Silver
+C0002,Female,35-44,San Francisco,West,2024-06-30,Silver
+C0003,Female,45-54,San Francisco,West,2024-03-31,Bronze
+C0004,Female,35-44,San Francisco,West,2024-04-11,Bronze
+C0005,Female,25-34,Seattle,West,2024-07-25,Gold
+C0006,Female,55+,New York,East,2023-02-26,Bronze
+C0007,Female,25-34,Seattle,West,2023-03-20,Silver
+C0008,Female,45-54,Houston,South,2025-11-13,Bronze
+C0009,Female,35-44,Philadelphia,East,2023-01-04,Silver
+C0010,Female,18-24,Seattle,West,2024-02-08,Gold
+C0011,Male,25-34,Boston,East,2023-09-13,Silver
+C0012,Female,18-24,Miami,South,2024-08-28,Gold
+C0013,Female,25-34,Philadelphia,East,2023-12-23,Silver
+C0014,Female,25-34,Miami,South,2024-03-06,Bronze
+C0015,Female,35-44,Philadelphia,East,2024-03-13,Bronze
+C0016,Female,55+,Chicago,North,2024-11-17,Silver
+C0017,Female,18-24,Atlanta,South,2024-02-12,Silver
+C0018,Female,35-44,Los Angeles,West,2025-07-21,Silver
+C0019,Female,35-44,Houston,South,2025-03-29,Gold
+C0020,Male,18-24,Seattle,West,2023-08-07,Bronze
+C0021,Male,18-24,Chicago,North,2024-05-25,Silver
+C0022,Male,45-54,Philadelphia,East,2024-10-11,Silver
+C0023,Male,25-34,Los Angeles,West,2025-05-23,Silver
+C0024,Male,45-54,Boston,East,2024-06-14,Silver
+C0025,Female,18-24,Boston,East,2024-05-04,Bronze
+C0026,Female,18-24,Miami,South,2023-06-15,Bronze
+C0027,Female,25-34,Atlanta,South,2025-04-29,Bronze
+C0028,Male,25-34,Seattle,West,2025-03-08,Bronze
+C0029,Female,55+,San Francisco,West,2025-02-18,Silver
+C0030,Female,35-44,Seattle,West,2025-05-08,Gold
+C0031,Female,18-24,Boston,East,2024-07-12,Silver
+C0032,Male,45-54,Seattle,West,2023-12-05,Bronze
+C0033,Female,25-34,San Francisco,West,2023-02-25,Bronze
+C0034,Female,25-34,Atlanta,South,2024-11-01,Bronze
+C0035,Female,18-24,Los Angeles,West,2025-05-13,Silver
+C0036,Female,18-24,Detroit,North,2024-12-17,Bronze
+C0037,Female,18-24,Chicago,North,2024-05-21,Bronze
+C0038,Female,18-24,Philadelphia,East,2023-08-23,Bronze
+C0039,Male,18-24,Atlanta,South,2023-08-23,Bronze
+C0040,Female,45-54,Minneapolis,North,2024-09-30,Bronze
+C0041,Female,45-54,New York,East,2023-06-05,Bronze
+C0042,Male,25-34,Los Angeles,West,2023-09-05,Bronze
+C0043,Female,35-44,Houston,South,2025-01-28,Silver
+C0044,Female,25-34,San Francisco,West,2023-08-05,Silver
+C0045,Female,45-54,Atlanta,South,2024-07-07,Bronze
+C0046,Female,25-34,Los Angeles,West,2024-07-03,Bronze
+C0047,Female,35-44,Boston,East,2025-08-09,Bronze
+C0048,Female,25-34,San Francisco,West,2024-01-08,Bronze
+C0049,Female,25-34,Los Angeles,West,2024-07-19,Bronze
+C0050,Female,25-34,Boston,East,2025-09-27,Silver
+C0051,Female,18-24,Philadelphia,East,2023-02-05,Bronze
+C0052,Female,25-34,Boston,East,2025-01-25,Gold
+C0053,Male,25-34,Boston,East,2024-12-21,Bronze
+C0054,Female,25-34,Philadelphia,East,2024-10-08,Bronze
+C0055,Female,25-34,Miami,South,2025-09-18,Bronze
+C0056,Female,25-34,San Francisco,West,2024-02-02,Bronze
+C0057,Female,18-24,Boston,East,2024-07-15,Silver
+C0058,Female,18-24,Minneapolis,North,2025-10-02,Bronze
+C0059,Male,25-34,Boston,East,2024-01-13,Bronze
+C0060,Female,35-44,Chicago,North,2025-10-04,Bronze
+C0061,Female,25-34,Seattle,West,2024-09-14,Silver
+C0062,Male,25-34,Boston,East,2024-04-07,Bronze
+C0063,Female,35-44,Philadelphia,East,2025-05-28,Gold
+C0064,Male,25-34,Chicago,North,2024-03-01,Bronze
+C0065,Female,25-34,Detroit,North,2023-06-03,Bronze
+C0066,Female,25-34,Atlanta,South,2024-04-19,Bronze
+C0067,Male,35-44,Miami,South,2024-06-25,Silver
+C0068,Female,35-44,Minneapolis,North,2023-08-24,Silver
+C0069,Male,25-34,Detroit,North,2023-12-06,Gold
+C0070,Male,35-44,Atlanta,South,2025-08-17,Bronze
+C0071,Female,45-54,Philadelphia,East,2023-06-14,Bronze
+C0072,Female,35-44,Miami,South,2023-07-07,Bronze
+C0073,Female,35-44,Chicago,North,2024-07-05,Bronze
+C0074,Female,25-34,Philadelphia,East,2024-07-23,Silver
+C0075,Female,25-34,Seattle,West,2025-08-20,Bronze
+C0076,Male,25-34,Minneapolis,North,2025-04-23,Silver
+C0077,Female,25-34,New York,East,2025-07-20,Gold
+C0078,Male,25-34,Atlanta,South,2023-01-03,Bronze
+C0079,Male,35-44,New York,East,2025-10-17,Bronze
+C0080,Female,35-44,Chicago,North,2024-08-12,Bronze
+C0081,Male,25-34,New York,East,2024-05-05,Bronze
+C0082,Female,18-24,Chicago,North,2023-08-21,Bronze
+C0083,Male,25-34,Boston,East,2025-11-08,Gold
+C0084,Female,45-54,Miami,South,2023-10-24,Silver
+C0085,Female,35-44,Minneapolis,North,2023-05-23,Bronze
+C0086,Male,25-34,San Francisco,West,2024-07-01,Silver
+C0087,Male,25-34,Boston,East,2025-09-29,Bronze
+C0088,Female,25-34,New York,East,2025-02-11,Gold
+C0089,Female,35-44,Houston,South,2025-02-23,Bronze
+C0090,Female,35-44,Philadelphia,East,2025-02-19,Gold
+C0091,Female,55+,Boston,East,2023-03-17,Silver
+C0092,Female,45-54,Los Angeles,West,2025-06-20,Silver
+C0093,Female,35-44,Atlanta,South,2023-11-13,Bronze
+C0094,Male,45-54,Philadelphia,East,2023-06-14,Bronze
+C0095,Male,18-24,Houston,South,2025-09-26,Bronze
+C0096,Non-binary,35-44,Boston,East,2024-08-11,Gold
+C0097,Female,35-44,Los Angeles,West,2023-07-25,Bronze
+C0098,Female,25-34,Los Angeles,West,2024-08-23,Bronze
+C0099,Female,18-24,Boston,East,2024-01-04,Silver
+C0100,Female,35-44,Atlanta,South,2023-10-21,Bronze
+C0101,Male,35-44,Chicago,North,2025-08-10,Bronze
+C0102,Male,25-34,San Francisco,West,2024-09-04,Bronze
+C0103,Male,18-24,Atlanta,South,2025-02-26,Bronze
+C0104,Female,45-54,Boston,East,2024-08-27,Bronze
+C0105,Male,35-44,Boston,East,2023-04-11,Silver
+C0106,Female,18-24,Atlanta,South,2024-12-22,Silver
+C0107,Male,45-54,Philadelphia,East,2023-10-08,Bronze
+C0108,Female,35-44,Los Angeles,West,2023-03-10,Gold
+C0109,Female,18-24,Miami,South,2025-04-30,Silver
+C0110,Male,45-54,Atlanta,South,2025-10-24,Gold
+C0111,Male,25-34,Los Angeles,West,2024-08-27,Bronze
+C0112,Male,35-44,Minneapolis,North,2024-04-07,Gold
+C0113,Female,25-34,San Francisco,West,2025-01-19,Bronze
+C0114,Female,45-54,Boston,East,2024-06-20,Bronze
+C0115,Female,55+,Atlanta,South,2023-02-21,Gold
+C0116,Male,25-34,Miami,South,2023-05-10,Bronze
+C0117,Female,18-24,Atlanta,South,2023-10-14,Bronze
+C0118,Female,25-34,Miami,South,2023-10-05,Silver
+C0119,Male,35-44,Boston,East,2023-11-13,Silver
+C0120,Female,25-34,San Francisco,West,2024-07-26,Bronze
+C0121,Female,35-44,Miami,South,2025-01-12,Gold
+C0122,Female,18-24,New York,East,2023-05-05,Gold
+C0123,Male,35-44,Seattle,West,2023-07-07,Gold
+C0124,Female,18-24,Detroit,North,2024-11-14,Bronze
+C0125,Female,35-44,Los Angeles,West,2024-02-29,Bronze
+C0126,Female,55+,Chicago,North,2023-01-06,Bronze
+C0127,Male,18-24,Los Angeles,West,2023-08-14,Bronze
+C0128,Female,25-34,Los Angeles,West,2024-10-25,Silver
+C0129,Female,35-44,Philadelphia,East,2023-05-11,Bronze
+C0130,Male,18-24,Philadelphia,East,2024-03-29,Bronze
+C0131,Female,25-34,Boston,East,2023-03-05,Bronze
+C0132,Female,18-24,Detroit,North,2025-06-27,Bronze
+C0133,Female,25-34,Minneapolis,North,2024-10-27,Bronze
+C0134,Male,18-24,Philadelphia,East,2023-07-23,Silver
+C0135,Female,45-54,San Francisco,West,2024-03-16,Bronze
+C0136,Male,25-34,Boston,East,2025-05-01,Silver
+C0137,Male,25-34,Houston,South,2023-11-09,Silver
+C0138,Male,25-34,Chicago,North,2023-07-17,Bronze
+C0139,Male,25-34,Philadelphia,East,2024-11-06,Gold
+C0140,Male,35-44,Atlanta,South,2023-04-16,Bronze
+C0141,Male,18-24,New York,East,2023-11-13,Bronze
+C0142,Male,25-34,Boston,East,2023-08-24,Silver
+C0143,Female,35-44,Seattle,West,2023-02-23,Bronze
+C0144,Male,25-34,Chicago,North,2024-09-24,Silver
+C0145,Female,35-44,New York,East,2025-03-31,Bronze
+C0146,Female,25-34,Boston,East,2025-02-09,Bronze
+C0147,Male,18-24,Miami,South,2023-06-23,Bronze
+C0148,Male,25-34,Minneapolis,North,2025-06-26,Bronze
+C0149,Female,25-34,Atlanta,South,2025-11-15,Silver
+C0150,Female,25-34,Philadelphia,East,2024-09-23,Bronze
+C0151,Male,35-44,Atlanta,South,2024-03-08,Bronze
+C0152,Female,25-34,Detroit,North,2025-05-31,Bronze
+C0153,Female,45-54,New York,East,2024-12-26,Bronze
+C0154,Male,25-34,Philadelphia,East,2023-06-09,Bronze
+C0155,Female,18-24,Boston,East,2024-08-15,Bronze
+C0156,Male,45-54,Los Angeles,West,2025-07-31,Bronze
+C0157,Female,25-34,Minneapolis,North,2025-06-11,Silver
+C0158,Female,18-24,Seattle,West,2024-03-29,Silver
+C0159,Male,25-34,Philadelphia,East,2024-02-02,Gold
+C0160,Female,18-24,New York,East,2023-10-30,Bronze
+C0161,Female,35-44,Minneapolis,North,2023-06-04,Bronze
+C0162,Male,45-54,Philadelphia,East,2025-07-08,Silver
+C0163,Female,18-24,Boston,East,2024-10-09,Silver
+C0164,Female,18-24,San Francisco,West,2023-04-26,Bronze
+C0165,Female,45-54,Chicago,North,2024-08-10,Silver
+C0166,Female,55+,Philadelphia,East,2025-08-05,Gold
+C0167,Female,25-34,New York,East,2024-01-21,Gold
+C0168,Non-binary,18-24,Philadelphia,East,2024-12-04,Bronze
+C0169,Non-binary,25-34,Miami,South,2025-06-15,Bronze
+C0170,Female,35-44,Miami,South,2024-08-02,Bronze
+C0171,Female,18-24,Seattle,West,2024-11-16,Bronze
+C0172,Female,25-34,Houston,South,2023-11-04,Gold
+C0173,Female,35-44,Houston,South,2025-03-13,Bronze
+C0174,Male,35-44,Miami,South,2024-11-03,Gold
+C0175,Male,25-34,San Francisco,West,2023-07-11,Bronze
+C0176,Female,35-44,Houston,South,2024-03-14,Bronze
+C0177,Female,35-44,Detroit,North,2023-06-08,Silver
+C0178,Male,45-54,Seattle,West,2023-03-19,Bronze
+C0179,Female,35-44,Miami,South,2023-11-29,Silver
+C0180,Female,25-34,Detroit,North,2025-06-15,Bronze
+C0181,Male,35-44,New York,East,2024-08-06,Bronze
+C0182,Male,18-24,Miami,South,2025-08-18,Gold
+C0183,Male,35-44,Seattle,West,2025-08-03,Bronze
+C0184,Male,18-24,San Francisco,West,2024-02-13,Bronze
+C0185,Female,18-24,Philadelphia,East,2025-01-30,Silver
+C0186,Female,45-54,Houston,South,2023-11-25,Silver
+C0187,Male,45-54,Chicago,North,2024-03-30,Bronze
+C0188,Female,55+,Atlanta,South,2025-02-04,Bronze
+C0189,Male,35-44,Houston,South,2023-07-22,Bronze
+C0190,Male,18-24,Miami,South,2025-08-25,Bronze
+C0191,Female,18-24,New York,East,2023-06-12,Bronze
+C0192,Female,25-34,Boston,East,2025-05-16,Bronze
+C0193,Female,45-54,Atlanta,South,2025-07-25,Bronze
+C0194,Male,25-34,Chicago,North,2024-05-10,Silver
+C0195,Female,35-44,Miami,South,2025-05-03,Gold
+C0196,Male,25-34,Chicago,North,2025-11-05,Bronze
+C0197,Non-binary,25-34,New York,East,2025-03-03,Bronze
+C0198,Male,35-44,Detroit,North,2024-05-08,Silver
+C0199,Female,25-34,Miami,South,2023-04-01,Bronze
+C0200,Non-binary,25-34,Los Angeles,West,2025-08-09,Silver
+C0201,Female,18-24,Chicago,North,2025-07-26,Gold
+C0202,Female,55+,Miami,South,2024-09-27,Bronze
+C0203,Female,45-54,Chicago,North,2024-01-27,Silver
+C0204,Male,25-34,Atlanta,South,2023-09-12,Silver
+C0205,Female,18-24,Seattle,West,2025-03-02,Bronze
+C0206,Male,35-44,Los Angeles,West,2024-06-30,Bronze
+C0207,Female,25-34,Los Angeles,West,2024-01-05,Bronze
+C0208,Female,25-34,Miami,South,2025-07-02,Bronze
+C0209,Female,25-34,Philadelphia,East,2024-12-23,Gold
+C0210,Male,25-34,Seattle,West,2023-06-03,Silver
+C0211,Female,35-44,Boston,East,2023-03-05,Bronze
+C0212,Female,55+,Chicago,North,2025-01-20,Silver
+C0213,Female,35-44,Philadelphia,East,2025-01-29,Bronze
+C0214,Male,25-34,Houston,South,2024-10-05,Bronze
+C0215,Male,18-24,Minneapolis,North,2025-03-03,Silver
+C0216,Male,55+,Houston,South,2024-08-07,Bronze
+C0217,Female,35-44,Los Angeles,West,2025-07-14,Silver
+C0218,Male,35-44,Seattle,West,2024-10-16,Bronze
+C0219,Male,45-54,Seattle,West,2023-11-19,Bronze
+C0220,Female,18-24,Houston,South,2024-04-04,Bronze
+C0221,Female,25-34,Philadelphia,East,2025-01-09,Bronze
+C0222,Female,55+,Seattle,West,2023-05-15,Bronze
+C0223,Male,18-24,Atlanta,South,2025-04-18,Silver
+C0224,Female,45-54,Philadelphia,East,2024-12-06,Silver
+C0225,Female,45-54,Chicago,North,2023-09-22,Silver
+C0226,Female,25-34,Philadelphia,East,2024-09-14,Bronze
+C0227,Male,25-34,Seattle,West,2024-08-04,Gold
+C0228,Female,18-24,Miami,South,2024-09-12,Bronze
+C0229,Female,35-44,Seattle,West,2023-11-12,Bronze
+C0230,Male,18-24,Los Angeles,West,2023-03-26,Gold
+C0231,Male,35-44,San Francisco,West,2024-06-26,Silver
+C0232,Male,25-34,Chicago,North,2024-08-16,Silver
+C0233,Female,35-44,New York,East,2024-09-01,Bronze
+C0234,Female,18-24,Philadelphia,East,2024-02-22,Bronze
+C0235,Non-binary,18-24,San Francisco,West,2024-12-08,Bronze
+C0236,Female,25-34,Chicago,North,2024-05-10,Bronze
+C0237,Male,25-34,Chicago,North,2025-02-25,Silver
+C0238,Female,18-24,Seattle,West,2024-10-02,Bronze
+C0239,Female,55+,Seattle,West,2025-10-15,Bronze
+C0240,Female,25-34,Miami,South,2024-12-23,Gold
+C0241,Female,18-24,New York,East,2025-08-21,Bronze
+C0242,Male,25-34,San Francisco,West,2025-01-19,Bronze
+C0243,Female,18-24,Philadelphia,East,2025-01-12,Bronze
+C0244,Female,18-24,Boston,East,2023-09-01,Silver
+C0245,Male,18-24,Miami,South,2025-01-18,Bronze
+C0246,Female,25-34,Minneapolis,North,2023-03-21,Bronze
+C0247,Female,35-44,Chicago,North,2023-10-14,Bronze
+C0248,Female,25-34,Philadelphia,East,2024-09-04,Bronze
+C0249,Female,18-24,Boston,East,2024-09-05,Silver
+C0250,Male,35-44,Seattle,West,2024-09-22,Silver
+C0251,Male,35-44,Philadelphia,East,2024-06-27,Bronze
+C0252,Female,35-44,Philadelphia,East,2025-09-10,Silver
+C0253,Female,55+,Houston,South,2024-05-11,Bronze
+C0254,Female,35-44,Boston,East,2025-05-07,Bronze
+C0255,Male,35-44,New York,East,2025-08-23,Silver
+C0256,Non-binary,25-34,Boston,East,2024-10-27,Bronze
+C0257,Female,35-44,Detroit,North,2024-12-02,Silver
+C0258,Female,18-24,Los Angeles,West,2024-06-25,Bronze
+C0259,Male,35-44,Miami,South,2024-09-01,Silver
+C0260,Female,45-54,Miami,South,2024-12-15,Bronze
+C0261,Male,25-34,Minneapolis,North,2025-02-16,Gold
+C0262,Female,55+,Los Angeles,West,2024-08-17,Bronze
+C0263,Male,18-24,Philadelphia,East,2024-06-09,Bronze
+C0264,Female,35-44,Philadelphia,East,2024-07-10,Bronze
+C0265,Male,18-24,Minneapolis,North,2024-04-07,Bronze
+C0266,Female,25-34,New York,East,2023-10-09,Bronze
+C0267,Female,18-24,San Francisco,West,2025-09-01,Bronze
+C0268,Male,18-24,Philadelphia,East,2023-07-03,Silver
+C0269,Female,45-54,Los Angeles,West,2023-12-25,Gold
+C0270,Female,35-44,Atlanta,South,2025-10-11,Silver
+C0271,Male,25-34,Minneapolis,North,2023-08-08,Gold
+C0272,Male,18-24,Philadelphia,East,2025-10-08,Bronze
+C0273,Female,35-44,Detroit,North,2023-08-19,Bronze
+C0274,Male,25-34,Chicago,North,2024-11-21,Bronze
+C0275,Male,25-34,Los Angeles,West,2025-04-10,Bronze
+C0276,Female,45-54,Chicago,North,2023-10-15,Bronze
+C0277,Male,25-34,Miami,South,2024-06-30,Bronze
+C0278,Male,18-24,Houston,South,2025-01-06,Bronze
+C0279,Male,45-54,Minneapolis,North,2025-10-26,Silver
+C0280,Female,18-24,New York,East,2024-08-27,Bronze
+C0281,Female,25-34,Boston,East,2025-02-04,Silver
+C0282,Male,35-44,Seattle,West,2024-03-23,Silver
+C0283,Female,25-34,Detroit,North,2025-07-03,Bronze
+C0284,Female,25-34,Los Angeles,West,2025-11-01,Bronze
+C0285,Male,35-44,Boston,East,2023-08-27,Bronze
+C0286,Female,25-34,Boston,East,2023-04-24,Bronze
+C0287,Male,25-34,New York,East,2024-09-23,Silver
+C0288,Female,35-44,Philadelphia,East,2023-04-03,Gold
+C0289,Non-binary,25-34,San Francisco,West,2023-05-22,Bronze
+C0290,Female,45-54,San Francisco,West,2025-05-10,Silver
+C0291,Female,55+,Seattle,West,2025-02-08,Bronze
+C0292,Female,25-34,Seattle,West,2023-08-31,Bronze
+C0293,Male,55+,San Francisco,West,2023-01-08,Silver
+C0294,Male,25-34,Boston,East,2025-02-15,Bronze
+C0295,Female,35-44,Detroit,North,2023-08-20,Silver
+C0296,Female,18-24,Seattle,West,2023-02-02,Bronze
+C0297,Female,18-24,Boston,East,2023-04-10,Bronze
+C0298,Female,55+,Houston,South,2023-04-26,Silver
+C0299,Female,35-44,Boston,East,2024-10-15,Bronze
+C0300,Female,25-34,Seattle,West,2024-03-28,Gold
+C0301,Male,25-34,San Francisco,West,2023-12-25,Bronze
+C0302,Male,25-34,Atlanta,South,2025-02-19,Bronze
+C0303,Male,25-34,Houston,South,2024-01-12,Bronze
+C0304,Male,25-34,Boston,East,2025-08-06,Bronze
+C0305,Female,25-34,Chicago,North,2024-05-12,Gold
+C0306,Female,45-54,Los Angeles,West,2023-07-09,Bronze
+C0307,Male,18-24,Philadelphia,East,2023-03-22,Silver
+C0308,Female,45-54,Boston,East,2025-09-08,Gold
+C0309,Male,18-24,Minneapolis,North,2024-01-25,Gold
+C0310,Female,18-24,Boston,East,2024-02-23,Silver
+C0311,Female,25-34,Atlanta,South,2025-01-05,Bronze
+C0312,Male,25-34,Los Angeles,West,2025-08-19,Bronze
+C0313,Male,18-24,Miami,South,2024-03-29,Gold
+C0314,Female,18-24,New York,East,2025-05-05,Bronze
+C0315,Female,55+,San Francisco,West,2025-10-19,Bronze
+C0316,Female,35-44,San Francisco,West,2025-10-01,Bronze
+C0317,Female,45-54,Philadelphia,East,2025-09-27,Gold
+C0318,Male,35-44,New York,East,2023-06-02,Bronze
+C0319,Female,18-24,Los Angeles,West,2024-04-18,Bronze
+C0320,Male,18-24,Miami,South,2025-09-16,Bronze
+C0321,Female,25-34,Detroit,North,2024-07-16,Silver
+C0322,Female,18-24,New York,East,2024-01-03,Bronze
+C0323,Male,25-34,Boston,East,2024-05-31,Bronze
+C0324,Female,55+,Los Angeles,West,2025-07-29,Bronze
+C0325,Male,45-54,Los Angeles,West,2023-06-15,Bronze
+C0326,Female,18-24,Houston,South,2025-09-01,Bronze
+C0327,Female,45-54,Los Angeles,West,2024-11-09,Gold
+C0328,Female,45-54,Seattle,West,2024-04-15,Bronze
+C0329,Male,25-34,Detroit,North,2023-06-02,Bronze
+C0330,Female,18-24,Chicago,North,2024-10-06,Silver
+C0331,Male,25-34,Philadelphia,East,2025-03-26,Bronze
+C0332,Male,25-34,San Francisco,West,2025-03-07,Silver
+C0333,Female,55+,Chicago,North,2023-06-10,Bronze
+C0334,Female,35-44,Miami,South,2023-06-05,Bronze
+C0335,Male,35-44,San Francisco,West,2023-03-02,Bronze
+C0336,Female,35-44,Miami,South,2025-02-07,Bronze
+C0337,Male,35-44,Los Angeles,West,2024-08-27,Bronze
+C0338,Male,25-34,Houston,South,2023-11-12,Bronze
+C0339,Female,25-34,Los Angeles,West,2025-06-29,Bronze
+C0340,Female,18-24,Atlanta,South,2025-11-15,Bronze
+C0341,Male,18-24,Boston,East,2024-10-26,Bronze
+C0342,Female,18-24,Minneapolis,North,2024-05-12,Bronze
+C0343,Female,18-24,Atlanta,South,2024-07-03,Bronze
+C0344,Female,55+,Miami,South,2023-06-07,Silver
+C0345,Female,18-24,New York,East,2024-02-05,Gold
+C0346,Male,25-34,Atlanta,South,2025-02-17,Bronze
+C0347,Female,35-44,Seattle,West,2023-10-06,Bronze
+C0348,Male,25-34,Miami,South,2025-03-26,Silver
+C0349,Female,25-34,San Francisco,West,2024-05-11,Bronze
+C0350,Female,25-34,Seattle,West,2024-02-14,Silver
+C0351,Male,18-24,Minneapolis,North,2025-08-03,Silver
+C0352,Male,18-24,Minneapolis,North,2025-04-17,Bronze
+C0353,Male,18-24,Philadelphia,East,2025-05-16,Bronze
+C0354,Male,45-54,Atlanta,South,2025-11-03,Bronze
+C0355,Male,35-44,Seattle,West,2025-01-06,Silver
+C0356,Male,25-34,Detroit,North,2024-05-23,Silver
+C0357,Male,25-34,Boston,East,2025-03-29,Bronze
+C0358,Female,25-34,Detroit,North,2024-03-30,Silver
+C0359,Female,35-44,Miami,South,2025-02-05,Silver
+C0360,Female,25-34,Chicago,North,2023-02-20,Bronze
+C0361,Female,25-34,Los Angeles,West,2023-10-18,Bronze
+C0362,Female,35-44,Atlanta,South,2023-07-19,Bronze
+C0363,Female,25-34,Chicago,North,2023-08-24,Silver
+C0364,Female,25-34,Minneapolis,North,2024-05-14,Bronze
+C0365,Male,35-44,Los Angeles,West,2024-04-19,Silver
+C0366,Male,45-54,Atlanta,South,2023-03-01,Bronze
+C0367,Female,35-44,Houston,South,2024-03-15,Bronze
+C0368,Female,18-24,Los Angeles,West,2024-01-18,Bronze
+C0369,Female,35-44,Seattle,West,2024-10-03,Bronze
+C0370,Female,35-44,Miami,South,2025-07-26,Silver
+C0371,Male,25-34,Los Angeles,West,2023-06-23,Bronze
+C0372,Female,25-34,Chicago,North,2023-10-17,Bronze
+C0373,Male,35-44,Miami,South,2025-09-23,Gold
+C0374,Female,18-24,Minneapolis,North,2023-12-08,Silver
+C0375,Male,25-34,New York,East,2025-01-05,Silver
+C0376,Male,25-34,San Francisco,West,2025-11-01,Bronze
+C0377,Female,25-34,Los Angeles,West,2025-09-27,Bronze
+C0378,Female,25-34,Miami,South,2024-08-14,Silver
+C0379,Female,18-24,Philadelphia,East,2025-11-12,Silver
+C0380,Male,25-34,Houston,South,2023-03-27,Gold
+C0381,Female,55+,Minneapolis,North,2024-05-21,Bronze
+C0382,Female,55+,Los Angeles,West,2023-06-28,Bronze
+C0383,Male,35-44,Boston,East,2024-12-19,Bronze
+C0384,Male,35-44,Detroit,North,2024-02-28,Bronze
+C0385,Female,35-44,Atlanta,South,2023-12-11,Bronze
+C0386,Female,35-44,San Francisco,West,2023-07-15,Gold
+C0387,Male,18-24,Los Angeles,West,2023-09-17,Silver
+C0388,Female,25-34,San Francisco,West,2025-03-15,Silver
+C0389,Male,45-54,Houston,South,2023-06-04,Bronze
+C0390,Female,25-34,Seattle,West,2025-01-25,Bronze
+C0391,Male,25-34,Seattle,West,2023-07-10,Silver
+C0392,Female,25-34,Los Angeles,West,2025-03-25,Bronze
+C0393,Female,25-34,Miami,South,2024-08-03,Silver
+C0394,Female,35-44,San Francisco,West,2023-04-10,Bronze
+C0395,Female,18-24,San Francisco,West,2023-11-20,Bronze
+C0396,Male,25-34,Boston,East,2023-09-28,Bronze
+C0397,Female,45-54,Houston,South,2023-06-18,Bronze
+C0398,Female,18-24,New York,East,2024-04-24,Bronze
+C0399,Female,25-34,Boston,East,2023-09-29,Bronze
+C0400,Non-binary,25-34,New York,East,2023-09-04,Bronze
+C0401,Male,18-24,Atlanta,South,2023-07-02,Bronze
+C0402,Male,35-44,Houston,South,2025-02-22,Silver
+C0403,Female,18-24,Philadelphia,East,2023-05-21,Bronze
+C0404,Male,18-24,Atlanta,South,2024-03-12,Silver
+C0405,Female,18-24,New York,East,2024-03-20,Bronze
+C0406,Female,18-24,Atlanta,South,2025-05-29,Silver
+C0407,Male,35-44,Miami,South,2024-08-06,Silver
+C0408,Female,25-34,Miami,South,2025-11-09,Bronze
+C0409,Female,18-24,San Francisco,West,2024-05-05,Silver
+C0410,Non-binary,45-54,Chicago,North,2023-01-25,Bronze
+C0411,Female,35-44,San Francisco,West,2025-05-11,Gold
+C0412,Female,18-24,Los Angeles,West,2023-02-04,Bronze
+C0413,Female,35-44,Detroit,North,2025-03-26,Silver
+C0414,Female,25-34,Miami,South,2025-04-03,Bronze
+C0415,Female,18-24,Chicago,North,2023-06-11,Bronze
+C0416,Female,25-34,Houston,South,2023-05-16,Bronze
+C0417,Female,35-44,Chicago,North,2025-06-08,Bronze
+C0418,Female,35-44,Seattle,West,2023-12-26,Bronze
+C0419,Female,35-44,Philadelphia,East,2024-12-11,Bronze
+C0420,Male,18-24,Houston,South,2024-07-04,Bronze
+C0421,Female,55+,Miami,South,2023-05-11,Bronze
+C0422,Female,45-54,New York,East,2025-01-07,Bronze
+C0423,Male,35-44,Houston,South,2023-07-30,Bronze
+C0424,Male,18-24,New York,East,2023-04-01,Bronze
+C0425,Female,55+,Houston,South,2023-11-04,Bronze
+C0426,Female,25-34,Seattle,West,2025-05-08,Bronze
+C0427,Female,35-44,Los Angeles,West,2025-02-02,Bronze
+C0428,Male,18-24,San Francisco,West,2023-04-05,Silver
+C0429,Female,25-34,Los Angeles,West,2024-09-28,Bronze
+C0430,Male,25-34,Atlanta,South,2024-09-14,Bronze
+C0431,Male,25-34,New York,East,2024-02-05,Bronze
+C0432,Female,25-34,Seattle,West,2023-02-18,Silver
+C0433,Male,25-34,Seattle,West,2023-01-03,Silver
+C0434,Female,55+,Chicago,North,2024-05-02,Silver
+C0435,Male,25-34,Detroit,North,2024-04-19,Gold
+C0436,Female,25-34,Philadelphia,East,2023-06-23,Silver
+C0437,Female,55+,Chicago,North,2023-05-08,Bronze
+C0438,Male,35-44,San Francisco,West,2025-03-15,Bronze
+C0439,Female,35-44,Houston,South,2024-02-20,Bronze
+C0440,Female,18-24,Minneapolis,North,2025-08-12,Gold
+C0441,Female,45-54,Houston,South,2024-09-23,Bronze
+C0442,Female,45-54,New York,East,2023-03-24,Bronze
+C0443,Female,18-24,Atlanta,South,2024-12-29,Bronze
+C0444,Male,45-54,Seattle,West,2023-03-05,Silver
+C0445,Female,35-44,Houston,South,2025-08-04,Bronze
+C0446,Female,45-54,San Francisco,West,2024-03-31,Silver
+C0447,Female,25-34,Los Angeles,West,2023-06-22,Bronze
+C0448,Male,18-24,Minneapolis,North,2025-06-27,Bronze
+C0449,Female,25-34,Seattle,West,2023-04-14,Bronze
+C0450,Female,18-24,Chicago,North,2025-05-23,Bronze
+C0451,Female,35-44,New York,East,2023-11-01,Silver
+C0452,Female,25-34,New York,East,2025-09-08,Bronze
+C0453,Male,35-44,New York,East,2024-05-25,Gold
+C0454,Female,35-44,San Francisco,West,2025-01-05,Gold
+C0455,Female,18-24,Philadelphia,East,2025-03-06,Bronze
+C0456,Female,55+,Seattle,West,2024-07-29,Bronze
+C0457,Non-binary,18-24,Philadelphia,East,2024-04-21,Bronze
+C0458,Male,55+,Philadelphia,East,2023-04-25,Silver
+C0459,Male,55+,Los Angeles,West,2024-12-27,Bronze
+C0460,Male,18-24,Philadelphia,East,2025-01-04,Bronze
+C0461,Female,18-24,Boston,East,2023-10-19,Bronze
+C0462,Female,18-24,Chicago,North,2023-03-19,Bronze
+C0463,Male,18-24,New York,East,2024-11-10,Bronze
+C0464,Female,18-24,Detroit,North,2024-10-24,Gold
+C0465,Male,25-34,Seattle,West,2025-01-17,Bronze
+C0466,Female,55+,Detroit,North,2024-09-10,Gold
+C0467,Male,18-24,Seattle,West,2025-09-24,Silver
+C0468,Female,25-34,Los Angeles,West,2024-12-31,Bronze
+C0469,Female,35-44,Philadelphia,East,2024-08-26,Gold
+C0470,Female,25-34,Miami,South,2023-03-08,Bronze
+C0471,Female,35-44,New York,East,2025-10-13,Bronze
+C0472,Male,35-44,Miami,South,2023-07-01,Gold
+C0473,Female,35-44,Boston,East,2024-06-27,Bronze
+C0474,Female,25-34,Minneapolis,North,2023-01-03,Gold
+C0475,Male,25-34,San Francisco,West,2025-10-06,Bronze
+C0476,Female,18-24,New York,East,2024-04-06,Bronze
+C0477,Female,18-24,Atlanta,South,2023-08-03,Bronze
+C0478,Female,55+,Minneapolis,North,2023-07-10,Silver
+C0479,Female,25-34,Houston,South,2023-12-04,Bronze
+C0480,Female,25-34,Miami,South,2024-01-25,Bronze
+C0481,Female,18-24,Philadelphia,East,2024-09-01,Bronze
+C0482,Female,25-34,Boston,East,2023-04-22,Silver
+C0483,Female,18-24,New York,East,2025-09-10,Silver
+C0484,Male,25-34,San Francisco,West,2025-08-27,Bronze
+C0485,Female,25-34,Los Angeles,West,2024-06-26,Bronze
+C0486,Female,25-34,Atlanta,South,2024-01-18,Bronze
+C0487,Female,35-44,Los Angeles,West,2023-05-07,Bronze
+C0488,Non-binary,25-34,Miami,South,2025-04-27,Bronze
+C0489,Male,35-44,Atlanta,South,2025-05-07,Bronze
+C0490,Female,45-54,Miami,South,2024-09-04,Bronze
+C0491,Female,35-44,New York,East,2023-10-29,Gold
+C0492,Male,18-24,Minneapolis,North,2024-03-09,Bronze
+C0493,Non-binary,35-44,Philadelphia,East,2024-02-18,Bronze
+C0494,Female,25-34,Seattle,West,2023-05-18,Bronze
+C0495,Male,18-24,Miami,South,2025-07-27,Silver
+C0496,Female,18-24,Philadelphia,East,2025-05-09,Bronze
+C0497,Male,25-34,Los Angeles,West,2023-07-25,Silver
+C0498,Male,25-34,Seattle,West,2024-12-05,Bronze
+C0499,Female,25-34,Philadelphia,East,2023-03-18,Silver
+C0500,Female,45-54,Philadelphia,East,2023-03-21,Bronze
+C0501,Male,18-24,San Francisco,West,2024-07-04,Bronze
+C0502,Non-binary,18-24,San Francisco,West,2023-07-21,Gold
+C0503,Female,25-34,Philadelphia,East,2024-10-19,Bronze
+C0504,Male,35-44,Boston,East,2025-04-13,Silver
+C0505,Female,35-44,Boston,East,2023-11-22,Bronze
+C0506,Female,45-54,Los Angeles,West,2023-03-01,Silver
+C0507,Female,25-34,Houston,South,2025-07-23,Bronze
+C0508,Female,45-54,Seattle,West,2025-10-31,Bronze
+C0509,Female,45-54,Miami,South,2025-07-02,Bronze
+C0510,Male,35-44,Atlanta,South,2024-06-13,Bronze
+C0511,Male,35-44,Detroit,North,2024-03-14,Bronze
+C0512,Male,55+,Philadelphia,East,2023-02-11,Bronze
+C0513,Female,18-24,San Francisco,West,2023-12-21,Silver
+C0514,Female,25-34,San Francisco,West,2024-07-17,Bronze
+C0515,Male,45-54,Atlanta,South,2024-09-10,Bronze
+C0516,Female,25-34,Minneapolis,North,2025-02-05,Bronze
+C0517,Female,25-34,Minneapolis,North,2023-05-11,Silver
+C0518,Female,25-34,Houston,South,2024-09-03,Gold
+C0519,Male,35-44,Seattle,West,2025-04-07,Bronze
+C0520,Female,25-34,Boston,East,2024-08-28,Silver
+C0521,Female,35-44,Philadelphia,East,2024-01-24,Bronze
+C0522,Female,45-54,Seattle,West,2025-01-04,Silver
+C0523,Female,35-44,Detroit,North,2023-07-19,Silver
+C0524,Male,45-54,Seattle,West,2024-01-10,Bronze
+C0525,Female,45-54,Atlanta,South,2024-09-20,Bronze
+C0526,Female,45-54,Miami,South,2023-08-30,Bronze
+C0527,Male,25-34,Philadelphia,East,2025-08-25,Bronze
+C0528,Male,18-24,Houston,South,2023-04-21,Bronze
+C0529,Female,45-54,Los Angeles,West,2025-07-26,Silver
+C0530,Female,18-24,Boston,East,2023-12-29,Bronze
+C0531,Female,18-24,Los Angeles,West,2023-12-12,Bronze
+C0532,Female,55+,Atlanta,South,2025-05-29,Bronze
+C0533,Male,45-54,Philadelphia,East,2025-02-03,Bronze
+C0534,Female,45-54,Boston,East,2024-05-24,Bronze
+C0535,Female,45-54,Atlanta,South,2024-09-18,Gold
+C0536,Female,35-44,New York,East,2024-11-22,Bronze
+C0537,Male,18-24,San Francisco,West,2025-01-05,Bronze
+C0538,Female,18-24,Miami,South,2023-09-26,Bronze
+C0539,Female,35-44,Miami,South,2023-03-18,Silver
+C0540,Male,35-44,New York,East,2023-04-09,Bronze
+C0541,Female,25-34,Minneapolis,North,2025-06-28,Silver
+C0542,Female,35-44,Miami,South,2023-01-20,Bronze
+C0543,Female,45-54,Philadelphia,East,2023-10-08,Silver
+C0544,Male,25-34,Detroit,North,2023-08-22,Bronze
+C0545,Female,25-34,Houston,South,2024-02-18,Bronze
+C0546,Male,25-34,New York,East,2024-03-01,Bronze
+C0547,Male,35-44,New York,East,2023-08-15,Gold
+C0548,Male,18-24,San Francisco,West,2023-06-03,Silver
+C0549,Female,18-24,New York,East,2024-08-29,Silver
+C0550,Male,25-34,Seattle,West,2025-01-07,Bronze
+C0551,Female,18-24,Seattle,West,2023-04-04,Bronze
+C0552,Male,25-34,Miami,South,2025-06-15,Bronze
+C0553,Female,25-34,San Francisco,West,2024-01-10,Bronze
+C0554,Male,35-44,Houston,South,2025-09-06,Bronze
+C0555,Non-binary,45-54,New York,East,2023-05-01,Bronze
+C0556,Female,25-34,Boston,East,2025-06-16,Silver
+C0557,Female,25-34,San Francisco,West,2023-09-25,Bronze
+C0558,Female,45-54,Detroit,North,2024-10-05,Silver
+C0559,Non-binary,35-44,Boston,East,2024-04-03,Bronze
+C0560,Female,35-44,Boston,East,2023-07-15,Bronze
+C0561,Female,45-54,Philadelphia,East,2025-02-27,Bronze
+C0562,Female,25-34,Boston,East,2023-11-18,Silver
+C0563,Female,25-34,Minneapolis,North,2025-10-03,Bronze
+C0564,Female,18-24,Atlanta,South,2025-02-14,Bronze
+C0565,Male,25-34,New York,East,2023-06-30,Gold
+C0566,Female,25-34,Seattle,West,2023-02-06,Bronze
+C0567,Male,25-34,Seattle,West,2024-09-15,Silver
+C0568,Male,35-44,San Francisco,West,2025-01-14,Bronze
+C0569,Male,25-34,San Francisco,West,2025-08-26,Bronze
+C0570,Female,25-34,Seattle,West,2024-03-30,Gold
+C0571,Male,18-24,Houston,South,2025-02-04,Bronze
+C0572,Female,35-44,Los Angeles,West,2025-04-18,Bronze
+C0573,Female,35-44,Seattle,West,2024-03-17,Bronze
+C0574,Male,45-54,Seattle,West,2023-04-06,Bronze
+C0575,Male,55+,Los Angeles,West,2025-07-25,Gold
+C0576,Female,25-34,Detroit,North,2023-04-10,Bronze
+C0577,Male,18-24,New York,East,2023-12-29,Bronze
+C0578,Female,25-34,Philadelphia,East,2024-10-21,Gold
+C0579,Female,25-34,San Francisco,West,2024-07-14,Bronze
+C0580,Female,45-54,Detroit,North,2025-04-25,Bronze
+C0581,Male,45-54,Philadelphia,East,2024-10-04,Bronze
+C0582,Male,45-54,Houston,South,2024-08-18,Gold
+C0583,Female,35-44,Boston,East,2023-12-31,Silver
+C0584,Female,55+,Seattle,West,2025-09-10,Bronze
+C0585,Male,25-34,Los Angeles,West,2024-08-08,Bronze
+C0586,Female,18-24,Minneapolis,North,2023-10-25,Silver
+C0587,Male,18-24,Chicago,North,2024-08-09,Silver
+C0588,Female,25-34,Miami,South,2023-03-08,Silver
+C0589,Male,25-34,New York,East,2024-04-04,Bronze
+C0590,Male,18-24,San Francisco,West,2024-08-12,Bronze
+C0591,Male,18-24,Seattle,West,2024-10-02,Bronze
+C0592,Male,45-54,Philadelphia,East,2025-06-26,Silver
+C0593,Male,55+,Atlanta,South,2024-02-07,Bronze
+C0594,Female,18-24,Seattle,West,2023-06-02,Bronze
+C0595,Female,18-24,Detroit,North,2024-07-25,Silver
+C0596,Male,18-24,Chicago,North,2025-08-13,Gold
+C0597,Female,25-34,Boston,East,2024-09-08,Bronze
+C0598,Male,25-34,Philadelphia,East,2024-03-26,Bronze
+C0599,Female,18-24,New York,East,2025-04-06,Silver
+C0600,Female,35-44,Miami,South,2024-08-24,Bronze
+C0601,Female,25-34,New York,East,2023-01-19,Gold
+C0602,Male,35-44,Boston,East,2024-05-14,Bronze
+C0603,Female,25-34,San Francisco,West,2023-08-21,Bronze
+C0604,Female,25-34,Boston,East,2025-02-06,Bronze
+C0605,Female,18-24,Los Angeles,West,2024-01-30,Bronze
+C0606,Male,18-24,Seattle,West,2023-01-16,Silver
+C0607,Male,18-24,Seattle,West,2025-05-18,Silver
+C0608,Male,45-54,Seattle,West,2025-06-10,Silver
+C0609,Female,18-24,Chicago,North,2024-11-10,Silver
+C0610,Male,25-34,Boston,East,2024-04-11,Silver
+C0611,Female,18-24,Houston,South,2023-02-04,Silver
+C0612,Male,18-24,Philadelphia,East,2023-04-04,Bronze
+C0613,Female,25-34,San Francisco,West,2024-09-09,Bronze
+C0614,Female,25-34,Los Angeles,West,2023-03-05,Silver
+C0615,Male,18-24,Seattle,West,2024-08-27,Gold
+C0616,Male,18-24,Seattle,West,2025-02-03,Bronze
+C0617,Female,55+,Minneapolis,North,2025-03-18,Bronze
+C0618,Female,45-54,Seattle,West,2024-12-05,Bronze
+C0619,Female,18-24,Detroit,North,2024-06-01,Silver
+C0620,Male,18-24,Seattle,West,2025-08-02,Bronze
+C0621,Male,25-34,Detroit,North,2025-09-24,Silver
+C0622,Male,25-34,Minneapolis,North,2023-05-23,Bronze
+C0623,Female,25-34,Boston,East,2023-11-09,Gold
+C0624,Female,18-24,Detroit,North,2024-10-03,Silver
+C0625,Female,35-44,Atlanta,South,2025-01-06,Bronze
+C0626,Female,18-24,Miami,South,2024-09-17,Silver
+C0627,Male,18-24,Seattle,West,2023-10-14,Gold
+C0628,Male,45-54,Detroit,North,2023-06-04,Bronze
+C0629,Male,18-24,New York,East,2025-04-09,Bronze
+C0630,Male,18-24,Boston,East,2025-08-24,Bronze
+C0631,Female,25-34,Los Angeles,West,2024-08-18,Bronze
+C0632,Male,35-44,Philadelphia,East,2024-05-04,Silver
+C0633,Female,18-24,Seattle,West,2023-10-15,Silver
+C0634,Male,18-24,San Francisco,West,2025-09-17,Bronze
+C0635,Female,18-24,Atlanta,South,2024-04-24,Bronze
+C0636,Female,35-44,Los Angeles,West,2023-04-06,Silver
+C0637,Male,25-34,Philadelphia,East,2024-07-14,Bronze
+C0638,Female,35-44,Houston,South,2025-02-14,Bronze
+C0639,Female,25-34,Atlanta,South,2024-04-01,Bronze
+C0640,Female,18-24,New York,East,2023-01-14,Bronze
+C0641,Female,18-24,Boston,East,2024-07-29,Silver
+C0642,Female,25-34,Los Angeles,West,2024-04-16,Bronze
+C0643,Female,35-44,Boston,East,2024-03-07,Bronze
+C0644,Female,25-34,Detroit,North,2023-11-26,Bronze
+C0645,Female,25-34,Detroit,North,2024-01-04,Silver
+C0646,Male,18-24,Seattle,West,2024-08-03,Gold
+C0647,Female,25-34,Los Angeles,West,2023-12-16,Silver
+C0648,Male,25-34,Los Angeles,West,2024-01-08,Silver
+C0649,Female,18-24,Atlanta,South,2025-07-17,Bronze
+C0650,Female,45-54,Detroit,North,2024-02-19,Bronze
+C0651,Female,45-54,Detroit,North,2023-07-17,Bronze
+C0652,Male,18-24,Seattle,West,2025-10-27,Bronze
+C0653,Male,35-44,Philadelphia,East,2023-01-03,Bronze
+C0654,Male,25-34,Atlanta,South,2023-03-30,Silver
+C0655,Female,25-34,Houston,South,2023-07-20,Gold
+C0656,Female,18-24,Detroit,North,2025-04-16,Silver
+C0657,Female,25-34,New York,East,2023-08-30,Silver
+C0658,Female,25-34,Miami,South,2025-01-11,Bronze
+C0659,Female,35-44,Seattle,West,2025-05-17,Bronze
+C0660,Female,25-34,Atlanta,South,2025-09-15,Bronze
+C0661,Male,25-34,Houston,South,2024-12-06,Silver
+C0662,Female,35-44,New York,East,2024-04-15,Bronze
+C0663,Male,35-44,Philadelphia,East,2024-11-24,Silver
+C0664,Male,45-54,Minneapolis,North,2023-01-11,Gold
+C0665,Female,25-34,Miami,South,2023-05-12,Bronze
+C0666,Female,25-34,Miami,South,2025-03-31,Gold
+C0667,Male,25-34,Chicago,North,2023-12-25,Silver
+C0668,Female,35-44,Seattle,West,2024-08-08,Bronze
+C0669,Male,25-34,Miami,South,2023-12-14,Bronze
+C0670,Male,25-34,Minneapolis,North,2024-07-19,Bronze
+C0671,Male,18-24,Houston,South,2023-02-01,Bronze
+C0672,Female,35-44,New York,East,2024-12-13,Silver
+C0673,Female,25-34,Minneapolis,North,2025-04-07,Bronze
+C0674,Female,55+,Philadelphia,East,2025-10-27,Gold
+C0675,Male,55+,Seattle,West,2024-05-27,Bronze
+C0676,Male,25-34,Atlanta,South,2024-11-26,Gold
+C0677,Female,18-24,Seattle,West,2025-09-14,Silver
+C0678,Male,25-34,Atlanta,South,2024-04-15,Bronze
+C0679,Female,18-24,Detroit,North,2024-06-23,Silver
+C0680,Female,25-34,Miami,South,2024-01-01,Bronze
+C0681,Female,18-24,Seattle,West,2024-01-25,Bronze
+C0682,Female,25-34,Miami,South,2024-04-14,Bronze
+C0683,Male,35-44,Seattle,West,2023-09-03,Bronze
+C0684,Male,25-34,Minneapolis,North,2023-03-28,Bronze
+C0685,Female,55+,Seattle,West,2024-07-16,Bronze
+C0686,Female,35-44,Atlanta,South,2023-09-20,Gold
+C0687,Female,35-44,Chicago,North,2024-12-12,Bronze
+C0688,Female,18-24,Detroit,North,2025-07-31,Bronze
+C0689,Female,45-54,New York,East,2024-10-28,Bronze
+C0690,Male,25-34,Houston,South,2025-08-23,Bronze
+C0691,Female,25-34,Atlanta,South,2025-02-01,Bronze
+C0692,Male,35-44,Chicago,North,2024-04-13,Bronze
+C0693,Female,55+,Los Angeles,West,2024-02-06,Bronze
+C0694,Female,55+,Detroit,North,2025-05-13,Bronze
+C0695,Female,25-34,Philadelphia,East,2025-09-23,Bronze
+C0696,Female,35-44,Minneapolis,North,2023-12-01,Silver
+C0697,Female,25-34,Detroit,North,2024-11-16,Gold
+C0698,Female,25-34,Miami,South,2023-02-10,Gold
+C0699,Non-binary,25-34,Minneapolis,North,2023-12-24,Silver
+C0700,Male,25-34,Boston,East,2025-07-04,Bronze
+C0701,Male,45-54,San Francisco,West,2023-12-10,Silver
+C0702,Female,25-34,Boston,East,2023-05-27,Bronze
+C0703,Female,25-34,Atlanta,South,2024-07-01,Silver
+C0704,Female,18-24,Los Angeles,West,2025-07-11,Bronze
+C0705,Male,35-44,Houston,South,2024-05-30,Bronze
+C0706,Female,45-54,Miami,South,2023-07-15,Bronze
+C0707,Female,35-44,Los Angeles,West,2023-06-20,Silver
+C0708,Female,35-44,San Francisco,West,2024-09-25,Silver
+C0709,Female,35-44,Minneapolis,North,2023-12-16,Silver
+C0710,Female,18-24,Philadelphia,East,2024-07-11,Bronze
+C0711,Male,35-44,Philadelphia,East,2025-07-24,Bronze
+C0712,Male,25-34,New York,East,2024-09-26,Silver
+C0713,Female,18-24,New York,East,2025-01-19,Bronze
+C0714,Female,25-34,Los Angeles,West,2023-10-07,Silver
+C0715,Female,35-44,Boston,East,2025-09-04,Bronze
+C0716,Female,45-54,San Francisco,West,2025-02-04,Bronze
+C0717,Male,18-24,Chicago,North,2025-03-09,Bronze
+C0718,Female,35-44,Atlanta,South,2024-07-10,Bronze
+C0719,Female,18-24,San Francisco,West,2024-01-09,Silver
+C0720,Female,18-24,Houston,South,2025-10-04,Gold
+C0721,Female,18-24,Minneapolis,North,2023-07-29,Silver
+C0722,Female,18-24,Atlanta,South,2023-11-05,Bronze
+C0723,Female,35-44,San Francisco,West,2025-01-30,Bronze
+C0724,Female,35-44,Los Angeles,West,2023-10-27,Bronze
+C0725,Male,45-54,Chicago,North,2024-05-27,Gold
+C0726,Male,25-34,Philadelphia,East,2025-02-27,Gold
+C0727,Female,55+,Minneapolis,North,2023-07-12,Bronze
+C0728,Female,35-44,Seattle,West,2024-10-23,Gold
+C0729,Female,25-34,Boston,East,2024-06-02,Gold
+C0730,Non-binary,18-24,San Francisco,West,2024-03-22,Bronze
+C0731,Female,25-34,Chicago,North,2024-07-19,Bronze
+C0732,Male,18-24,Chicago,North,2025-08-31,Bronze
+C0733,Male,55+,Philadelphia,East,2024-11-24,Bronze
+C0734,Male,35-44,Houston,South,2023-11-12,Bronze
+C0735,Male,25-34,Houston,South,2024-12-12,Bronze
+C0736,Female,18-24,Miami,South,2023-10-03,Bronze
+C0737,Female,18-24,Atlanta,South,2025-09-30,Bronze
+C0738,Female,18-24,Boston,East,2023-11-25,Silver
+C0739,Female,35-44,Boston,East,2025-07-18,Silver
+C0740,Male,18-24,Seattle,West,2025-01-15,Bronze
+C0741,Female,35-44,Seattle,West,2025-03-04,Bronze
+C0742,Male,18-24,Miami,South,2025-04-19,Silver
+C0743,Female,18-24,Chicago,North,2023-09-23,Bronze
+C0744,Male,25-34,Detroit,North,2025-03-06,Bronze
+C0745,Female,18-24,Chicago,North,2024-03-28,Silver
+C0746,Female,35-44,San Francisco,West,2023-06-13,Bronze
+C0747,Male,35-44,Los Angeles,West,2025-05-01,Silver
+C0748,Male,45-54,Houston,South,2023-03-25,Gold
+C0749,Female,18-24,San Francisco,West,2023-07-18,Bronze
+C0750,Female,55+,Philadelphia,East,2024-05-24,Silver
+C0751,Male,25-34,Miami,South,2023-08-05,Bronze
+C0752,Female,18-24,Boston,East,2023-08-02,Bronze
+C0753,Male,45-54,Philadelphia,East,2025-06-26,Gold
+C0754,Female,35-44,Miami,South,2025-01-31,Bronze
+C0755,Female,25-34,Miami,South,2024-03-14,Bronze
+C0756,Male,18-24,Los Angeles,West,2025-07-05,Gold
+C0757,Non-binary,25-34,Boston,East,2023-10-04,Gold
+C0758,Female,45-54,Miami,South,2024-10-06,Silver
+C0759,Female,45-54,Los Angeles,West,2025-11-13,Bronze
+C0760,Female,25-34,Philadelphia,East,2023-11-16,Bronze
+C0761,Female,25-34,Houston,South,2024-09-07,Silver
+C0762,Female,45-54,Philadelphia,East,2025-09-15,Silver
+C0763,Female,25-34,Seattle,West,2023-07-15,Silver
+C0764,Male,25-34,Atlanta,South,2023-04-25,Bronze
+C0765,Male,45-54,Los Angeles,West,2024-04-09,Silver
+C0766,Female,18-24,Philadelphia,East,2023-04-21,Bronze
+C0767,Female,35-44,Atlanta,South,2024-03-28,Gold
+C0768,Female,25-34,San Francisco,West,2025-10-30,Bronze
+C0769,Female,18-24,Atlanta,South,2025-09-01,Bronze
+C0770,Male,18-24,Houston,South,2025-06-08,Bronze
+C0771,Male,18-24,Detroit,North,2025-03-20,Gold
+C0772,Female,35-44,Boston,East,2024-05-11,Silver
+C0773,Male,25-34,Boston,East,2023-08-19,Bronze
+C0774,Male,18-24,Atlanta,South,2023-02-19,Silver
+C0775,Male,25-34,Los Angeles,West,2025-06-24,Bronze
+C0776,Female,18-24,Miami,South,2023-06-25,Gold
+C0777,Female,35-44,Los Angeles,West,2024-08-12,Bronze
+C0778,Female,25-34,New York,East,2024-11-10,Bronze
+C0779,Male,55+,Seattle,West,2025-09-16,Silver
+C0780,Female,18-24,Chicago,North,2023-03-31,Silver
+C0781,Female,55+,New York,East,2023-04-19,Bronze
+C0782,Male,18-24,Miami,South,2025-01-07,Bronze
+C0783,Non-binary,18-24,San Francisco,West,2025-11-07,Bronze
+C0784,Female,25-34,Boston,East,2023-06-30,Bronze
+C0785,Female,25-34,Boston,East,2023-03-23,Bronze
+C0786,Female,25-34,Seattle,West,2023-02-07,Bronze
+C0787,Female,18-24,San Francisco,West,2025-10-23,Silver
+C0788,Male,55+,Los Angeles,West,2023-03-02,Bronze
+C0789,Female,25-34,Seattle,West,2023-10-09,Silver
+C0790,Female,25-34,Boston,East,2024-04-10,Gold
+C0791,Female,18-24,Seattle,West,2024-11-05,Bronze
+C0792,Male,25-34,Philadelphia,East,2024-02-19,Gold
+C0793,Non-binary,55+,Los Angeles,West,2025-05-30,Silver
+C0794,Female,25-34,Philadelphia,East,2023-11-20,Bronze
+C0795,Male,35-44,Atlanta,South,2023-10-26,Gold
+C0796,Female,18-24,Houston,South,2024-07-14,Bronze
+C0797,Female,35-44,Seattle,West,2024-06-30,Bronze
+C0798,Female,35-44,New York,East,2025-01-05,Bronze
+C0799,Female,25-34,Boston,East,2025-02-04,Bronze
+C0800,Female,55+,Minneapolis,North,2023-03-08,Gold
+C0801,Male,18-24,Atlanta,South,2024-02-20,Silver
+C0802,Male,45-54,Boston,East,2024-10-27,Bronze
+C0803,Male,25-34,Detroit,North,2025-02-18,Bronze
+C0804,Female,25-34,New York,East,2023-03-20,Silver
+C0805,Non-binary,18-24,Atlanta,South,2025-03-21,Bronze
+C0806,Female,25-34,Boston,East,2023-04-11,Silver
+C0807,Female,35-44,Houston,South,2023-12-07,Silver
+C0808,Male,25-34,Seattle,West,2025-08-07,Bronze
+C0809,Female,25-34,Chicago,North,2023-10-05,Bronze
+C0810,Male,18-24,Boston,East,2024-02-18,Silver
+C0811,Male,18-24,Los Angeles,West,2023-12-02,Silver
+C0812,Female,25-34,Philadelphia,East,2023-06-24,Silver
+C0813,Female,18-24,Minneapolis,North,2025-02-18,Bronze
+C0814,Female,18-24,Philadelphia,East,2023-11-04,Bronze
+C0815,Female,18-24,Houston,South,2025-07-02,Gold
+C0816,Female,25-34,Minneapolis,North,2024-06-02,Bronze
+C0817,Female,25-34,Minneapolis,North,2025-10-07,Bronze
+C0818,Female,25-34,Philadelphia,East,2023-01-14,Silver
+C0819,Female,18-24,Seattle,West,2024-03-01,Bronze
+C0820,Male,45-54,Minneapolis,North,2023-03-08,Bronze
+C0821,Female,18-24,Detroit,North,2023-08-12,Bronze
+C0822,Male,35-44,Boston,East,2023-12-30,Gold
+C0823,Female,45-54,Chicago,North,2024-09-04,Silver
+C0824,Female,18-24,Seattle,West,2023-05-13,Silver
+C0825,Female,35-44,Miami,South,2025-04-27,Bronze
+C0826,Female,35-44,Philadelphia,East,2023-06-29,Bronze
+C0827,Female,25-34,Philadelphia,East,2024-10-10,Bronze
+C0828,Female,35-44,Minneapolis,North,2025-10-13,Silver
+C0829,Male,55+,Los Angeles,West,2024-04-21,Bronze
+C0830,Male,18-24,Philadelphia,East,2023-08-30,Gold
+C0831,Female,35-44,Houston,South,2024-11-14,Bronze
+C0832,Female,18-24,Atlanta,South,2024-07-30,Bronze
+C0833,Female,25-34,Atlanta,South,2023-01-13,Silver
+C0834,Male,18-24,Boston,East,2023-03-01,Gold
+C0835,Male,35-44,Boston,East,2025-08-29,Bronze
+C0836,Female,35-44,Philadelphia,East,2024-11-17,Bronze
+C0837,Female,18-24,Philadelphia,East,2024-10-08,Silver
+C0838,Female,18-24,Los Angeles,West,2024-12-25,Bronze
+C0839,Female,25-34,Miami,South,2023-12-06,Bronze
+C0840,Male,25-34,Los Angeles,West,2024-09-23,Bronze
+C0841,Female,45-54,Minneapolis,North,2024-05-01,Bronze
+C0842,Female,18-24,Houston,South,2023-08-18,Gold
+C0843,Male,45-54,New York,East,2023-02-21,Bronze
+C0844,Male,18-24,Los Angeles,West,2024-09-27,Silver
+C0845,Female,18-24,San Francisco,West,2023-09-29,Silver
+C0846,Female,18-24,Philadelphia,East,2023-01-09,Silver
+C0847,Female,35-44,Miami,South,2023-04-05,Bronze
+C0848,Male,18-24,New York,East,2024-10-01,Bronze
+C0849,Male,35-44,Atlanta,South,2024-10-15,Bronze
+C0850,Male,25-34,Houston,South,2023-02-01,Bronze
+C0851,Female,55+,Atlanta,South,2024-10-14,Bronze
+C0852,Female,25-34,Minneapolis,North,2024-09-29,Bronze
+C0853,Female,18-24,Minneapolis,North,2023-04-14,Bronze
+C0854,Female,25-34,New York,East,2025-07-02,Silver
+C0855,Non-binary,35-44,Boston,East,2023-06-10,Bronze
+C0856,Female,25-34,Detroit,North,2025-08-17,Silver
+C0857,Male,18-24,Philadelphia,East,2024-04-19,Bronze
+C0858,Male,35-44,Atlanta,South,2024-01-11,Bronze
+C0859,Female,25-34,Chicago,North,2025-08-31,Bronze
+C0860,Female,25-34,Miami,South,2023-09-18,Silver
+C0861,Male,25-34,Atlanta,South,2023-05-26,Bronze
+C0862,Female,55+,Atlanta,South,2024-05-14,Bronze
+C0863,Male,25-34,Atlanta,South,2025-06-01,Bronze
+C0864,Male,35-44,Atlanta,South,2023-06-09,Bronze
+C0865,Female,45-54,New York,East,2024-10-28,Bronze
+C0866,Male,25-34,Atlanta,South,2023-08-11,Bronze
+C0867,Female,35-44,Philadelphia,East,2023-05-06,Gold
+C0868,Male,35-44,Boston,East,2023-01-01,Bronze
+C0869,Female,35-44,Atlanta,South,2025-07-04,Bronze
+C0870,Male,45-54,Seattle,West,2024-09-15,Gold
+C0871,Female,35-44,Miami,South,2023-07-02,Bronze
+C0872,Female,45-54,Chicago,North,2024-08-25,Bronze
+C0873,Female,25-34,New York,East,2025-01-05,Bronze
+C0874,Male,35-44,Boston,East,2025-03-18,Bronze
+C0875,Female,18-24,Boston,East,2023-12-22,Silver
+C0876,Female,55+,Miami,South,2025-05-04,Bronze
+C0877,Female,45-54,Detroit,North,2023-02-02,Bronze
+C0878,Female,35-44,San Francisco,West,2023-06-23,Gold
+C0879,Male,25-34,Boston,East,2025-05-21,Bronze
+C0880,Female,25-34,New York,East,2024-12-28,Bronze
+C0881,Male,25-34,Seattle,West,2024-04-29,Bronze
+C0882,Female,35-44,Chicago,North,2023-03-19,Bronze
+C0883,Female,35-44,San Francisco,West,2023-06-13,Bronze
+C0884,Female,35-44,Detroit,North,2023-07-01,Gold
+C0885,Female,45-54,Detroit,North,2024-10-01,Silver
+C0886,Male,25-34,Boston,East,2025-11-15,Bronze
+C0887,Female,18-24,Seattle,West,2024-08-26,Silver
+C0888,Female,25-34,New York,East,2024-06-17,Bronze
+C0889,Male,35-44,Boston,East,2024-08-20,Bronze
+C0890,Male,25-34,Chicago,North,2023-06-07,Silver
+C0891,Female,18-24,Houston,South,2024-06-10,Gold
+C0892,Female,18-24,Philadelphia,East,2025-07-03,Bronze
+C0893,Female,18-24,Chicago,North,2023-03-09,Bronze
+C0894,Male,25-34,San Francisco,West,2025-10-12,Bronze
+C0895,Female,35-44,Boston,East,2023-12-09,Bronze
+C0896,Female,25-34,Atlanta,South,2023-08-26,Bronze
+C0897,Female,35-44,San Francisco,West,2024-04-23,Bronze
+C0898,Female,45-54,Boston,East,2025-06-09,Bronze
+C0899,Female,25-34,Atlanta,South,2023-03-26,Gold
+C0900,Female,25-34,Houston,South,2024-07-12,Bronze
+C0901,Male,35-44,Philadelphia,East,2025-08-02,Silver
+C0902,Male,55+,San Francisco,West,2024-11-22,Bronze
+C0903,Female,18-24,New York,East,2023-05-20,Silver
+C0904,Female,18-24,Miami,South,2024-08-03,Bronze
+C0905,Male,35-44,Seattle,West,2024-03-20,Gold
+C0906,Female,35-44,Detroit,North,2023-09-24,Bronze
+C0907,Male,25-34,San Francisco,West,2023-08-16,Silver
+C0908,Male,25-34,Minneapolis,North,2025-07-17,Silver
+C0909,Female,35-44,Boston,East,2024-10-24,Silver
+C0910,Non-binary,25-34,Atlanta,South,2024-11-12,Bronze
+C0911,Female,18-24,Minneapolis,North,2024-02-15,Bronze
+C0912,Female,35-44,Boston,East,2025-06-02,Silver
+C0913,Female,35-44,Minneapolis,North,2023-05-30,Bronze
+C0914,Male,35-44,Boston,East,2023-01-02,Bronze
+C0915,Female,25-34,Atlanta,South,2025-03-12,Bronze
+C0916,Female,18-24,Miami,South,2023-05-24,Silver
+C0917,Female,25-34,New York,East,2025-01-05,Silver
+C0918,Female,45-54,San Francisco,West,2023-07-05,Bronze
+C0919,Male,18-24,New York,East,2024-08-16,Gold
+C0920,Male,45-54,Philadelphia,East,2024-09-04,Silver
+C0921,Male,18-24,New York,East,2025-06-15,Bronze
+C0922,Female,18-24,Seattle,West,2024-05-03,Silver
+C0923,Male,18-24,Boston,East,2025-07-09,Bronze
+C0924,Female,18-24,Seattle,West,2023-03-29,Silver
+C0925,Male,18-24,New York,East,2023-11-02,Bronze
+C0926,Female,45-54,Chicago,North,2023-02-09,Bronze
+C0927,Female,18-24,Boston,East,2023-01-30,Silver
+C0928,Male,18-24,Chicago,North,2023-12-16,Bronze
+C0929,Female,18-24,Boston,East,2024-03-27,Silver
+C0930,Female,55+,Seattle,West,2025-04-03,Bronze
+C0931,Male,25-34,Atlanta,South,2024-03-12,Bronze
+C0932,Female,25-34,Houston,South,2025-04-30,Bronze
+C0933,Female,35-44,Seattle,West,2023-03-25,Silver
+C0934,Male,18-24,Los Angeles,West,2023-02-02,Bronze
+C0935,Female,35-44,Minneapolis,North,2024-08-04,Silver
+C0936,Female,25-34,Houston,South,2024-07-08,Silver
+C0937,Male,35-44,Chicago,North,2024-01-04,Silver
+C0938,Female,25-34,Los Angeles,West,2024-12-13,Bronze
+C0939,Female,45-54,Philadelphia,East,2023-07-15,Bronze
+C0940,Female,18-24,New York,East,2024-03-02,Silver
+C0941,Female,18-24,Los Angeles,West,2025-08-29,Bronze
+C0942,Female,25-34,Atlanta,South,2024-03-05,Bronze
+C0943,Female,18-24,Seattle,West,2023-12-27,Bronze
+C0944,Female,25-34,Los Angeles,West,2025-06-29,Silver
+C0945,Male,25-34,Los Angeles,West,2024-04-16,Bronze
+C0946,Female,18-24,Atlanta,South,2024-02-14,Bronze
+C0947,Female,45-54,Minneapolis,North,2025-06-11,Bronze
+C0948,Male,35-44,Atlanta,South,2025-07-26,Bronze
+C0949,Female,18-24,Minneapolis,North,2023-05-03,Bronze
+C0950,Female,25-34,Chicago,North,2024-12-04,Silver
+C0951,Female,25-34,New York,East,2023-12-15,Bronze
+C0952,Male,18-24,San Francisco,West,2025-09-28,Silver
+C0953,Male,25-34,Atlanta,South,2025-05-26,Bronze
+C0954,Male,45-54,Atlanta,South,2023-11-02,Gold
+C0955,Male,25-34,Minneapolis,North,2025-08-21,Bronze
+C0956,Female,25-34,Philadelphia,East,2023-07-20,Silver
+C0957,Male,18-24,Boston,East,2025-04-12,Bronze
+C0958,Female,25-34,Seattle,West,2023-02-02,Bronze
+C0959,Non-binary,25-34,New York,East,2023-02-19,Silver
+C0960,Male,35-44,Houston,South,2025-01-28,Silver
+C0961,Female,25-34,Minneapolis,North,2024-11-12,Silver
+C0962,Male,18-24,Boston,East,2024-02-29,Silver
+C0963,Male,18-24,Minneapolis,North,2025-01-15,Bronze
+C0964,Female,25-34,Chicago,North,2025-01-20,Bronze
+C0965,Non-binary,18-24,Los Angeles,West,2023-10-11,Silver
+C0966,Male,35-44,Boston,East,2024-03-05,Bronze
+C0967,Female,18-24,Atlanta,South,2025-05-16,Bronze
+C0968,Female,25-34,Philadelphia,East,2023-09-09,Gold
+C0969,Male,55+,New York,East,2025-01-23,Bronze
+C0970,Female,45-54,San Francisco,West,2023-06-28,Gold
+C0971,Female,35-44,Minneapolis,North,2023-12-04,Bronze
+C0972,Female,55+,Miami,South,2023-02-16,Gold
+C0973,Female,35-44,Boston,East,2025-05-10,Bronze
+C0974,Male,25-34,Minneapolis,North,2024-04-20,Bronze
+C0975,Female,35-44,Miami,South,2024-10-30,Silver
+C0976,Female,45-54,Boston,East,2024-09-14,Bronze
+C0977,Female,25-34,Houston,South,2025-09-18,Bronze
+C0978,Female,18-24,Miami,South,2023-12-07,Bronze
+C0979,Female,18-24,San Francisco,West,2023-11-11,Bronze
+C0980,Female,25-34,New York,East,2025-01-27,Silver
+C0981,Female,25-34,Los Angeles,West,2023-10-30,Bronze
+C0982,Female,25-34,Chicago,North,2023-02-21,Gold
+C0983,Female,35-44,Seattle,West,2023-11-16,Bronze
+C0984,Male,55+,Philadelphia,East,2025-08-28,Silver
+C0985,Female,18-24,San Francisco,West,2025-06-24,Gold
+C0986,Female,25-34,Chicago,North,2023-08-28,Bronze
+C0987,Female,18-24,Detroit,North,2023-04-23,Bronze
+C0988,Female,18-24,San Francisco,West,2024-07-23,Silver
+C0989,Female,25-34,Seattle,West,2025-11-14,Silver
+C0990,Female,35-44,San Francisco,West,2025-01-09,Bronze
+C0991,Female,25-34,Atlanta,South,2024-08-05,Silver
+C0992,Male,25-34,Minneapolis,North,2025-06-28,Bronze
+C0993,Male,25-34,Seattle,West,2025-05-18,Bronze
+C0994,Female,45-54,Minneapolis,North,2024-09-13,Bronze
+C0995,Female,25-34,San Francisco,West,2025-02-08,Bronze
+C0996,Female,45-54,Boston,East,2023-10-08,Bronze
+C0997,Male,25-34,Detroit,North,2024-09-10,Silver
+C0998,Female,25-34,Miami,South,2023-01-06,Silver
+C0999,Female,25-34,Philadelphia,East,2024-08-12,Silver
+C1000,Female,55+,Detroit,North,2024-07-21,Silver
+C1001,Male,35-44,Boston,East,2025-06-12,Gold
+C1002,Female,25-34,San Francisco,West,2025-02-03,Bronze
+C1003,Female,35-44,Minneapolis,North,2024-10-16,Bronze
+C1004,Male,55+,Houston,South,2025-05-09,Bronze
+C1005,Female,35-44,New York,East,2023-06-07,Silver
+C1006,Female,45-54,Philadelphia,East,2023-12-09,Silver
+C1007,Female,25-34,Houston,South,2025-01-12,Bronze
+C1008,Male,25-34,New York,East,2025-02-02,Bronze
+C1009,Male,35-44,Detroit,North,2024-03-28,Silver
+C1010,Female,45-54,Los Angeles,West,2023-08-22,Silver
+C1011,Female,35-44,Los Angeles,West,2025-09-09,Silver
+C1012,Female,25-34,Seattle,West,2024-12-01,Silver
+C1013,Male,25-34,Houston,South,2023-10-19,Bronze
+C1014,Female,35-44,Minneapolis,North,2023-08-17,Bronze
+C1015,Female,45-54,Chicago,North,2023-05-02,Bronze
+C1016,Male,45-54,New York,East,2023-07-17,Bronze
+C1017,Female,18-24,Miami,South,2024-12-20,Gold
+C1018,Female,45-54,Seattle,West,2024-12-13,Silver
+C1019,Female,25-34,New York,East,2023-05-20,Bronze
+C1020,Female,35-44,New York,East,2024-07-31,Gold
+C1021,Male,45-54,Minneapolis,North,2024-03-14,Bronze
+C1022,Male,18-24,Boston,East,2025-06-19,Gold
+C1023,Female,35-44,Atlanta,South,2024-04-11,Bronze
+C1024,Female,25-34,Minneapolis,North,2023-10-06,Bronze
+C1025,Female,25-34,Minneapolis,North,2024-11-02,Silver
+C1026,Female,25-34,Atlanta,South,2025-06-28,Bronze
+C1027,Male,25-34,Chicago,North,2025-09-01,Gold
+C1028,Female,25-34,Philadelphia,East,2023-08-04,Bronze
+C1029,Male,55+,Detroit,North,2025-03-31,Gold
+C1030,Female,18-24,Los Angeles,West,2023-05-13,Bronze
+C1031,Female,25-34,San Francisco,West,2023-09-09,Bronze
+C1032,Male,35-44,Boston,East,2024-07-13,Bronze
+C1033,Non-binary,25-34,New York,East,2025-04-08,Silver
+C1034,Female,18-24,Chicago,North,2024-05-28,Bronze
+C1035,Female,18-24,New York,East,2023-05-20,Bronze
+C1036,Female,35-44,New York,East,2023-11-09,Silver
+C1037,Male,18-24,Philadelphia,East,2025-10-05,Bronze
+C1038,Male,25-34,New York,East,2024-12-04,Gold
+C1039,Male,18-24,Minneapolis,North,2025-05-31,Bronze
+C1040,Female,18-24,Miami,South,2025-07-30,Silver
+C1041,Female,18-24,Miami,South,2023-12-03,Bronze
+C1042,Male,35-44,Seattle,West,2025-10-01,Bronze
+C1043,Female,25-34,Boston,East,2023-11-17,Bronze
+C1044,Male,25-34,Houston,South,2024-12-23,Bronze
+C1045,Female,35-44,Chicago,North,2025-01-20,Silver
+C1046,Female,25-34,Boston,East,2025-02-18,Bronze
+C1047,Female,35-44,Detroit,North,2024-05-15,Bronze
+C1048,Female,18-24,Philadelphia,East,2024-09-16,Bronze
+C1049,Female,45-54,Boston,East,2025-05-15,Bronze
+C1050,Non-binary,25-34,Boston,East,2023-02-15,Bronze
+C1051,Female,35-44,Minneapolis,North,2025-09-27,Bronze
+C1052,Female,25-34,San Francisco,West,2024-11-26,Bronze
+C1053,Male,25-34,Boston,East,2023-06-04,Bronze
+C1054,Male,35-44,Houston,South,2025-04-03,Silver
+C1055,Female,25-34,Philadelphia,East,2024-11-20,Bronze
+C1056,Male,25-34,Atlanta,South,2023-06-07,Bronze
+C1057,Female,25-34,Philadelphia,East,2024-02-14,Bronze
+C1058,Male,35-44,Seattle,West,2024-01-05,Silver
+C1059,Male,45-54,Boston,East,2024-03-12,Bronze
+C1060,Male,35-44,New York,East,2025-06-07,Bronze
+C1061,Female,35-44,Atlanta,South,2023-10-30,Silver
+C1062,Male,45-54,Atlanta,South,2023-05-12,Silver
+C1063,Male,18-24,New York,East,2024-06-09,Bronze
+C1064,Male,25-34,Minneapolis,North,2024-05-17,Bronze
+C1065,Female,25-34,Houston,South,2023-03-17,Bronze
+C1066,Male,18-24,Seattle,West,2023-12-27,Bronze
+C1067,Female,25-34,Chicago,North,2023-06-21,Gold
+C1068,Male,45-54,Atlanta,South,2025-01-14,Gold
+C1069,Female,25-34,Philadelphia,East,2023-10-15,Gold
+C1070,Female,18-24,Philadelphia,East,2024-05-30,Bronze
+C1071,Male,35-44,Seattle,West,2024-11-05,Silver
+C1072,Female,18-24,San Francisco,West,2024-03-22,Bronze
+C1073,Female,25-34,Houston,South,2023-04-25,Bronze
+C1074,Male,45-54,Houston,South,2024-05-19,Bronze
+C1075,Female,55+,Philadelphia,East,2024-09-23,Bronze
+C1076,Male,35-44,New York,East,2023-04-22,Bronze
+C1077,Male,35-44,Miami,South,2025-01-13,Silver
+C1078,Female,55+,San Francisco,West,2025-03-06,Bronze
+C1079,Female,45-54,Los Angeles,West,2024-04-27,Gold
+C1080,Male,25-34,New York,East,2025-04-12,Silver
+C1081,Male,45-54,San Francisco,West,2025-08-22,Silver
+C1082,Male,35-44,Seattle,West,2023-07-25,Bronze
+C1083,Female,18-24,Houston,South,2024-10-31,Silver
+C1084,Male,18-24,Minneapolis,North,2025-06-27,Bronze
+C1085,Female,25-34,Miami,South,2023-06-18,Gold
+C1086,Male,35-44,San Francisco,West,2023-09-24,Bronze
+C1087,Female,35-44,San Francisco,West,2023-10-01,Silver
+C1088,Female,25-34,Minneapolis,North,2025-04-28,Gold
+C1089,Female,18-24,Seattle,West,2024-04-04,Silver
+C1090,Non-binary,18-24,Philadelphia,East,2023-07-02,Silver
+C1091,Female,18-24,Minneapolis,North,2025-05-28,Bronze
+C1092,Male,25-34,Boston,East,2023-01-29,Silver
+C1093,Male,18-24,Boston,East,2024-04-04,Bronze
+C1094,Female,18-24,New York,East,2023-09-24,Gold
+C1095,Female,25-34,Houston,South,2024-01-23,Bronze
+C1096,Female,45-54,San Francisco,West,2024-04-27,Bronze
+C1097,Female,18-24,Boston,East,2023-06-25,Gold
+C1098,Male,35-44,Miami,South,2024-03-10,Bronze
+C1099,Female,45-54,Minneapolis,North,2023-05-01,Gold
+C1100,Female,25-34,San Francisco,West,2023-04-04,Bronze
+C1101,Female,45-54,Houston,South,2025-01-29,Bronze
+C1102,Female,25-34,Atlanta,South,2025-10-28,Bronze
+C1103,Female,18-24,Houston,South,2025-06-05,Gold
+C1104,Male,45-54,Boston,East,2024-07-29,Gold
+C1105,Female,25-34,Houston,South,2024-06-24,Bronze
+C1106,Female,45-54,Seattle,West,2023-11-06,Silver
+C1107,Female,18-24,Minneapolis,North,2023-11-01,Bronze
+C1108,Female,45-54,Boston,East,2025-06-12,Bronze
+C1109,Female,18-24,Miami,South,2025-09-20,Silver
+C1110,Female,25-34,Chicago,North,2023-07-11,Silver
+C1111,Female,55+,Seattle,West,2024-03-10,Silver
+C1112,Female,25-34,Chicago,North,2023-06-07,Gold
+C1113,Female,25-34,Chicago,North,2023-09-07,Silver
+C1114,Female,35-44,Minneapolis,North,2023-06-16,Bronze
+C1115,Female,18-24,Seattle,West,2023-01-12,Gold
+C1116,Female,18-24,Miami,South,2023-09-22,Bronze
+C1117,Female,35-44,Los Angeles,West,2023-05-25,Bronze
+C1118,Female,45-54,Chicago,North,2025-03-27,Bronze
+C1119,Female,25-34,Atlanta,South,2023-11-12,Silver
+C1120,Female,18-24,San Francisco,West,2023-09-26,Bronze
+C1121,Female,25-34,Boston,East,2025-03-05,Bronze
+C1122,Female,25-34,Atlanta,South,2025-01-24,Bronze
+C1123,Male,35-44,Philadelphia,East,2025-08-07,Bronze
+C1124,Female,25-34,Boston,East,2023-06-21,Bronze
+C1125,Male,25-34,San Francisco,West,2024-09-07,Bronze
+C1126,Female,25-34,Boston,East,2023-04-03,Bronze
+C1127,Female,25-34,Philadelphia,East,2024-06-02,Bronze
+C1128,Female,18-24,San Francisco,West,2025-08-05,Bronze
+C1129,Female,35-44,Miami,South,2024-09-01,Bronze
+C1130,Male,45-54,Los Angeles,West,2024-11-30,Bronze
+C1131,Male,18-24,Detroit,North,2024-06-15,Bronze
+C1132,Female,25-34,Miami,South,2023-01-28,Bronze
+C1133,Female,35-44,Philadelphia,East,2025-09-23,Bronze
+C1134,Male,18-24,New York,East,2025-03-19,Bronze
+C1135,Male,18-24,Chicago,North,2023-02-02,Bronze
+C1136,Female,35-44,Philadelphia,East,2024-05-10,Bronze
+C1137,Female,25-34,Houston,South,2025-08-07,Bronze
+C1138,Male,25-34,Minneapolis,North,2025-06-30,Bronze
+C1139,Female,18-24,Miami,South,2025-03-13,Silver
+C1140,Male,35-44,Miami,South,2025-05-01,Silver
+C1141,Female,25-34,Seattle,West,2023-03-17,Silver
+C1142,Female,18-24,Los Angeles,West,2025-09-26,Bronze
+C1143,Female,35-44,Atlanta,South,2023-05-11,Bronze
+C1144,Female,25-34,New York,East,2024-12-11,Bronze
+C1145,Female,25-34,Detroit,North,2024-12-05,Gold
+C1146,Female,25-34,Miami,South,2025-08-17,Bronze
+C1147,Male,35-44,Houston,South,2025-01-07,Silver
+C1148,Male,18-24,Houston,South,2023-06-26,Bronze
+C1149,Male,25-34,New York,East,2025-05-01,Bronze
+C1150,Female,25-34,Detroit,North,2023-02-07,Bronze
+C1151,Female,18-24,San Francisco,West,2025-10-28,Bronze
+C1152,Female,55+,Atlanta,South,2024-04-03,Silver
+C1153,Male,45-54,Seattle,West,2024-07-01,Silver
+C1154,Male,25-34,Minneapolis,North,2023-04-14,Gold
+C1155,Male,35-44,Los Angeles,West,2023-08-05,Silver
+C1156,Female,18-24,Chicago,North,2023-08-04,Gold
+C1157,Male,35-44,Minneapolis,North,2024-08-21,Silver
+C1158,Female,18-24,Chicago,North,2025-01-14,Bronze
+C1159,Female,35-44,Atlanta,South,2023-01-14,Bronze
+C1160,Female,35-44,Minneapolis,North,2024-06-28,Silver
+C1161,Male,18-24,Atlanta,South,2025-05-13,Bronze
+C1162,Male,25-34,Miami,South,2025-07-28,Bronze
+C1163,Male,35-44,Detroit,North,2023-10-26,Gold
+C1164,Female,35-44,Minneapolis,North,2024-10-06,Bronze
+C1165,Male,18-24,Seattle,West,2023-11-06,Gold
+C1166,Female,45-54,Seattle,West,2024-08-28,Bronze
+C1167,Male,18-24,Atlanta,South,2024-10-04,Gold
+C1168,Male,25-34,New York,East,2023-10-28,Gold
+C1169,Male,45-54,Philadelphia,East,2025-06-24,Bronze
+C1170,Female,25-34,Minneapolis,North,2024-09-09,Silver
+C1171,Female,25-34,Los Angeles,West,2023-09-16,Bronze
+C1172,Male,18-24,New York,East,2024-11-28,Gold
+C1173,Female,35-44,Philadelphia,East,2024-06-13,Bronze
+C1174,Male,25-34,Philadelphia,East,2023-05-03,Bronze
+C1175,Female,25-34,Chicago,North,2023-09-13,Bronze
+C1176,Female,25-34,Seattle,West,2024-04-23,Bronze
+C1177,Female,25-34,Minneapolis,North,2025-02-12,Bronze
+C1178,Female,18-24,Minneapolis,North,2025-01-09,Silver
+C1179,Female,18-24,Chicago,North,2023-05-08,Bronze
+C1180,Female,25-34,Atlanta,South,2025-04-04,Silver
+C1181,Non-binary,35-44,Boston,East,2025-05-17,Silver
+C1182,Female,18-24,Miami,South,2023-11-30,Bronze
+C1183,Male,25-34,Los Angeles,West,2023-08-30,Silver
+C1184,Male,18-24,San Francisco,West,2025-01-26,Bronze
+C1185,Female,18-24,Atlanta,South,2024-08-16,Bronze
+C1186,Female,35-44,Houston,South,2024-08-25,Silver
+C1187,Male,18-24,Miami,South,2024-09-16,Bronze
+C1188,Female,18-24,Minneapolis,North,2024-12-15,Bronze
+C1189,Male,25-34,Philadelphia,East,2024-11-22,Silver
+C1190,Female,25-34,Minneapolis,North,2023-10-11,Silver
+C1191,Female,35-44,Detroit,North,2024-10-28,Bronze
+C1192,Female,18-24,Miami,South,2025-03-20,Gold
+C1193,Male,35-44,Philadelphia,East,2023-07-01,Silver
+C1194,Female,18-24,Seattle,West,2024-09-24,Bronze
+C1195,Male,25-34,San Francisco,West,2023-04-19,Bronze
+C1196,Male,25-34,Chicago,North,2024-01-04,Bronze
+C1197,Female,25-34,Boston,East,2025-06-28,Bronze
+C1198,Female,18-24,Chicago,North,2023-02-17,Silver
+C1199,Female,55+,Miami,South,2024-06-10,Bronze
+C1200,Male,18-24,Minneapolis,North,2024-06-07,Silver
+C1201,Female,35-44,Minneapolis,North,2024-10-28,Bronze
+C1202,Male,25-34,Houston,South,2025-04-25,Bronze
+C1203,Female,35-44,Atlanta,South,2024-04-29,Gold
+C1204,Female,25-34,Atlanta,South,2024-10-13,Bronze
+C1205,Female,55+,Philadelphia,East,2023-02-08,Bronze
+C1206,Female,25-34,Los Angeles,West,2023-09-15,Silver
+C1207,Female,55+,New York,East,2023-10-19,Bronze
+C1208,Female,35-44,Miami,South,2025-07-14,Bronze
+C1209,Female,45-54,San Francisco,West,2023-01-02,Bronze
+C1210,Non-binary,45-54,Los Angeles,West,2025-02-17,Bronze
+C1211,Female,25-34,New York,East,2023-04-04,Bronze
+C1212,Male,35-44,Atlanta,South,2023-09-09,Silver
+C1213,Male,25-34,Miami,South,2025-10-30,Gold
+C1214,Female,35-44,Boston,East,2025-07-16,Bronze
+C1215,Female,35-44,Philadelphia,East,2024-11-03,Gold
+C1216,Male,35-44,Boston,East,2023-01-09,Bronze
+C1217,Male,25-34,Philadelphia,East,2025-09-28,Silver
+C1218,Male,25-34,Boston,East,2025-06-30,Silver
+C1219,Male,35-44,Houston,South,2023-12-29,Bronze
+C1220,Female,18-24,Houston,South,2024-01-31,Silver
+C1221,Female,35-44,Philadelphia,East,2025-01-02,Bronze
+C1222,Non-binary,55+,New York,East,2024-04-24,Bronze
+C1223,Female,55+,Seattle,West,2024-03-04,Bronze
+C1224,Female,25-34,Seattle,West,2025-10-21,Silver
+C1225,Female,18-24,New York,East,2023-12-26,Bronze
+C1226,Male,35-44,San Francisco,West,2024-04-11,Bronze
+C1227,Male,45-54,New York,East,2024-06-01,Gold
+C1228,Male,25-34,Boston,East,2023-04-17,Bronze
+C1229,Female,25-34,New York,East,2025-08-13,Gold
+C1230,Male,25-34,Atlanta,South,2024-07-23,Bronze
+C1231,Male,35-44,Detroit,North,2023-06-17,Bronze
+C1232,Male,18-24,Boston,East,2023-06-02,Bronze
+C1233,Female,25-34,New York,East,2023-07-18,Bronze
+C1234,Male,25-34,Boston,East,2024-11-15,Bronze
+C1235,Male,25-34,Houston,South,2023-04-22,Gold
+C1236,Male,35-44,Seattle,West,2025-06-17,Bronze
+C1237,Female,45-54,Seattle,West,2023-03-10,Bronze
+C1238,Female,35-44,Minneapolis,North,2025-06-24,Bronze
+C1239,Female,25-34,New York,East,2023-04-17,Silver
+C1240,Female,25-34,Atlanta,South,2023-01-22,Silver
+C1241,Male,35-44,New York,East,2024-11-26,Bronze
+C1242,Female,18-24,Miami,South,2024-01-30,Bronze
+C1243,Male,18-24,Seattle,West,2024-02-01,Bronze
+C1244,Female,18-24,Houston,South,2025-06-29,Bronze
+C1245,Female,35-44,Atlanta,South,2025-06-11,Bronze
+C1246,Female,25-34,San Francisco,West,2023-10-26,Bronze
+C1247,Female,25-34,Seattle,West,2023-10-24,Silver
+C1248,Non-binary,35-44,Houston,South,2024-02-05,Silver
+C1249,Male,55+,Miami,South,2025-09-01,Silver
+C1250,Female,25-34,Los Angeles,West,2024-11-18,Bronze
+C1251,Female,45-54,Seattle,West,2023-03-28,Bronze
+C1252,Female,35-44,Atlanta,South,2024-03-12,Silver
+C1253,Female,55+,Atlanta,South,2025-03-30,Bronze
+C1254,Female,25-34,Miami,South,2023-08-24,Bronze
+C1255,Non-binary,18-24,San Francisco,West,2023-03-31,Bronze
+C1256,Female,25-34,Los Angeles,West,2023-12-23,Bronze
+C1257,Male,18-24,Detroit,North,2024-06-20,Bronze
+C1258,Female,18-24,Boston,East,2023-08-16,Bronze
+C1259,Male,55+,Seattle,West,2023-12-17,Gold
+C1260,Female,45-54,Los Angeles,West,2023-05-14,Silver
+C1261,Male,25-34,Minneapolis,North,2025-02-13,Gold
+C1262,Male,25-34,Miami,South,2023-04-05,Bronze
+C1263,Female,35-44,Chicago,North,2024-05-21,Silver
+C1264,Female,18-24,San Francisco,West,2025-09-28,Silver
+C1265,Female,35-44,Philadelphia,East,2023-12-09,Silver
+C1266,Female,35-44,Miami,South,2025-08-08,Silver
+C1267,Female,25-34,Philadelphia,East,2025-10-10,Gold
+C1268,Female,45-54,Boston,East,2023-03-16,Silver
+C1269,Female,25-34,Houston,South,2024-09-18,Gold
+C1270,Female,18-24,Atlanta,South,2023-06-23,Bronze
+C1271,Female,35-44,Atlanta,South,2023-03-26,Bronze
+C1272,Male,25-34,Atlanta,South,2025-01-22,Bronze
+C1273,Male,25-34,New York,East,2024-06-27,Bronze
+C1274,Male,45-54,New York,East,2023-06-10,Bronze
+C1275,Female,35-44,Atlanta,South,2024-02-15,Bronze
+C1276,Female,35-44,Los Angeles,West,2024-07-16,Gold
+C1277,Female,25-34,San Francisco,West,2024-06-18,Silver
+C1278,Male,35-44,Houston,South,2025-04-10,Bronze
+C1279,Male,18-24,Philadelphia,East,2023-11-02,Silver
+C1280,Male,25-34,New York,East,2025-08-17,Bronze
+C1281,Female,25-34,Detroit,North,2025-05-05,Bronze
+C1282,Female,35-44,Minneapolis,North,2023-09-20,Silver
+C1283,Female,25-34,San Francisco,West,2024-11-26,Silver
+C1284,Female,18-24,New York,East,2024-09-05,Gold
+C1285,Female,35-44,Detroit,North,2024-11-07,Bronze
+C1286,Female,25-34,Miami,South,2025-02-19,Bronze
+C1287,Female,25-34,Boston,East,2024-11-04,Bronze
+C1288,Female,35-44,Minneapolis,North,2023-12-30,Bronze
+C1289,Female,18-24,Detroit,North,2025-03-01,Bronze
+C1290,Female,18-24,Boston,East,2025-01-24,Bronze
+C1291,Female,25-34,Los Angeles,West,2023-09-22,Bronze
+C1292,Female,18-24,San Francisco,West,2024-02-27,Silver
+C1293,Female,45-54,Philadelphia,East,2023-11-22,Bronze
+C1294,Female,18-24,New York,East,2025-07-28,Bronze
+C1295,Female,45-54,San Francisco,West,2024-05-20,Bronze
+C1296,Female,45-54,Boston,East,2023-07-06,Bronze
+C1297,Female,45-54,Los Angeles,West,2024-09-01,Bronze
+C1298,Female,45-54,Chicago,North,2025-06-03,Silver
+C1299,Female,45-54,Minneapolis,North,2023-03-31,Gold
+C1300,Male,35-44,New York,East,2023-05-17,Gold
+C1301,Non-binary,18-24,Houston,South,2023-09-06,Bronze
+C1302,Female,25-34,Seattle,West,2025-04-19,Bronze
+C1303,Female,35-44,Chicago,North,2025-08-03,Bronze
+C1304,Male,18-24,Detroit,North,2023-08-23,Silver
+C1305,Female,35-44,Philadelphia,East,2023-05-20,Gold
+C1306,Male,18-24,Chicago,North,2024-07-25,Silver
+C1307,Female,25-34,Chicago,North,2023-09-12,Silver
+C1308,Female,25-34,Chicago,North,2024-07-13,Silver
+C1309,Female,18-24,Seattle,West,2024-03-18,Silver
+C1310,Female,25-34,New York,East,2023-07-30,Bronze
+C1311,Male,45-54,Minneapolis,North,2025-02-11,Gold
+C1312,Female,55+,Minneapolis,North,2023-02-02,Silver
+C1313,Female,45-54,Philadelphia,East,2023-05-10,Bronze
+C1314,Female,35-44,Minneapolis,North,2025-05-01,Bronze
+C1315,Male,25-34,Minneapolis,North,2024-02-29,Bronze
+C1316,Female,18-24,Miami,South,2024-12-31,Bronze
+C1317,Female,35-44,Atlanta,South,2025-07-28,Silver
+C1318,Male,25-34,Miami,South,2023-05-18,Bronze
+C1319,Female,18-24,San Francisco,West,2023-12-18,Gold
+C1320,Female,35-44,Philadelphia,East,2023-09-30,Bronze
+C1321,Female,18-24,Seattle,West,2025-09-14,Bronze
+C1322,Female,35-44,New York,East,2024-04-21,Bronze
+C1323,Female,35-44,New York,East,2023-09-12,Silver
+C1324,Female,18-24,Minneapolis,North,2025-02-06,Bronze
+C1325,Male,25-34,Minneapolis,North,2025-06-27,Bronze
+C1326,Female,55+,Seattle,West,2023-03-23,Silver
+C1327,Male,25-34,Los Angeles,West,2024-04-14,Bronze
+C1328,Male,35-44,Chicago,North,2024-05-23,Silver
+C1329,Female,35-44,Houston,South,2024-10-20,Silver
+C1330,Female,55+,Chicago,North,2024-01-30,Bronze
+C1331,Female,18-24,Detroit,North,2024-02-23,Bronze
+C1332,Female,18-24,Chicago,North,2024-02-09,Bronze
+C1333,Female,35-44,New York,East,2024-02-17,Gold
+C1334,Female,25-34,Miami,South,2025-02-12,Silver
+C1335,Male,35-44,Houston,South,2023-11-16,Silver
+C1336,Male,45-54,Miami,South,2023-06-20,Bronze
+C1337,Female,25-34,Boston,East,2023-12-26,Bronze
+C1338,Female,18-24,Boston,East,2025-09-11,Bronze
+C1339,Female,25-34,Seattle,West,2023-01-09,Bronze
+C1340,Male,55+,Atlanta,South,2025-05-01,Bronze
+C1341,Female,18-24,Houston,South,2023-05-26,Bronze
+C1342,Male,55+,Philadelphia,East,2024-02-02,Bronze
+C1343,Male,35-44,Boston,East,2025-01-24,Silver
+C1344,Male,25-34,Miami,South,2023-03-12,Silver
+C1345,Female,25-34,Philadelphia,East,2023-10-30,Bronze
+C1346,Female,35-44,Miami,South,2023-11-27,Silver
+C1347,Female,18-24,Atlanta,South,2023-06-14,Bronze
+C1348,Female,25-34,Atlanta,South,2024-09-10,Bronze
+C1349,Female,25-34,Boston,East,2023-07-02,Silver
+C1350,Male,25-34,Atlanta,South,2024-03-05,Bronze
+C1351,Female,18-24,Detroit,North,2025-10-04,Bronze
+C1352,Male,18-24,Atlanta,South,2024-08-13,Bronze
+C1353,Female,55+,Minneapolis,North,2025-09-23,Bronze
+C1354,Female,18-24,Houston,South,2024-02-16,Bronze
+C1355,Female,45-54,Los Angeles,West,2025-04-17,Silver
+C1356,Female,18-24,Chicago,North,2024-08-23,Bronze
+C1357,Female,35-44,New York,East,2025-09-05,Bronze
+C1358,Male,35-44,Los Angeles,West,2023-01-15,Bronze
+C1359,Female,25-34,Boston,East,2023-01-15,Gold
+C1360,Female,25-34,Philadelphia,East,2024-11-21,Gold
+C1361,Male,35-44,San Francisco,West,2024-05-05,Silver
+C1362,Male,18-24,Seattle,West,2024-11-07,Bronze
+C1363,Female,18-24,Seattle,West,2023-10-12,Bronze
+C1364,Female,35-44,Philadelphia,East,2024-05-24,Silver
+C1365,Female,35-44,Boston,East,2024-01-20,Bronze
+C1366,Male,35-44,Miami,South,2023-04-04,Bronze
+C1367,Male,35-44,Boston,East,2025-03-30,Bronze
+C1368,Non-binary,45-54,Los Angeles,West,2025-09-02,Silver
+C1369,Male,45-54,Miami,South,2024-02-04,Silver
+C1370,Female,35-44,Boston,East,2023-03-07,Silver
+C1371,Female,25-34,Los Angeles,West,2025-08-14,Bronze
+C1372,Female,35-44,Philadelphia,East,2024-05-13,Silver
+C1373,Female,45-54,Minneapolis,North,2023-03-01,Silver
+C1374,Male,55+,Miami,South,2024-06-11,Bronze
+C1375,Female,35-44,Chicago,North,2025-10-04,Gold
+C1376,Male,25-34,Seattle,West,2023-05-13,Silver
+C1377,Male,18-24,New York,East,2025-06-13,Bronze
+C1378,Male,45-54,Detroit,North,2024-11-27,Gold
+C1379,Male,55+,Philadelphia,East,2023-09-18,Silver
+C1380,Male,55+,Atlanta,South,2024-01-24,Silver
+C1381,Female,35-44,Los Angeles,West,2023-09-16,Bronze
+C1382,Female,35-44,Minneapolis,North,2025-08-01,Silver
+C1383,Female,25-34,Philadelphia,East,2025-07-22,Silver
+C1384,Female,25-34,Seattle,West,2023-03-12,Bronze
+C1385,Male,18-24,San Francisco,West,2025-09-06,Silver
+C1386,Female,35-44,Miami,South,2024-11-13,Gold
+C1387,Male,35-44,Atlanta,South,2023-04-18,Silver
+C1388,Non-binary,25-34,Atlanta,South,2023-11-23,Bronze
+C1389,Male,25-34,Philadelphia,East,2024-12-14,Silver
+C1390,Male,25-34,Houston,South,2024-02-04,Bronze
+C1391,Male,35-44,San Francisco,West,2023-04-21,Silver
+C1392,Male,25-34,New York,East,2025-06-23,Bronze
+C1393,Male,18-24,Seattle,West,2024-02-05,Silver
+C1394,Female,55+,Detroit,North,2023-10-30,Silver
+C1395,Female,25-34,Los Angeles,West,2023-07-16,Bronze
+C1396,Female,55+,Philadelphia,East,2024-11-24,Silver
+C1397,Female,25-34,Miami,South,2023-09-01,Bronze
+C1398,Male,55+,Detroit,North,2025-02-07,Silver
+C1399,Female,35-44,San Francisco,West,2025-02-21,Bronze
+C1400,Female,35-44,Detroit,North,2023-09-07,Bronze
+C1401,Female,35-44,Philadelphia,East,2025-09-09,Bronze
+C1402,Female,18-24,Boston,East,2025-06-07,Bronze
+C1403,Female,35-44,San Francisco,West,2024-01-14,Bronze
+C1404,Female,45-54,Philadelphia,East,2025-09-27,Silver
+C1405,Male,18-24,Seattle,West,2023-09-12,Gold
+C1406,Female,25-34,Minneapolis,North,2024-01-04,Bronze
+C1407,Male,18-24,Minneapolis,North,2024-02-27,Silver
+C1408,Female,25-34,Detroit,North,2023-09-13,Bronze
+C1409,Female,18-24,Seattle,West,2023-01-01,Gold
+C1410,Female,25-34,Atlanta,South,2025-06-30,Bronze
+C1411,Female,25-34,Seattle,West,2024-12-22,Bronze
+C1412,Female,18-24,Los Angeles,West,2024-04-30,Gold
+C1413,Female,25-34,Philadelphia,East,2024-03-18,Silver
+C1414,Female,35-44,Chicago,North,2024-06-06,Bronze
+C1415,Male,55+,Chicago,North,2024-06-04,Bronze
+C1416,Non-binary,35-44,Chicago,North,2024-07-05,Silver
+C1417,Female,25-34,New York,East,2025-11-13,Bronze
+C1418,Female,35-44,Los Angeles,West,2025-02-15,Bronze
+C1419,Female,35-44,Boston,East,2025-04-13,Gold
+C1420,Male,18-24,Los Angeles,West,2023-10-27,Bronze
+C1421,Female,18-24,Los Angeles,West,2024-03-31,Bronze
+C1422,Female,35-44,New York,East,2024-09-19,Bronze
+C1423,Female,35-44,New York,East,2024-07-31,Bronze
+C1424,Female,35-44,Seattle,West,2025-03-08,Gold
+C1425,Female,18-24,New York,East,2025-04-04,Silver
+C1426,Female,25-34,Boston,East,2023-09-16,Bronze
+C1427,Male,25-34,Philadelphia,East,2025-01-28,Bronze
+C1428,Non-binary,35-44,Philadelphia,East,2025-06-17,Bronze
+C1429,Female,45-54,San Francisco,West,2024-04-13,Bronze
+C1430,Male,18-24,Houston,South,2023-07-04,Gold
+C1431,Female,25-34,Minneapolis,North,2023-04-28,Silver
+C1432,Male,45-54,Chicago,North,2025-05-18,Bronze
+C1433,Female,35-44,Philadelphia,East,2023-09-13,Bronze
+C1434,Female,35-44,Miami,South,2024-12-07,Silver
+C1435,Male,35-44,Detroit,North,2025-07-07,Gold
+C1436,Male,25-34,Chicago,North,2025-01-21,Bronze
+C1437,Male,25-34,Miami,South,2025-02-03,Bronze
+C1438,Female,25-34,Boston,East,2023-08-30,Bronze
+C1439,Female,25-34,Philadelphia,East,2025-03-17,Bronze
+C1440,Male,45-54,Los Angeles,West,2025-08-06,Bronze
+C1441,Female,18-24,Boston,East,2024-11-03,Gold
+C1442,Female,25-34,Chicago,North,2024-12-27,Bronze
+C1443,Female,45-54,New York,East,2023-11-11,Bronze
+C1444,Female,25-34,Boston,East,2024-04-08,Bronze
+C1445,Female,25-34,Minneapolis,North,2024-07-05,Bronze
+C1446,Female,45-54,Miami,South,2025-06-07,Bronze
+C1447,Female,25-34,Minneapolis,North,2023-03-24,Gold
+C1448,Male,55+,Minneapolis,North,2024-02-12,Bronze
+C1449,Male,35-44,Boston,East,2025-10-11,Silver
+C1450,Female,45-54,San Francisco,West,2025-03-29,Bronze
+C1451,Female,25-34,Los Angeles,West,2023-02-13,Silver
+C1452,Female,25-34,Houston,South,2024-12-01,Bronze
+C1453,Female,25-34,Miami,South,2025-09-22,Bronze
+C1454,Female,18-24,Boston,East,2024-05-25,Gold
+C1455,Female,35-44,Houston,South,2025-05-28,Silver
+C1456,Female,45-54,Philadelphia,East,2024-01-07,Silver
+C1457,Female,25-34,Houston,South,2023-09-28,Gold
+C1458,Female,18-24,Atlanta,South,2024-02-13,Bronze
+C1459,Female,25-34,New York,East,2024-04-18,Bronze
+C1460,Female,25-34,Boston,East,2024-09-15,Silver
+C1461,Female,18-24,Miami,South,2023-04-08,Silver
+C1462,Female,35-44,Atlanta,South,2025-08-24,Bronze
+C1463,Female,18-24,Seattle,West,2025-01-14,Bronze
+C1464,Female,35-44,Boston,East,2023-09-24,Silver
+C1465,Female,25-34,Philadelphia,East,2025-01-31,Bronze
+C1466,Male,35-44,Los Angeles,West,2023-09-25,Bronze
+C1467,Female,25-34,Los Angeles,West,2024-01-26,Bronze
+C1468,Female,25-34,New York,East,2024-12-03,Bronze
+C1469,Female,25-34,Minneapolis,North,2023-09-19,Gold
+C1470,Male,25-34,Seattle,West,2024-12-12,Bronze
+C1471,Female,45-54,Miami,South,2025-09-15,Silver
+C1472,Male,18-24,Chicago,North,2024-07-15,Gold
+C1473,Male,25-34,Detroit,North,2024-01-25,Bronze
+C1474,Female,35-44,Boston,East,2023-06-03,Bronze
+C1475,Female,18-24,Miami,South,2024-07-10,Bronze
+C1476,Female,35-44,Philadelphia,East,2025-11-16,Bronze
+C1477,Male,25-34,Los Angeles,West,2024-08-29,Bronze
+C1478,Female,18-24,Boston,East,2024-08-20,Gold
+C1479,Male,25-34,Houston,South,2023-04-16,Bronze
+C1480,Male,55+,Minneapolis,North,2024-12-12,Bronze
+C1481,Male,25-34,Philadelphia,East,2024-06-24,Bronze
+C1482,Male,18-24,San Francisco,West,2023-01-22,Bronze
+C1483,Male,35-44,Seattle,West,2023-08-06,Bronze
+C1484,Male,18-24,Boston,East,2024-02-27,Bronze
+C1485,Female,18-24,Philadelphia,East,2025-03-20,Bronze
+C1486,Female,18-24,Chicago,North,2025-09-08,Silver
+C1487,Male,18-24,Minneapolis,North,2025-10-01,Bronze
+C1488,Male,35-44,Chicago,North,2023-12-30,Bronze
+C1489,Female,35-44,Minneapolis,North,2024-05-17,Bronze
+C1490,Female,25-34,New York,East,2023-01-25,Bronze
+C1491,Female,35-44,Minneapolis,North,2023-03-31,Bronze
+C1492,Male,18-24,New York,East,2023-01-28,Bronze
+C1493,Female,25-34,Seattle,West,2023-06-24,Gold
+C1494,Female,18-24,Los Angeles,West,2024-09-21,Bronze
+C1495,Female,18-24,Miami,South,2023-09-10,Bronze
+C1496,Female,45-54,New York,East,2025-04-30,Bronze
+C1497,Male,18-24,Miami,South,2024-12-24,Bronze
+C1498,Female,55+,Los Angeles,West,2023-08-19,Bronze
+C1499,Female,25-34,San Francisco,West,2025-01-01,Gold
+C1500,Female,18-24,Seattle,West,2023-03-30,Bronze
+C1501,Female,35-44,Minneapolis,North,2025-05-20,Silver
+C1502,Female,25-34,Atlanta,South,2023-08-01,Gold
+C1503,Male,45-54,Los Angeles,West,2023-06-06,Silver
+C1504,Female,35-44,Minneapolis,North,2023-10-30,Silver
+C1505,Male,25-34,Chicago,North,2025-05-25,Bronze
+C1506,Female,25-34,Minneapolis,North,2025-02-27,Silver
+C1507,Female,55+,Houston,South,2024-11-13,Bronze
+C1508,Female,45-54,Boston,East,2025-10-05,Bronze
+C1509,Male,18-24,New York,East,2024-03-25,Bronze
+C1510,Female,55+,Los Angeles,West,2025-01-12,Bronze
+C1511,Female,18-24,Miami,South,2023-10-13,Gold
+C1512,Female,18-24,Seattle,West,2024-05-11,Bronze
+C1513,Female,18-24,San Francisco,West,2023-10-21,Bronze
+C1514,Female,25-34,New York,East,2023-06-01,Bronze
+C1515,Female,18-24,Atlanta,South,2023-06-11,Bronze
+C1516,Male,35-44,Minneapolis,North,2023-10-14,Bronze
+C1517,Male,35-44,Boston,East,2025-06-28,Bronze
+C1518,Female,18-24,Chicago,North,2023-03-07,Bronze
+C1519,Female,45-54,Seattle,West,2025-07-19,Bronze
+C1520,Male,25-34,New York,East,2025-05-17,Bronze
+C1521,Male,25-34,Los Angeles,West,2023-09-14,Bronze
+C1522,Male,25-34,Minneapolis,North,2023-06-08,Silver
+C1523,Female,35-44,Miami,South,2025-02-18,Bronze
+C1524,Female,35-44,Atlanta,South,2023-08-02,Bronze
+C1525,Female,25-34,Atlanta,South,2023-08-07,Bronze
+C1526,Female,18-24,Miami,South,2023-03-08,Bronze
+C1527,Female,25-34,Boston,East,2025-09-17,Bronze
+C1528,Male,25-34,Atlanta,South,2024-08-01,Silver
+C1529,Male,18-24,Boston,East,2023-09-23,Gold
+C1530,Male,18-24,Philadelphia,East,2025-10-25,Silver
+C1531,Female,18-24,Boston,East,2023-03-18,Bronze
+C1532,Male,35-44,Philadelphia,East,2024-04-19,Bronze
+C1533,Female,35-44,Philadelphia,East,2025-10-24,Bronze
+C1534,Male,25-34,San Francisco,West,2025-07-05,Silver
+C1535,Male,35-44,San Francisco,West,2023-03-23,Bronze
+C1536,Male,25-34,San Francisco,West,2023-06-03,Bronze
+C1537,Female,55+,Chicago,North,2024-09-25,Bronze
+C1538,Male,18-24,Boston,East,2023-12-14,Bronze
+C1539,Female,35-44,Atlanta,South,2023-05-26,Gold
+C1540,Male,18-24,Los Angeles,West,2025-06-24,Gold
+C1541,Male,25-34,Philadelphia,East,2025-01-14,Gold
+C1542,Female,35-44,Minneapolis,North,2025-01-21,Bronze
+C1543,Female,45-54,Philadelphia,East,2025-11-02,Bronze
+C1544,Male,25-34,Seattle,West,2023-04-27,Bronze
+C1545,Female,25-34,Los Angeles,West,2024-08-18,Bronze
+C1546,Female,25-34,Seattle,West,2023-07-11,Gold
+C1547,Female,18-24,Boston,East,2023-06-25,Silver
+C1548,Female,25-34,Detroit,North,2024-11-04,Bronze
+C1549,Female,25-34,Philadelphia,East,2025-09-02,Bronze
+C1550,Female,18-24,Philadelphia,East,2024-03-13,Silver
+C1551,Male,55+,Chicago,North,2025-01-10,Bronze
+C1552,Female,35-44,Los Angeles,West,2025-05-16,Bronze
+C1553,Female,35-44,Atlanta,South,2023-06-17,Bronze
+C1554,Female,18-24,Boston,East,2024-06-15,Bronze
+C1555,Female,55+,San Francisco,West,2023-12-03,Bronze
+C1556,Male,25-34,Philadelphia,East,2023-11-26,Bronze
+C1557,Female,35-44,Seattle,West,2024-02-11,Bronze
+C1558,Female,45-54,New York,East,2024-10-10,Bronze
+C1559,Female,35-44,Atlanta,South,2025-04-12,Gold
+C1560,Male,25-34,Los Angeles,West,2025-07-09,Bronze
+C1561,Male,35-44,Seattle,West,2025-05-10,Bronze
+C1562,Non-binary,25-34,Houston,South,2024-01-27,Bronze
+C1563,Male,25-34,Houston,South,2024-09-10,Silver
+C1564,Female,25-34,Philadelphia,East,2025-07-22,Bronze
+C1565,Female,18-24,San Francisco,West,2024-11-18,Bronze
+C1566,Female,25-34,Philadelphia,East,2023-11-30,Silver
+C1567,Male,45-54,Houston,South,2024-08-03,Gold
+C1568,Female,18-24,San Francisco,West,2023-08-01,Bronze
+C1569,Male,25-34,Los Angeles,West,2023-07-24,Silver
+C1570,Female,25-34,San Francisco,West,2024-03-09,Bronze
+C1571,Female,35-44,San Francisco,West,2023-09-12,Bronze
+C1572,Female,25-34,Los Angeles,West,2025-03-21,Bronze
+C1573,Female,45-54,Atlanta,South,2024-06-25,Silver
+C1574,Female,18-24,Minneapolis,North,2025-04-29,Silver
+C1575,Female,55+,Boston,East,2024-10-12,Bronze
+C1576,Female,25-34,Los Angeles,West,2024-01-30,Silver
+C1577,Male,25-34,Philadelphia,East,2023-09-21,Bronze
+C1578,Female,18-24,Los Angeles,West,2023-11-21,Bronze
+C1579,Male,35-44,Boston,East,2025-03-13,Silver
+C1580,Female,18-24,Minneapolis,North,2024-10-22,Bronze
+C1581,Female,35-44,Los Angeles,West,2023-11-10,Bronze
+C1582,Non-binary,35-44,Minneapolis,North,2023-09-25,Bronze
+C1583,Female,25-34,New York,East,2024-03-30,Silver
+C1584,Male,35-44,San Francisco,West,2025-02-13,Bronze
+C1585,Male,25-34,Chicago,North,2023-02-17,Bronze
+C1586,Female,25-34,Los Angeles,West,2023-09-09,Bronze
+C1587,Male,18-24,New York,East,2025-01-10,Bronze
+C1588,Female,35-44,Chicago,North,2023-05-31,Silver
+C1589,Male,25-34,Houston,South,2024-10-04,Bronze
+C1590,Male,35-44,Chicago,North,2024-01-01,Bronze
+C1591,Female,35-44,Miami,South,2024-12-11,Bronze
+C1592,Male,18-24,New York,East,2024-06-05,Bronze
+C1593,Female,25-34,New York,East,2023-11-09,Bronze
+C1594,Male,45-54,Minneapolis,North,2023-06-20,Bronze
+C1595,Female,25-34,Minneapolis,North,2023-07-08,Bronze
+C1596,Female,25-34,Los Angeles,West,2025-06-12,Bronze
+C1597,Male,18-24,Detroit,North,2024-07-29,Bronze
+C1598,Female,25-34,Seattle,West,2025-09-26,Silver
+C1599,Female,25-34,Seattle,West,2023-08-09,Bronze
+C1600,Female,45-54,Seattle,West,2023-05-12,Bronze
+C1601,Female,18-24,Atlanta,South,2024-12-22,Bronze
+C1602,Female,35-44,Minneapolis,North,2024-05-17,Bronze
+C1603,Female,18-24,Atlanta,South,2023-01-20,Bronze
+C1604,Male,25-34,Boston,East,2024-10-20,Bronze
+C1605,Female,25-34,Miami,South,2024-03-21,Gold
+C1606,Female,35-44,Seattle,West,2023-06-03,Silver
+C1607,Female,18-24,Atlanta,South,2024-10-17,Bronze
+C1608,Female,25-34,Seattle,West,2025-05-12,Bronze
+C1609,Female,35-44,Miami,South,2023-02-13,Gold
+C1610,Female,55+,Los Angeles,West,2024-08-05,Gold
+C1611,Female,18-24,San Francisco,West,2023-03-22,Bronze
+C1612,Female,35-44,San Francisco,West,2024-09-08,Bronze
+C1613,Female,25-34,Seattle,West,2025-10-08,Gold
+C1614,Male,45-54,New York,East,2023-09-06,Bronze
+C1615,Female,55+,Detroit,North,2023-01-22,Silver
+C1616,Female,45-54,Atlanta,South,2023-06-30,Silver
+C1617,Male,45-54,Boston,East,2023-01-11,Gold
+C1618,Male,18-24,Minneapolis,North,2023-04-09,Silver
+C1619,Female,18-24,Los Angeles,West,2025-02-16,Bronze
+C1620,Male,35-44,Minneapolis,North,2024-10-15,Silver
+C1621,Female,35-44,Boston,East,2024-05-07,Bronze
+C1622,Female,35-44,Philadelphia,East,2024-04-07,Bronze
+C1623,Male,35-44,New York,East,2024-05-11,Silver
+C1624,Female,18-24,Chicago,North,2025-10-09,Bronze
+C1625,Female,18-24,Miami,South,2025-09-25,Silver
+C1626,Male,25-34,Boston,East,2024-10-03,Silver
+C1627,Male,18-24,San Francisco,West,2023-08-05,Bronze
+C1628,Male,18-24,Boston,East,2024-02-20,Bronze
+C1629,Female,45-54,Philadelphia,East,2023-07-29,Bronze
+C1630,Female,18-24,Detroit,North,2025-08-01,Bronze
+C1631,Male,18-24,Atlanta,South,2023-08-31,Bronze
+C1632,Female,18-24,Atlanta,South,2025-06-01,Bronze
+C1633,Male,25-34,Minneapolis,North,2025-02-22,Bronze
+C1634,Female,25-34,Minneapolis,North,2024-07-19,Bronze
+C1635,Male,18-24,Chicago,North,2024-05-24,Gold
+C1636,Female,18-24,New York,East,2024-05-03,Gold
+C1637,Female,18-24,Philadelphia,East,2025-04-08,Silver
+C1638,Female,35-44,Boston,East,2025-10-11,Silver
+C1639,Male,18-24,Philadelphia,East,2024-08-12,Gold
+C1640,Male,35-44,New York,East,2024-09-17,Bronze
+C1641,Female,25-34,Chicago,North,2024-01-19,Silver
+C1642,Female,25-34,Houston,South,2023-02-12,Bronze
+C1643,Female,55+,Seattle,West,2023-01-20,Bronze
+C1644,Female,35-44,Seattle,West,2025-08-25,Silver
+C1645,Female,18-24,Houston,South,2024-04-12,Silver
+C1646,Female,35-44,Detroit,North,2024-11-18,Bronze
+C1647,Female,45-54,Boston,East,2025-01-16,Silver
+C1648,Female,35-44,Seattle,West,2025-09-18,Silver
+C1649,Male,35-44,Chicago,North,2025-04-20,Bronze
+C1650,Female,35-44,Chicago,North,2025-06-01,Gold
+C1651,Male,45-54,Miami,South,2023-08-10,Bronze
+C1652,Female,35-44,San Francisco,West,2023-12-25,Bronze
+C1653,Female,18-24,Miami,South,2024-07-19,Silver
+C1654,Female,25-34,San Francisco,West,2023-09-09,Bronze
+C1655,Male,18-24,Seattle,West,2025-10-18,Bronze
+C1656,Female,25-34,San Francisco,West,2023-11-30,Bronze
+C1657,Male,18-24,Minneapolis,North,2024-08-02,Bronze
+C1658,Female,18-24,Atlanta,South,2023-01-02,Silver
+C1659,Male,35-44,New York,East,2023-11-14,Gold
+C1660,Female,18-24,Minneapolis,North,2023-06-15,Bronze
+C1661,Female,55+,New York,East,2025-03-02,Gold
+C1662,Female,25-34,San Francisco,West,2024-09-28,Silver
+C1663,Female,25-34,Chicago,North,2024-02-13,Bronze
+C1664,Female,25-34,Minneapolis,North,2025-08-02,Bronze
+C1665,Female,35-44,Boston,East,2024-10-03,Bronze
+C1666,Male,25-34,Miami,South,2025-05-11,Bronze
+C1667,Male,35-44,San Francisco,West,2023-07-01,Silver
+C1668,Female,25-34,Philadelphia,East,2025-02-03,Silver
+C1669,Female,35-44,Minneapolis,North,2025-03-15,Silver
+C1670,Male,18-24,San Francisco,West,2025-07-31,Silver
+C1671,Female,45-54,Philadelphia,East,2024-11-13,Bronze
+C1672,Female,25-34,Miami,South,2023-05-05,Silver
+C1673,Female,25-34,Minneapolis,North,2024-02-24,Bronze
+C1674,Female,25-34,Los Angeles,West,2023-11-13,Silver
+C1675,Female,18-24,Philadelphia,East,2024-02-16,Silver
+C1676,Female,25-34,Philadelphia,East,2024-05-21,Bronze
+C1677,Female,25-34,Chicago,North,2023-09-07,Silver
+C1678,Male,35-44,Seattle,West,2024-06-17,Silver
+C1679,Female,35-44,Miami,South,2023-02-14,Bronze
+C1680,Female,25-34,Philadelphia,East,2024-02-15,Bronze
+C1681,Male,25-34,Philadelphia,East,2025-01-22,Silver
+C1682,Female,25-34,New York,East,2025-05-20,Bronze
+C1683,Female,35-44,Detroit,North,2024-09-12,Silver
+C1684,Male,25-34,Detroit,North,2024-12-27,Bronze
+C1685,Female,45-54,Detroit,North,2023-11-21,Bronze
+C1686,Female,18-24,Los Angeles,West,2025-03-10,Bronze
+C1687,Female,45-54,New York,East,2024-11-25,Bronze
+C1688,Male,18-24,Seattle,West,2024-09-12,Bronze
+C1689,Female,45-54,Seattle,West,2024-01-05,Bronze
+C1690,Female,25-34,Detroit,North,2024-10-25,Silver
+C1691,Female,35-44,Houston,South,2023-04-03,Bronze
+C1692,Female,18-24,Detroit,North,2025-09-02,Silver
+C1693,Male,25-34,Minneapolis,North,2023-12-23,Gold
+C1694,Female,45-54,Chicago,North,2024-05-27,Bronze
+C1695,Male,25-34,Miami,South,2023-03-02,Bronze
+C1696,Female,25-34,Detroit,North,2024-02-14,Bronze
+C1697,Female,25-34,Houston,South,2023-11-28,Bronze
+C1698,Female,35-44,Chicago,North,2023-07-17,Bronze
+C1699,Female,35-44,Miami,South,2023-05-28,Silver
+C1700,Female,25-34,Boston,East,2024-02-29,Bronze
+C1701,Male,25-34,Seattle,West,2023-10-10,Bronze
+C1702,Female,25-34,Chicago,North,2023-06-10,Bronze
+C1703,Female,45-54,Atlanta,South,2024-11-08,Gold
+C1704,Female,45-54,Atlanta,South,2025-01-02,Bronze
+C1705,Female,35-44,Philadelphia,East,2025-10-21,Silver
+C1706,Male,55+,Detroit,North,2025-08-22,Bronze
+C1707,Female,45-54,Houston,South,2024-06-18,Bronze
+C1708,Male,35-44,New York,East,2024-11-06,Bronze
+C1709,Female,18-24,Minneapolis,North,2023-03-14,Bronze
+C1710,Male,25-34,New York,East,2023-06-15,Bronze
+C1711,Female,18-24,Minneapolis,North,2023-03-14,Bronze
+C1712,Female,18-24,Houston,South,2024-04-11,Bronze
+C1713,Female,18-24,San Francisco,West,2023-02-07,Silver
+C1714,Female,18-24,Houston,South,2025-05-24,Gold
+C1715,Female,25-34,Los Angeles,West,2025-01-23,Bronze
+C1716,Female,35-44,Detroit,North,2023-01-21,Bronze
+C1717,Male,25-34,Los Angeles,West,2023-01-31,Bronze
+C1718,Female,25-34,Detroit,North,2024-01-05,Silver
+C1719,Female,25-34,Miami,South,2024-08-21,Bronze
+C1720,Male,18-24,Detroit,North,2024-05-27,Silver
+C1721,Female,25-34,Atlanta,South,2024-03-27,Silver
+C1722,Female,25-34,Miami,South,2024-05-15,Bronze
+C1723,Male,35-44,Detroit,North,2024-12-10,Bronze
+C1724,Male,25-34,Minneapolis,North,2023-10-08,Silver
+C1725,Male,35-44,Houston,South,2025-02-01,Gold
+C1726,Male,18-24,New York,East,2025-07-18,Bronze
+C1727,Male,18-24,Boston,East,2024-09-07,Silver
+C1728,Male,25-34,Houston,South,2023-02-08,Bronze
+C1729,Female,35-44,Houston,South,2025-06-01,Bronze
+C1730,Male,35-44,Atlanta,South,2023-02-23,Gold
+C1731,Male,25-34,Seattle,West,2024-03-19,Bronze
+C1732,Male,25-34,Miami,South,2023-04-27,Gold
+C1733,Female,35-44,Miami,South,2025-08-07,Bronze
+C1734,Male,45-54,Los Angeles,West,2025-08-15,Gold
+C1735,Female,25-34,Miami,South,2024-07-15,Bronze
+C1736,Female,25-34,Philadelphia,East,2023-03-21,Bronze
+C1737,Female,25-34,Boston,East,2023-01-26,Silver
+C1738,Female,25-34,San Francisco,West,2025-06-27,Bronze
+C1739,Female,25-34,Houston,South,2024-03-22,Bronze
+C1740,Male,25-34,Boston,East,2024-10-05,Silver
+C1741,Female,35-44,Houston,South,2025-10-10,Silver
+C1742,Female,18-24,Philadelphia,East,2024-04-21,Bronze
+C1743,Female,35-44,New York,East,2024-10-11,Gold
+C1744,Female,45-54,San Francisco,West,2024-06-11,Bronze
+C1745,Female,18-24,Minneapolis,North,2024-04-25,Bronze
+C1746,Female,25-34,Detroit,North,2024-02-22,Bronze
+C1747,Female,25-34,Boston,East,2024-08-02,Bronze
+C1748,Female,55+,Miami,South,2025-02-06,Bronze
+C1749,Male,45-54,Houston,South,2024-08-18,Bronze
+C1750,Female,35-44,Miami,South,2024-10-03,Silver
+C1751,Female,25-34,Philadelphia,East,2024-03-16,Silver
+C1752,Male,55+,Houston,South,2023-06-10,Bronze
+C1753,Female,18-24,Seattle,West,2025-05-06,Silver
+C1754,Female,18-24,Philadelphia,East,2025-06-22,Bronze
+C1755,Male,55+,Houston,South,2024-05-12,Bronze
+C1756,Male,25-34,San Francisco,West,2023-08-25,Bronze
+C1757,Female,25-34,Atlanta,South,2025-11-01,Silver
+C1758,Female,45-54,New York,East,2025-05-07,Gold
+C1759,Male,35-44,Miami,South,2025-04-14,Bronze
+C1760,Female,25-34,Miami,South,2024-10-04,Gold
+C1761,Male,45-54,New York,East,2024-02-10,Bronze
+C1762,Male,18-24,Houston,South,2025-08-20,Silver
+C1763,Non-binary,18-24,Detroit,North,2023-12-08,Gold
+C1764,Female,35-44,Los Angeles,West,2024-12-26,Silver
+C1765,Female,35-44,Detroit,North,2024-11-20,Bronze
+C1766,Male,45-54,Philadelphia,East,2024-12-27,Bronze
+C1767,Male,35-44,Seattle,West,2024-08-15,Bronze
+C1768,Female,45-54,Seattle,West,2025-11-09,Bronze
+C1769,Female,25-34,Philadelphia,East,2025-07-17,Silver
+C1770,Female,25-34,Houston,South,2023-07-18,Bronze
+C1771,Male,25-34,San Francisco,West,2025-11-06,Bronze
+C1772,Female,55+,Seattle,West,2023-10-21,Bronze
+C1773,Female,25-34,New York,East,2024-10-05,Bronze
+C1774,Male,25-34,Boston,East,2024-04-03,Gold
+C1775,Male,18-24,Los Angeles,West,2024-04-19,Bronze
+C1776,Female,45-54,Philadelphia,East,2023-12-12,Bronze
+C1777,Male,18-24,Chicago,North,2025-09-27,Bronze
+C1778,Male,25-34,San Francisco,West,2025-05-23,Bronze
+C1779,Female,25-34,Minneapolis,North,2023-09-03,Bronze
+C1780,Male,18-24,Minneapolis,North,2024-07-24,Silver
+C1781,Male,25-34,Seattle,West,2024-03-31,Bronze
+C1782,Male,18-24,Philadelphia,East,2025-11-16,Bronze
+C1783,Female,35-44,Seattle,West,2025-06-06,Bronze
+C1784,Male,35-44,Los Angeles,West,2023-03-14,Bronze
+C1785,Male,25-34,Houston,South,2024-03-26,Bronze
+C1786,Female,18-24,Chicago,North,2025-10-14,Gold
+C1787,Female,18-24,Seattle,West,2024-03-14,Silver
+C1788,Female,25-34,Boston,East,2023-03-21,Silver
+C1789,Female,35-44,Houston,South,2024-12-15,Silver
+C1790,Male,25-34,Seattle,West,2024-08-21,Bronze
+C1791,Female,18-24,Atlanta,South,2025-09-12,Bronze
+C1792,Male,18-24,Boston,East,2024-05-21,Gold
+C1793,Male,35-44,Boston,East,2024-12-12,Silver
+C1794,Male,18-24,San Francisco,West,2025-04-23,Bronze
+C1795,Female,35-44,San Francisco,West,2025-04-17,Silver
+C1796,Female,25-34,Houston,South,2025-06-24,Bronze
+C1797,Male,18-24,Boston,East,2024-11-26,Bronze
+C1798,Female,35-44,New York,East,2023-12-08,Gold
+C1799,Female,25-34,Philadelphia,East,2024-11-06,Bronze
+C1800,Male,35-44,Miami,South,2024-11-13,Bronze
+C1801,Female,18-24,Chicago,North,2024-03-07,Silver
+C1802,Female,18-24,Atlanta,South,2024-04-14,Bronze
+C1803,Male,18-24,Houston,South,2024-05-24,Silver
+C1804,Female,25-34,New York,East,2025-10-24,Bronze
+C1805,Female,35-44,Minneapolis,North,2024-05-21,Silver
+C1806,Male,18-24,Detroit,North,2024-07-06,Silver
+C1807,Female,35-44,Seattle,West,2025-04-30,Silver
+C1808,Female,35-44,Minneapolis,North,2025-03-12,Silver
+C1809,Female,25-34,Houston,South,2023-02-17,Bronze
+C1810,Female,25-34,New York,East,2025-08-23,Gold
+C1811,Female,35-44,Philadelphia,East,2025-09-16,Bronze
+C1812,Male,55+,Detroit,North,2025-10-14,Silver
+C1813,Female,18-24,Boston,East,2023-02-20,Bronze
+C1814,Female,35-44,Chicago,North,2024-09-28,Bronze
+C1815,Female,18-24,Minneapolis,North,2025-09-30,Silver
+C1816,Female,25-34,Boston,East,2024-04-21,Bronze
+C1817,Female,35-44,Miami,South,2023-11-05,Bronze
+C1818,Male,35-44,Detroit,North,2024-03-04,Bronze
+C1819,Female,35-44,Seattle,West,2024-04-27,Bronze
+C1820,Male,25-34,New York,East,2023-06-16,Bronze
+C1821,Female,18-24,Los Angeles,West,2023-11-28,Bronze
+C1822,Male,25-34,Seattle,West,2023-03-21,Silver
+C1823,Female,25-34,Boston,East,2025-05-06,Gold
+C1824,Female,35-44,Boston,East,2024-07-09,Bronze
+C1825,Female,18-24,Detroit,North,2024-08-17,Gold
+C1826,Female,18-24,Atlanta,South,2024-05-29,Gold
+C1827,Female,35-44,Boston,East,2023-10-05,Bronze
+C1828,Female,55+,Houston,South,2023-11-04,Bronze
+C1829,Female,25-34,Chicago,North,2023-07-12,Silver
+C1830,Female,25-34,New York,East,2023-05-17,Bronze
+C1831,Female,45-54,Minneapolis,North,2024-01-30,Bronze
+C1832,Male,25-34,Miami,South,2025-04-05,Silver
+C1833,Female,18-24,Chicago,North,2023-11-09,Bronze
+C1834,Female,35-44,Detroit,North,2025-02-23,Silver
+C1835,Female,18-24,Los Angeles,West,2025-08-27,Gold
+C1836,Female,25-34,Chicago,North,2023-10-28,Bronze
+C1837,Female,35-44,San Francisco,West,2023-04-17,Silver
+C1838,Male,25-34,Atlanta,South,2025-10-21,Bronze
+C1839,Female,45-54,Atlanta,South,2025-08-29,Bronze
+C1840,Male,55+,San Francisco,West,2024-03-14,Silver
+C1841,Female,35-44,Seattle,West,2025-06-23,Bronze
+C1842,Female,45-54,San Francisco,West,2024-12-14,Silver
+C1843,Female,25-34,Houston,South,2025-05-18,Bronze
+C1844,Female,25-34,Chicago,North,2023-01-22,Bronze
+C1845,Male,45-54,Miami,South,2023-07-12,Gold
+C1846,Male,35-44,Boston,East,2023-03-10,Bronze
+C1847,Female,18-24,Philadelphia,East,2024-06-02,Silver
+C1848,Non-binary,35-44,San Francisco,West,2025-08-22,Bronze
+C1849,Female,18-24,Seattle,West,2023-08-01,Bronze
+C1850,Female,45-54,New York,East,2023-09-27,Bronze
+C1851,Female,45-54,Boston,East,2023-05-08,Gold
+C1852,Female,35-44,Minneapolis,North,2023-02-04,Gold
+C1853,Female,55+,Minneapolis,North,2025-01-20,Bronze
+C1854,Female,45-54,Philadelphia,East,2023-05-06,Bronze
+C1855,Female,25-34,Houston,South,2023-12-20,Silver
+C1856,Female,25-34,Houston,South,2023-01-07,Bronze
+C1857,Female,25-34,New York,East,2023-06-26,Gold
+C1858,Female,25-34,Chicago,North,2023-06-26,Silver
+C1859,Male,25-34,Seattle,West,2024-03-21,Gold
+C1860,Male,35-44,Atlanta,South,2024-01-27,Bronze
+C1861,Female,25-34,Boston,East,2023-12-31,Bronze
+C1862,Female,25-34,Detroit,North,2024-02-13,Bronze
+C1863,Female,25-34,Detroit,North,2024-12-28,Bronze
+C1864,Female,45-54,San Francisco,West,2023-12-16,Bronze
+C1865,Female,35-44,Boston,East,2025-06-07,Bronze
+C1866,Female,35-44,Boston,East,2025-10-28,Bronze
+C1867,Female,25-34,Los Angeles,West,2024-06-12,Bronze
+C1868,Female,25-34,Boston,East,2025-08-31,Bronze
+C1869,Female,18-24,Boston,East,2023-03-11,Silver
+C1870,Female,25-34,Chicago,North,2025-05-13,Bronze
+C1871,Female,18-24,Houston,South,2023-11-30,Bronze
+C1872,Male,25-34,New York,East,2025-06-09,Bronze
+C1873,Female,25-34,Houston,South,2024-11-22,Gold
+C1874,Female,25-34,San Francisco,West,2025-11-04,Gold
+C1875,Female,18-24,Atlanta,South,2023-02-28,Gold
+C1876,Male,25-34,Los Angeles,West,2024-02-11,Bronze
+C1877,Non-binary,25-34,Houston,South,2023-04-21,Silver
+C1878,Female,35-44,New York,East,2023-12-05,Gold
+C1879,Female,45-54,Atlanta,South,2023-06-14,Bronze
+C1880,Female,18-24,Houston,South,2025-02-05,Bronze
+C1881,Male,35-44,Boston,East,2024-03-11,Silver
+C1882,Female,25-34,Los Angeles,West,2023-07-16,Bronze
+C1883,Male,35-44,Atlanta,South,2024-08-02,Bronze
+C1884,Female,35-44,Philadelphia,East,2024-12-11,Bronze
+C1885,Male,25-34,San Francisco,West,2023-12-31,Bronze
+C1886,Male,35-44,Chicago,North,2025-03-26,Bronze
+C1887,Female,25-34,Detroit,North,2024-09-10,Bronze
+C1888,Female,45-54,Chicago,North,2024-09-29,Bronze
+C1889,Female,35-44,Los Angeles,West,2024-01-03,Bronze
+C1890,Male,25-34,Chicago,North,2023-07-27,Bronze
+C1891,Female,25-34,Minneapolis,North,2025-11-04,Silver
+C1892,Male,25-34,Boston,East,2025-05-15,Silver
+C1893,Female,35-44,Detroit,North,2025-07-11,Bronze
+C1894,Female,18-24,Boston,East,2025-01-17,Bronze
+C1895,Female,25-34,Miami,South,2023-06-13,Bronze
+C1896,Female,25-34,Chicago,North,2025-07-20,Bronze
+C1897,Female,25-34,Boston,East,2025-01-21,Bronze
+C1898,Male,18-24,Atlanta,South,2024-08-29,Bronze
+C1899,Female,25-34,Houston,South,2023-02-05,Bronze
+C1900,Female,25-34,Houston,South,2023-03-16,Bronze
+C1901,Male,25-34,Minneapolis,North,2023-10-24,Bronze
+C1902,Male,45-54,Philadelphia,East,2024-05-14,Silver
+C1903,Female,25-34,New York,East,2023-03-25,Silver
+C1904,Female,55+,New York,East,2023-07-27,Bronze
+C1905,Female,18-24,Philadelphia,East,2024-09-10,Bronze
+C1906,Male,25-34,New York,East,2023-06-12,Silver
+C1907,Female,25-34,New York,East,2024-09-12,Silver
+C1908,Female,45-54,Minneapolis,North,2025-08-26,Silver
+C1909,Female,18-24,San Francisco,West,2024-07-20,Gold
+C1910,Female,18-24,Boston,East,2024-07-12,Silver
+C1911,Female,55+,Atlanta,South,2025-08-05,Bronze
+C1912,Female,35-44,Miami,South,2024-10-26,Silver
+C1913,Male,25-34,San Francisco,West,2025-05-11,Bronze
+C1914,Female,25-34,Boston,East,2024-12-03,Bronze
+C1915,Female,35-44,Seattle,West,2025-10-18,Bronze
+C1916,Male,25-34,Atlanta,South,2023-06-10,Bronze
+C1917,Female,35-44,San Francisco,West,2025-01-26,Silver
+C1918,Male,25-34,Minneapolis,North,2023-12-08,Gold
+C1919,Female,25-34,Chicago,North,2024-08-04,Bronze
+C1920,Female,45-54,New York,East,2025-02-14,Bronze
+C1921,Female,18-24,Houston,South,2023-08-15,Silver
+C1922,Female,25-34,Los Angeles,West,2025-04-01,Bronze
+C1923,Male,35-44,Philadelphia,East,2024-10-16,Gold
+C1924,Female,25-34,Los Angeles,West,2024-10-12,Silver
+C1925,Female,45-54,New York,East,2025-08-08,Gold
+C1926,Female,45-54,Minneapolis,North,2024-08-13,Silver
+C1927,Female,35-44,Boston,East,2023-07-21,Bronze
+C1928,Female,35-44,New York,East,2024-04-04,Bronze
+C1929,Female,25-34,Philadelphia,East,2023-02-16,Silver
+C1930,Female,35-44,Philadelphia,East,2025-01-28,Bronze
+C1931,Male,18-24,Boston,East,2024-01-31,Silver
+C1932,Male,45-54,Atlanta,South,2025-08-25,Bronze
+C1933,Female,25-34,Chicago,North,2023-03-05,Silver
+C1934,Male,55+,Philadelphia,East,2024-05-10,Silver
+C1935,Male,45-54,Los Angeles,West,2024-11-09,Bronze
+C1936,Male,35-44,San Francisco,West,2023-01-15,Silver
+C1937,Female,25-34,San Francisco,West,2025-02-28,Gold
+C1938,Female,45-54,New York,East,2023-02-18,Bronze
+C1939,Female,35-44,Miami,South,2023-03-23,Silver
+C1940,Female,45-54,Philadelphia,East,2023-09-12,Silver
+C1941,Female,35-44,Chicago,North,2023-12-13,Gold
+C1942,Female,25-34,Seattle,West,2024-03-06,Bronze
+C1943,Male,35-44,San Francisco,West,2025-10-03,Bronze
+C1944,Male,25-34,Philadelphia,East,2025-07-11,Bronze
+C1945,Female,45-54,Detroit,North,2024-08-13,Bronze
+C1946,Female,25-34,Miami,South,2023-11-21,Bronze
+C1947,Female,25-34,Atlanta,South,2023-09-21,Bronze
+C1948,Female,18-24,Houston,South,2024-03-09,Bronze
+C1949,Female,45-54,Boston,East,2025-04-11,Silver
+C1950,Female,25-34,Boston,East,2025-10-23,Silver
+C1951,Female,45-54,Los Angeles,West,2025-09-14,Silver
+C1952,Female,18-24,Minneapolis,North,2024-04-05,Silver
+C1953,Male,25-34,Boston,East,2023-09-02,Bronze
+C1954,Male,45-54,Philadelphia,East,2023-01-25,Gold
+C1955,Male,25-34,Los Angeles,West,2025-01-14,Gold
+C1956,Female,25-34,Philadelphia,East,2024-07-09,Bronze
+C1957,Female,25-34,Chicago,North,2023-04-25,Bronze
+C1958,Female,35-44,New York,East,2024-05-16,Bronze
+C1959,Female,18-24,New York,East,2024-07-22,Gold
+C1960,Female,18-24,Detroit,North,2024-09-12,Silver
+C1961,Female,35-44,Boston,East,2023-07-21,Silver
+C1962,Female,18-24,Chicago,North,2025-09-06,Bronze
+C1963,Female,18-24,Boston,East,2025-09-24,Silver
+C1964,Male,18-24,Detroit,North,2025-06-25,Silver
+C1965,Female,25-34,Boston,East,2023-01-02,Bronze
+C1966,Female,25-34,Detroit,North,2025-11-04,Bronze
+C1967,Female,35-44,Seattle,West,2024-05-24,Bronze
+C1968,Female,25-34,Philadelphia,East,2024-01-09,Bronze
+C1969,Male,35-44,Chicago,North,2023-05-15,Gold
+C1970,Female,18-24,New York,East,2024-01-10,Bronze
+C1971,Male,25-34,Philadelphia,East,2024-10-17,Bronze
+C1972,Female,18-24,Boston,East,2023-11-13,Silver
+C1973,Female,25-34,San Francisco,West,2023-11-18,Silver
+C1974,Female,25-34,San Francisco,West,2024-07-05,Bronze
+C1975,Male,25-34,Atlanta,South,2024-12-25,Bronze
+C1976,Female,45-54,Houston,South,2025-05-04,Gold
+C1977,Non-binary,35-44,Houston,South,2023-10-14,Silver
+C1978,Female,25-34,Atlanta,South,2024-06-08,Bronze
+C1979,Male,35-44,Atlanta,South,2024-02-13,Silver
+C1980,Female,35-44,Detroit,North,2024-05-12,Bronze
+C1981,Male,25-34,Seattle,West,2023-04-05,Bronze
+C1982,Female,18-24,Atlanta,South,2025-02-07,Bronze
+C1983,Female,18-24,Miami,South,2024-08-05,Bronze
+C1984,Male,45-54,Seattle,West,2025-04-27,Bronze
+C1985,Female,25-34,Detroit,North,2023-06-30,Silver
+C1986,Male,18-24,Houston,South,2024-08-19,Silver
+C1987,Male,25-34,Boston,East,2024-10-04,Silver
+C1988,Female,25-34,Atlanta,South,2024-10-19,Bronze
+C1989,Female,35-44,Los Angeles,West,2024-06-14,Bronze
+C1990,Female,25-34,New York,East,2025-05-25,Silver
+C1991,Female,25-34,Chicago,North,2025-11-15,Gold
+C1992,Male,25-34,Seattle,West,2024-10-31,Bronze
+C1993,Female,55+,Chicago,North,2023-06-04,Bronze
+C1994,Female,25-34,Seattle,West,2023-06-29,Gold
+C1995,Male,25-34,Seattle,West,2025-06-01,Bronze
+C1996,Male,25-34,Miami,South,2024-01-08,Silver
+C1997,Male,25-34,Boston,East,2025-06-04,Bronze
+C1998,Female,25-34,Los Angeles,West,2023-02-08,Bronze
+C1999,Female,35-44,Houston,South,2024-10-30,Silver
+C2000,Male,35-44,Philadelphia,East,2024-12-27,Bronze
+C2001,Female,18-24,Seattle,West,2024-02-27,Silver
+C2002,Female,55+,San Francisco,West,2023-09-18,Silver
+C2003,Female,18-24,San Francisco,West,2024-03-03,Bronze
+C2004,Female,45-54,San Francisco,West,2024-12-28,Bronze
+C2005,Female,35-44,Seattle,West,2023-02-22,Bronze
+C2006,Female,18-24,Minneapolis,North,2025-06-17,Bronze
+C2007,Female,25-34,Detroit,North,2023-12-25,Bronze
+C2008,Male,35-44,San Francisco,West,2023-09-04,Silver
+C2009,Female,18-24,Miami,South,2024-01-27,Bronze
+C2010,Male,18-24,Atlanta,South,2023-08-18,Silver
+C2011,Female,55+,Houston,South,2023-07-24,Bronze
+C2012,Female,35-44,Seattle,West,2024-09-07,Silver
+C2013,Female,55+,Miami,South,2025-08-23,Silver
+C2014,Male,18-24,Houston,South,2023-10-16,Bronze
+C2015,Male,18-24,Chicago,North,2025-08-20,Silver
+C2016,Female,45-54,Boston,East,2025-01-31,Bronze
+C2017,Male,35-44,Los Angeles,West,2023-11-07,Bronze
+C2018,Female,18-24,San Francisco,West,2023-11-29,Silver
+C2019,Male,18-24,Los Angeles,West,2024-06-27,Bronze
+C2020,Male,18-24,San Francisco,West,2023-03-12,Bronze
+C2021,Female,18-24,Houston,South,2023-12-14,Bronze
+C2022,Male,25-34,San Francisco,West,2023-08-19,Silver
+C2023,Male,35-44,New York,East,2023-10-03,Bronze
+C2024,Female,35-44,Boston,East,2024-06-10,Gold
+C2025,Female,35-44,Philadelphia,East,2023-07-17,Bronze
+C2026,Male,18-24,Miami,South,2023-09-23,Bronze
+C2027,Female,35-44,Chicago,North,2025-04-07,Bronze
+C2028,Female,55+,Detroit,North,2024-09-08,Bronze
+C2029,Male,18-24,Boston,East,2024-06-30,Bronze
+C2030,Male,35-44,Detroit,North,2023-03-12,Bronze
+C2031,Female,35-44,Chicago,North,2024-01-09,Bronze
+C2032,Female,25-34,Miami,South,2025-09-11,Silver
+C2033,Female,18-24,Seattle,West,2025-04-10,Bronze
+C2034,Male,25-34,Atlanta,South,2024-07-26,Bronze
+C2035,Female,45-54,Seattle,West,2024-06-06,Bronze
+C2036,Male,25-34,Minneapolis,North,2024-12-02,Bronze
+C2037,Female,55+,Chicago,North,2023-09-16,Bronze
+C2038,Male,25-34,Boston,East,2023-09-16,Bronze
+C2039,Female,45-54,Seattle,West,2025-10-30,Bronze
+C2040,Male,18-24,Seattle,West,2024-03-30,Bronze
+C2041,Female,25-34,New York,East,2023-11-07,Silver
+C2042,Male,55+,Houston,South,2024-04-16,Bronze
+C2043,Male,45-54,Chicago,North,2023-12-06,Silver
+C2044,Female,55+,San Francisco,West,2023-11-08,Silver
+C2045,Female,45-54,Atlanta,South,2025-03-31,Gold
+C2046,Male,25-34,New York,East,2023-10-06,Bronze
+C2047,Female,35-44,Philadelphia,East,2024-09-30,Gold
+C2048,Female,25-34,Chicago,North,2025-04-20,Silver
+C2049,Female,18-24,San Francisco,West,2024-05-11,Bronze
+C2050,Female,55+,Minneapolis,North,2024-12-18,Bronze
+C2051,Female,18-24,Atlanta,South,2023-11-07,Silver
+C2052,Female,25-34,Detroit,North,2023-08-29,Bronze
+C2053,Female,18-24,Miami,South,2025-06-16,Silver
+C2054,Male,55+,Chicago,North,2024-11-30,Bronze
+C2055,Male,25-34,Los Angeles,West,2023-08-20,Silver
+C2056,Male,18-24,New York,East,2025-09-24,Bronze
+C2057,Female,45-54,Boston,East,2025-01-12,Silver
+C2058,Female,18-24,San Francisco,West,2025-05-13,Silver
+C2059,Male,25-34,Philadelphia,East,2024-05-30,Silver
+C2060,Female,35-44,San Francisco,West,2023-06-20,Bronze
+C2061,Male,18-24,Philadelphia,East,2025-06-07,Bronze
+C2062,Female,45-54,Philadelphia,East,2025-02-08,Bronze
+C2063,Female,18-24,New York,East,2023-07-21,Bronze
+C2064,Male,35-44,New York,East,2025-05-13,Bronze
+C2065,Female,25-34,San Francisco,West,2025-08-01,Silver
+C2066,Male,18-24,Philadelphia,East,2025-06-03,Bronze
+C2067,Female,45-54,New York,East,2024-11-04,Silver
+C2068,Female,35-44,San Francisco,West,2024-06-03,Gold
+C2069,Male,25-34,Miami,South,2025-07-02,Gold
+C2070,Female,35-44,Miami,South,2023-11-25,Silver
+C2071,Male,18-24,San Francisco,West,2024-12-14,Silver
+C2072,Female,25-34,Miami,South,2024-04-11,Bronze
+C2073,Male,35-44,Houston,South,2025-10-15,Bronze
+C2074,Female,25-34,Boston,East,2024-12-19,Silver
+C2075,Female,18-24,San Francisco,West,2024-10-23,Gold
+C2076,Male,25-34,Boston,East,2024-08-29,Silver
+C2077,Female,25-34,Detroit,North,2023-07-11,Bronze
+C2078,Female,25-34,Atlanta,South,2024-11-27,Bronze
+C2079,Female,55+,San Francisco,West,2024-08-24,Gold
+C2080,Female,18-24,Boston,East,2023-03-25,Bronze
+C2081,Female,18-24,Miami,South,2024-03-24,Silver
+C2082,Female,18-24,Detroit,North,2024-08-30,Bronze
+C2083,Female,45-54,Miami,South,2024-01-29,Bronze
+C2084,Male,35-44,Boston,East,2025-03-03,Silver
+C2085,Female,45-54,Houston,South,2025-01-28,Bronze
+C2086,Female,45-54,Miami,South,2023-10-03,Bronze
+C2087,Female,45-54,Philadelphia,East,2023-09-21,Silver
+C2088,Male,35-44,Philadelphia,East,2023-08-03,Bronze
+C2089,Female,25-34,New York,East,2024-04-03,Bronze
+C2090,Female,55+,Houston,South,2025-06-12,Bronze
+C2091,Male,25-34,Philadelphia,East,2023-04-28,Bronze
+C2092,Male,25-34,Boston,East,2023-05-14,Gold
+C2093,Female,35-44,New York,East,2025-10-02,Gold
+C2094,Female,35-44,Atlanta,South,2025-07-14,Bronze
+C2095,Male,18-24,Philadelphia,East,2025-11-06,Gold
+C2096,Non-binary,18-24,Boston,East,2023-01-14,Bronze
+C2097,Female,25-34,Seattle,West,2023-05-26,Bronze
+C2098,Male,18-24,Minneapolis,North,2024-01-03,Silver
+C2099,Male,25-34,Miami,South,2023-07-12,Bronze
+C2100,Female,25-34,Houston,South,2025-08-29,Bronze
+C2101,Male,25-34,Chicago,North,2025-05-31,Bronze
+C2102,Non-binary,35-44,Atlanta,South,2024-12-20,Bronze
+C2103,Female,35-44,Detroit,North,2024-06-11,Bronze
+C2104,Female,55+,Houston,South,2023-12-12,Bronze
+C2105,Male,25-34,Atlanta,South,2023-02-26,Silver
+C2106,Male,25-34,Seattle,West,2024-01-22,Bronze
+C2107,Female,25-34,Atlanta,South,2023-11-13,Silver
+C2108,Female,35-44,San Francisco,West,2023-12-30,Bronze
+C2109,Male,25-34,Minneapolis,North,2023-09-04,Bronze
+C2110,Male,25-34,Philadelphia,East,2023-12-09,Bronze
+C2111,Male,45-54,Philadelphia,East,2024-11-21,Silver
+C2112,Male,18-24,Los Angeles,West,2023-08-27,Bronze
+C2113,Female,25-34,Atlanta,South,2025-10-02,Bronze
+C2114,Male,45-54,Seattle,West,2025-09-10,Silver
+C2115,Male,25-34,Philadelphia,East,2023-07-06,Bronze
+C2116,Male,35-44,Boston,East,2025-03-18,Bronze
+C2117,Female,35-44,Boston,East,2024-02-10,Bronze
+C2118,Female,25-34,Minneapolis,North,2023-02-18,Silver
+C2119,Male,35-44,Miami,South,2024-08-11,Silver
+C2120,Female,25-34,Detroit,North,2023-07-02,Bronze
+C2121,Female,18-24,Boston,East,2023-04-09,Bronze
+C2122,Male,35-44,Atlanta,South,2023-04-18,Silver
+C2123,Female,35-44,New York,East,2024-01-01,Gold
+C2124,Male,35-44,Chicago,North,2024-01-16,Silver
+C2125,Female,25-34,Philadelphia,East,2023-02-01,Bronze
+C2126,Male,45-54,Atlanta,South,2024-05-07,Gold
+C2127,Female,45-54,Los Angeles,West,2024-04-12,Bronze
+C2128,Male,25-34,Philadelphia,East,2024-06-12,Silver
+C2129,Female,45-54,Seattle,West,2024-09-26,Gold
+C2130,Female,25-34,Atlanta,South,2023-01-21,Silver
+C2131,Female,18-24,Detroit,North,2025-09-26,Bronze
+C2132,Female,35-44,New York,East,2025-07-08,Silver
+C2133,Female,25-34,Chicago,North,2025-09-27,Gold
+C2134,Female,25-34,Miami,South,2025-03-26,Bronze
+C2135,Male,45-54,Los Angeles,West,2025-03-19,Bronze
+C2136,Female,18-24,Boston,East,2023-09-18,Bronze
+C2137,Female,35-44,Houston,South,2025-03-05,Bronze
+C2138,Male,25-34,New York,East,2025-06-16,Silver
+C2139,Male,35-44,New York,East,2024-01-23,Bronze
+C2140,Male,25-34,Los Angeles,West,2024-11-30,Bronze
+C2141,Female,18-24,Atlanta,South,2023-04-26,Bronze
+C2142,Female,35-44,Houston,South,2024-02-03,Silver
+C2143,Female,25-34,Chicago,North,2024-05-18,Bronze
+C2144,Female,18-24,Seattle,West,2023-04-27,Bronze
+C2145,Male,25-34,New York,East,2023-12-14,Bronze
+C2146,Female,18-24,Chicago,North,2024-04-23,Silver
+C2147,Male,35-44,Los Angeles,West,2023-09-03,Bronze
+C2148,Male,35-44,Minneapolis,North,2025-09-02,Silver
+C2149,Male,35-44,Atlanta,South,2024-05-01,Gold
+C2150,Male,18-24,Philadelphia,East,2025-09-08,Silver
+C2151,Male,18-24,Atlanta,South,2024-08-10,Gold
+C2152,Male,25-34,San Francisco,West,2025-01-23,Bronze
+C2153,Non-binary,18-24,Philadelphia,East,2024-04-09,Bronze
+C2154,Male,25-34,San Francisco,West,2025-05-12,Bronze
+C2155,Female,35-44,Houston,South,2025-01-14,Silver
+C2156,Male,25-34,Miami,South,2024-03-20,Silver
+C2157,Female,35-44,Boston,East,2025-08-06,Bronze
+C2158,Female,18-24,Miami,South,2025-03-15,Bronze
+C2159,Female,18-24,Seattle,West,2025-04-24,Gold
+C2160,Female,25-34,Philadelphia,East,2025-06-03,Bronze
+C2161,Female,35-44,Philadelphia,East,2023-12-19,Silver
+C2162,Female,25-34,New York,East,2024-02-10,Silver
+C2163,Female,45-54,Detroit,North,2025-09-23,Bronze
+C2164,Male,35-44,New York,East,2023-03-14,Bronze
+C2165,Female,18-24,San Francisco,West,2023-04-19,Bronze
+C2166,Female,18-24,Detroit,North,2024-03-12,Gold
+C2167,Female,35-44,Boston,East,2025-07-03,Bronze
+C2168,Male,18-24,San Francisco,West,2023-11-24,Bronze
+C2169,Female,25-34,San Francisco,West,2025-04-19,Silver
+C2170,Non-binary,35-44,Houston,South,2024-05-25,Gold
+C2171,Female,25-34,Minneapolis,North,2023-03-22,Bronze
+C2172,Male,25-34,Los Angeles,West,2025-01-12,Bronze
+C2173,Male,25-34,Minneapolis,North,2025-10-04,Gold
+C2174,Female,35-44,Seattle,West,2023-05-22,Bronze
+C2175,Male,25-34,Detroit,North,2024-02-08,Silver
+C2176,Female,35-44,Los Angeles,West,2024-12-27,Silver
+C2177,Female,25-34,Philadelphia,East,2023-12-13,Bronze
+C2178,Female,45-54,New York,East,2023-02-18,Silver
+C2179,Female,25-34,New York,East,2024-06-22,Bronze
+C2180,Male,25-34,Los Angeles,West,2025-07-27,Bronze
+C2181,Male,18-24,San Francisco,West,2023-01-22,Bronze
+C2182,Female,35-44,Philadelphia,East,2025-03-06,Bronze
+C2183,Male,35-44,Atlanta,South,2025-11-15,Silver
+C2184,Male,25-34,Minneapolis,North,2024-12-10,Bronze
+C2185,Male,18-24,Detroit,North,2025-07-10,Gold
+C2186,Female,18-24,Los Angeles,West,2023-08-21,Bronze
+C2187,Female,35-44,Chicago,North,2023-05-14,Silver
+C2188,Male,25-34,Detroit,North,2023-01-28,Bronze
+C2189,Male,25-34,Philadelphia,East,2025-08-01,Bronze
+C2190,Female,35-44,Chicago,North,2023-10-12,Bronze
+C2191,Female,35-44,New York,East,2023-07-07,Bronze
+C2192,Female,25-34,Boston,East,2025-03-03,Silver
+C2193,Female,18-24,Boston,East,2025-10-11,Silver
+C2194,Female,25-34,New York,East,2023-05-06,Bronze
+C2195,Male,25-34,Chicago,North,2023-10-22,Silver
+C2196,Female,45-54,New York,East,2023-06-05,Bronze
+C2197,Female,25-34,Boston,East,2024-08-30,Bronze
+C2198,Male,25-34,Miami,South,2024-12-07,Gold
+C2199,Male,18-24,New York,East,2024-07-30,Bronze
+C2200,Female,35-44,Los Angeles,West,2023-05-04,Silver
+C2201,Female,35-44,Los Angeles,West,2025-07-02,Bronze
+C2202,Male,35-44,Los Angeles,West,2025-01-10,Bronze
+C2203,Female,35-44,Boston,East,2024-10-15,Bronze
+C2204,Female,55+,Houston,South,2025-09-28,Bronze
+C2205,Female,45-54,Minneapolis,North,2024-12-23,Gold
+C2206,Female,45-54,San Francisco,West,2025-04-05,Bronze
+C2207,Female,18-24,New York,East,2025-02-28,Silver
+C2208,Female,18-24,Miami,South,2023-11-02,Gold
+C2209,Female,18-24,Minneapolis,North,2024-01-12,Bronze
+C2210,Female,18-24,Miami,South,2023-02-14,Bronze
+C2211,Female,55+,Chicago,North,2025-10-19,Bronze
+C2212,Male,18-24,Boston,East,2024-12-24,Silver
+C2213,Female,55+,New York,East,2023-10-17,Bronze
+C2214,Male,25-34,Minneapolis,North,2024-09-22,Silver
+C2215,Female,25-34,Atlanta,South,2023-09-07,Silver
+C2216,Female,55+,Los Angeles,West,2023-09-20,Bronze
+C2217,Female,25-34,Houston,South,2024-05-19,Gold
+C2218,Male,25-34,Seattle,West,2025-09-02,Silver
+C2219,Male,35-44,Philadelphia,East,2023-09-18,Gold
+C2220,Male,25-34,Miami,South,2024-04-30,Bronze
+C2221,Male,25-34,Chicago,North,2025-11-12,Silver
+C2222,Female,45-54,Detroit,North,2025-10-02,Bronze
+C2223,Male,25-34,New York,East,2024-01-31,Bronze
+C2224,Female,35-44,San Francisco,West,2025-08-28,Bronze
+C2225,Male,55+,Boston,East,2023-10-27,Gold
+C2226,Male,35-44,Philadelphia,East,2024-02-14,Silver
+C2227,Male,18-24,Miami,South,2023-05-05,Bronze
+C2228,Male,45-54,San Francisco,West,2025-05-16,Bronze
+C2229,Female,35-44,Minneapolis,North,2023-02-21,Bronze
+C2230,Female,25-34,New York,East,2023-10-30,Bronze
+C2231,Male,25-34,Los Angeles,West,2023-08-09,Silver
+C2232,Female,25-34,New York,East,2023-11-30,Bronze
+C2233,Female,25-34,Seattle,West,2025-09-04,Bronze
+C2234,Male,25-34,Minneapolis,North,2025-06-08,Silver
+C2235,Female,35-44,Los Angeles,West,2024-08-02,Gold
+C2236,Female,45-54,Chicago,North,2023-09-28,Bronze
+C2237,Female,25-34,Boston,East,2024-04-26,Bronze
+C2238,Female,25-34,Miami,South,2023-05-23,Bronze
+C2239,Female,18-24,Los Angeles,West,2023-11-14,Bronze
+C2240,Female,18-24,Detroit,North,2024-06-18,Bronze
+C2241,Female,18-24,Chicago,North,2024-04-06,Gold
+C2242,Female,25-34,Seattle,West,2023-10-09,Silver
+C2243,Female,35-44,Detroit,North,2024-08-16,Bronze
+C2244,Female,18-24,Detroit,North,2024-02-14,Bronze
+C2245,Female,25-34,Houston,South,2023-06-15,Bronze
+C2246,Male,35-44,Minneapolis,North,2023-01-16,Bronze
+C2247,Female,18-24,Miami,South,2025-03-06,Bronze
+C2248,Female,35-44,Minneapolis,North,2024-06-17,Bronze
+C2249,Male,18-24,New York,East,2025-11-14,Bronze
+C2250,Female,25-34,Seattle,West,2024-02-26,Bronze
+C2251,Male,35-44,Boston,East,2024-03-14,Bronze
+C2252,Female,45-54,Boston,East,2024-04-15,Bronze
+C2253,Female,18-24,Minneapolis,North,2023-01-26,Bronze
+C2254,Male,25-34,San Francisco,West,2025-03-06,Silver
+C2255,Female,25-34,Detroit,North,2025-10-03,Silver
+C2256,Male,45-54,Miami,South,2023-08-08,Bronze
+C2257,Male,25-34,Minneapolis,North,2024-07-15,Silver
+C2258,Female,18-24,Los Angeles,West,2023-07-19,Gold
+C2259,Female,25-34,Los Angeles,West,2025-02-02,Bronze
+C2260,Female,25-34,Chicago,North,2023-09-03,Bronze
+C2261,Male,45-54,New York,East,2023-03-04,Bronze
+C2262,Female,45-54,Detroit,North,2024-04-25,Bronze
+C2263,Female,35-44,Houston,South,2025-09-09,Bronze
+C2264,Female,25-34,Boston,East,2023-03-03,Bronze
+C2265,Male,55+,San Francisco,West,2023-04-01,Silver
+C2266,Male,18-24,Boston,East,2024-02-20,Gold
+C2267,Male,55+,Chicago,North,2025-07-06,Silver
+C2268,Female,35-44,Los Angeles,West,2025-06-10,Silver
+C2269,Female,25-34,San Francisco,West,2024-08-09,Silver
+C2270,Male,25-34,Philadelphia,East,2025-02-03,Bronze
+C2271,Female,25-34,Atlanta,South,2024-12-11,Bronze
+C2272,Female,35-44,Atlanta,South,2024-08-21,Silver
+C2273,Female,25-34,Houston,South,2025-06-03,Bronze
+C2274,Female,25-34,Miami,South,2025-08-13,Bronze
+C2275,Male,55+,Chicago,North,2025-11-03,Bronze
+C2276,Male,25-34,New York,East,2023-11-23,Silver
+C2277,Male,55+,Miami,South,2025-05-08,Bronze
+C2278,Female,25-34,Chicago,North,2023-01-09,Silver
+C2279,Female,25-34,Boston,East,2024-11-16,Bronze
+C2280,Female,25-34,Atlanta,South,2025-03-15,Silver
+C2281,Male,25-34,Seattle,West,2024-04-07,Gold
+C2282,Male,55+,Chicago,North,2023-01-02,Bronze
+C2283,Female,25-34,Los Angeles,West,2024-09-19,Bronze
+C2284,Female,18-24,Chicago,North,2024-01-27,Bronze
+C2285,Female,25-34,Los Angeles,West,2023-05-27,Bronze
+C2286,Female,25-34,Atlanta,South,2025-04-05,Bronze
+C2287,Female,45-54,Miami,South,2025-05-27,Silver
+C2288,Non-binary,25-34,Minneapolis,North,2025-10-03,Bronze
+C2289,Male,35-44,Boston,East,2025-02-24,Silver
+C2290,Male,35-44,New York,East,2024-12-19,Bronze
+C2291,Female,25-34,Los Angeles,West,2023-06-27,Bronze
+C2292,Female,35-44,Los Angeles,West,2023-07-12,Silver
+C2293,Female,35-44,Boston,East,2024-10-23,Bronze
+C2294,Male,25-34,Miami,South,2023-01-22,Silver
+C2295,Female,18-24,San Francisco,West,2025-06-29,Silver
+C2296,Female,18-24,Miami,South,2023-04-10,Bronze
+C2297,Male,18-24,Seattle,West,2024-08-23,Bronze
+C2298,Male,18-24,Minneapolis,North,2023-11-14,Bronze
+C2299,Male,18-24,Chicago,North,2023-12-28,Bronze
+C2300,Female,25-34,Seattle,West,2025-10-07,Gold
+C2301,Female,35-44,Detroit,North,2023-12-03,Bronze
+C2302,Male,25-34,Miami,South,2025-01-20,Bronze
+C2303,Female,18-24,Boston,East,2023-08-06,Bronze
+C2304,Female,45-54,Miami,South,2023-05-14,Bronze
+C2305,Male,45-54,Houston,South,2024-05-13,Bronze
+C2306,Male,25-34,Detroit,North,2024-01-18,Bronze
+C2307,Non-binary,35-44,Miami,South,2023-05-17,Bronze
+C2308,Female,25-34,Philadelphia,East,2024-04-20,Silver
+C2309,Female,18-24,Detroit,North,2023-05-03,Silver
+C2310,Female,35-44,Boston,East,2023-01-19,Gold
+C2311,Female,25-34,San Francisco,West,2024-03-13,Bronze
+C2312,Female,18-24,Detroit,North,2023-05-26,Bronze
+C2313,Female,55+,Seattle,West,2025-09-05,Bronze
+C2314,Male,25-34,New York,East,2025-04-26,Silver
+C2315,Female,25-34,Atlanta,South,2025-06-03,Bronze
+C2316,Female,35-44,New York,East,2025-02-04,Silver
+C2317,Male,35-44,Detroit,North,2025-11-09,Bronze
+C2318,Female,18-24,Philadelphia,East,2024-08-12,Bronze
+C2319,Male,35-44,Detroit,North,2023-06-23,Bronze
+C2320,Female,35-44,Atlanta,South,2024-07-29,Bronze
+C2321,Male,45-54,Boston,East,2024-10-31,Bronze
+C2322,Female,18-24,Atlanta,South,2023-10-09,Gold
+C2323,Female,25-34,Boston,East,2023-05-09,Silver
+C2324,Female,45-54,New York,East,2024-04-11,Bronze
+C2325,Female,25-34,Miami,South,2024-09-19,Bronze
+C2326,Male,18-24,Miami,South,2025-05-18,Gold
+C2327,Female,35-44,Detroit,North,2024-08-27,Bronze
+C2328,Female,18-24,Miami,South,2025-08-05,Silver
+C2329,Female,35-44,Atlanta,South,2024-05-20,Bronze
+C2330,Female,25-34,Philadelphia,East,2025-10-14,Bronze
+C2331,Female,35-44,Boston,East,2024-11-30,Bronze
+C2332,Female,18-24,Atlanta,South,2025-03-16,Gold
+C2333,Female,25-34,Boston,East,2024-07-21,Bronze
+C2334,Female,25-34,Atlanta,South,2025-09-29,Bronze
+C2335,Female,35-44,Chicago,North,2023-09-09,Bronze
+C2336,Female,25-34,Chicago,North,2023-08-09,Gold
+C2337,Female,35-44,New York,East,2024-02-24,Bronze
+C2338,Female,25-34,Houston,South,2024-07-21,Silver
+C2339,Male,25-34,New York,East,2024-06-30,Bronze
+C2340,Male,18-24,Boston,East,2024-10-10,Bronze
+C2341,Female,35-44,Boston,East,2023-11-25,Silver
+C2342,Male,18-24,Minneapolis,North,2024-05-19,Silver
+C2343,Female,18-24,Seattle,West,2024-03-27,Bronze
+C2344,Female,18-24,New York,East,2025-03-02,Bronze
+C2345,Male,25-34,Philadelphia,East,2023-11-04,Silver
+C2346,Female,35-44,Minneapolis,North,2024-07-10,Silver
+C2347,Female,25-34,Boston,East,2024-10-21,Silver
+C2348,Female,18-24,Philadelphia,East,2025-02-02,Silver
+C2349,Female,25-34,Minneapolis,North,2025-04-07,Bronze
+C2350,Female,45-54,New York,East,2024-04-17,Silver
+C2351,Female,35-44,Boston,East,2023-05-13,Bronze
+C2352,Female,35-44,Atlanta,South,2023-02-11,Bronze
+C2353,Female,45-54,Atlanta,South,2024-04-13,Bronze
+C2354,Male,55+,Minneapolis,North,2024-02-05,Bronze
+C2355,Female,35-44,Houston,South,2023-11-22,Bronze
+C2356,Female,25-34,Boston,East,2024-06-06,Bronze
+C2357,Female,18-24,Los Angeles,West,2024-04-14,Bronze
+C2358,Female,35-44,Detroit,North,2023-04-17,Bronze
+C2359,Male,18-24,New York,East,2025-05-16,Silver
+C2360,Female,35-44,Detroit,North,2023-07-27,Bronze
+C2361,Male,18-24,New York,East,2025-01-25,Bronze
+C2362,Male,25-34,Chicago,North,2023-12-18,Bronze
+C2363,Female,18-24,Los Angeles,West,2025-03-17,Silver
+C2364,Female,25-34,Houston,South,2025-01-22,Bronze
+C2365,Female,35-44,New York,East,2024-05-23,Bronze
+C2366,Female,25-34,Atlanta,South,2023-01-02,Silver
+C2367,Male,25-34,Miami,South,2025-04-07,Gold
+C2368,Male,25-34,Atlanta,South,2025-04-09,Bronze
+C2369,Male,18-24,Seattle,West,2023-09-16,Gold
+C2370,Female,25-34,San Francisco,West,2023-08-25,Bronze
+C2371,Female,18-24,Minneapolis,North,2025-09-24,Silver
+C2372,Male,35-44,Seattle,West,2025-07-10,Bronze
+C2373,Female,18-24,Los Angeles,West,2025-03-22,Gold
+C2374,Female,25-34,Houston,South,2025-03-28,Bronze
+C2375,Female,18-24,Miami,South,2023-04-16,Gold
+C2376,Female,45-54,Miami,South,2023-04-19,Silver
+C2377,Female,25-34,Minneapolis,North,2024-08-25,Bronze
+C2378,Female,25-34,San Francisco,West,2025-09-08,Gold
+C2379,Female,35-44,Minneapolis,North,2023-07-27,Bronze
+C2380,Female,25-34,Philadelphia,East,2025-01-30,Bronze
+C2381,Female,35-44,Philadelphia,East,2024-08-06,Bronze
+C2382,Female,25-34,Miami,South,2025-09-25,Silver
+C2383,Female,55+,Boston,East,2025-11-02,Bronze
+C2384,Female,35-44,New York,East,2024-07-01,Bronze
+C2385,Female,18-24,Houston,South,2025-03-18,Gold
+C2386,Female,45-54,Chicago,North,2024-02-01,Bronze
+C2387,Female,18-24,New York,East,2024-03-07,Bronze
+C2388,Female,45-54,New York,East,2023-05-16,Gold
+C2389,Male,35-44,Boston,East,2023-06-13,Silver
+C2390,Male,25-34,Seattle,West,2025-08-18,Bronze
+C2391,Male,25-34,Los Angeles,West,2024-11-08,Silver
+C2392,Male,35-44,Los Angeles,West,2024-07-25,Bronze
+C2393,Female,45-54,Minneapolis,North,2025-09-16,Bronze
+C2394,Female,25-34,Boston,East,2025-04-08,Bronze
+C2395,Male,18-24,Chicago,North,2024-04-02,Bronze
+C2396,Male,25-34,Minneapolis,North,2023-07-21,Silver
+C2397,Female,25-34,Miami,South,2024-11-09,Bronze
+C2398,Male,45-54,Los Angeles,West,2023-05-16,Bronze
+C2399,Female,55+,San Francisco,West,2023-11-12,Gold
+C2400,Female,55+,Minneapolis,North,2024-04-27,Bronze
+C2401,Female,35-44,Houston,South,2024-04-26,Bronze
+C2402,Male,18-24,New York,East,2025-02-10,Silver
+C2403,Female,18-24,Detroit,North,2025-05-27,Silver
+C2404,Female,18-24,San Francisco,West,2023-01-05,Gold
+C2405,Male,18-24,Houston,South,2025-01-01,Gold
+C2406,Non-binary,18-24,Houston,South,2023-03-21,Silver
+C2407,Male,45-54,San Francisco,West,2024-01-29,Bronze
+C2408,Male,25-34,New York,East,2023-05-27,Bronze
+C2409,Male,35-44,Los Angeles,West,2023-11-19,Bronze
+C2410,Female,45-54,Miami,South,2024-08-04,Bronze
+C2411,Female,25-34,Boston,East,2025-07-15,Silver
+C2412,Male,18-24,San Francisco,West,2025-05-06,Silver
+C2413,Female,18-24,Houston,South,2025-08-02,Bronze
+C2414,Female,25-34,Los Angeles,West,2023-10-30,Silver
+C2415,Male,25-34,Miami,South,2024-11-12,Bronze
+C2416,Male,18-24,Atlanta,South,2024-09-11,Silver
+C2417,Female,18-24,Houston,South,2025-03-11,Silver
+C2418,Female,25-34,Seattle,West,2025-03-08,Gold
+C2419,Female,35-44,Seattle,West,2024-10-24,Gold
+C2420,Male,35-44,Miami,South,2024-10-06,Bronze
+C2421,Male,25-34,San Francisco,West,2023-12-03,Silver
+C2422,Male,25-34,Miami,South,2023-03-28,Bronze
+C2423,Male,25-34,Houston,South,2024-02-19,Silver
+C2424,Female,18-24,Philadelphia,East,2025-02-02,Bronze
+C2425,Female,25-34,Detroit,North,2025-10-31,Gold
+C2426,Female,55+,New York,East,2024-02-07,Bronze
+C2427,Female,35-44,New York,East,2024-08-17,Bronze
+C2428,Female,45-54,Minneapolis,North,2023-05-09,Gold
+C2429,Male,45-54,New York,East,2024-04-17,Bronze
+C2430,Male,35-44,Miami,South,2023-03-21,Bronze
+C2431,Female,55+,Atlanta,South,2024-04-14,Bronze
+C2432,Male,35-44,Minneapolis,North,2023-04-08,Bronze
+C2433,Female,45-54,Seattle,West,2025-05-03,Silver
+C2434,Male,35-44,Boston,East,2024-09-19,Gold
+C2435,Male,45-54,Atlanta,South,2024-08-11,Bronze
+C2436,Female,25-34,Atlanta,South,2024-02-15,Silver
+C2437,Female,45-54,Seattle,West,2023-02-12,Bronze
+C2438,Female,45-54,New York,East,2024-06-10,Silver
+C2439,Female,25-34,Miami,South,2024-08-14,Silver
+C2440,Male,45-54,Chicago,North,2023-11-15,Gold
+C2441,Male,18-24,Minneapolis,North,2024-07-07,Bronze
+C2442,Female,25-34,Philadelphia,East,2025-08-10,Bronze
+C2443,Female,25-34,Chicago,North,2023-07-08,Bronze
+C2444,Male,35-44,Houston,South,2023-02-07,Gold
+C2445,Female,35-44,Detroit,North,2024-12-01,Bronze
+C2446,Female,45-54,San Francisco,West,2024-12-20,Bronze
+C2447,Female,18-24,Philadelphia,East,2025-04-04,Bronze
+C2448,Non-binary,35-44,Philadelphia,East,2023-05-18,Gold
+C2449,Female,35-44,Los Angeles,West,2025-07-26,Gold
+C2450,Female,25-34,Detroit,North,2024-01-21,Gold
+C2451,Male,18-24,Boston,East,2025-05-01,Silver
+C2452,Female,25-34,Chicago,North,2023-07-16,Bronze
+C2453,Female,35-44,Philadelphia,East,2024-11-28,Bronze
+C2454,Female,45-54,Houston,South,2025-05-21,Gold
+C2455,Male,35-44,New York,East,2023-10-08,Bronze
+C2456,Non-binary,25-34,San Francisco,West,2023-06-02,Bronze
+C2457,Female,25-34,Houston,South,2023-02-16,Silver
+C2458,Female,18-24,San Francisco,West,2023-07-25,Silver
+C2459,Female,18-24,Houston,South,2023-09-11,Bronze
+C2460,Male,25-34,Miami,South,2023-06-13,Silver
+C2461,Female,25-34,New York,East,2024-09-01,Bronze
+C2462,Male,25-34,Los Angeles,West,2023-07-10,Bronze
+C2463,Female,25-34,Minneapolis,North,2023-01-09,Silver
+C2464,Female,25-34,Miami,South,2023-08-07,Gold
+C2465,Female,35-44,Miami,South,2024-11-15,Silver
+C2466,Female,35-44,Chicago,North,2023-02-04,Bronze
+C2467,Female,25-34,Seattle,West,2025-11-09,Bronze
+C2468,Female,18-24,Atlanta,South,2024-01-20,Bronze
+C2469,Male,25-34,New York,East,2024-01-30,Bronze
+C2470,Female,35-44,New York,East,2024-08-12,Silver
+C2471,Female,18-24,Miami,South,2025-10-16,Bronze
+C2472,Female,35-44,Miami,South,2023-09-20,Bronze
+C2473,Male,18-24,New York,East,2023-09-29,Silver
+C2474,Female,18-24,New York,East,2025-03-19,Bronze
+C2475,Male,18-24,New York,East,2023-08-15,Bronze
+C2476,Male,35-44,Boston,East,2023-10-29,Bronze
+C2477,Female,18-24,Miami,South,2024-07-17,Bronze
+C2478,Male,45-54,Miami,South,2024-01-21,Bronze
+C2479,Female,25-34,Boston,East,2024-07-14,Bronze
+C2480,Male,25-34,Chicago,North,2023-05-03,Bronze
+C2481,Female,18-24,Los Angeles,West,2023-10-16,Bronze
+C2482,Female,25-34,Seattle,West,2023-05-14,Bronze
+C2483,Male,55+,Atlanta,South,2024-07-18,Bronze
+C2484,Female,18-24,Atlanta,South,2023-10-01,Bronze
+C2485,Male,18-24,San Francisco,West,2025-11-09,Silver
+C2486,Female,35-44,Boston,East,2023-07-22,Silver
+C2487,Female,25-34,Chicago,North,2023-08-08,Silver
+C2488,Male,55+,New York,East,2024-01-10,Bronze
+C2489,Female,18-24,Chicago,North,2025-05-09,Bronze
+C2490,Female,35-44,Philadelphia,East,2025-05-20,Bronze
+C2491,Female,25-34,Houston,South,2024-12-31,Gold
+C2492,Female,35-44,Miami,South,2024-11-19,Bronze
+C2493,Male,18-24,Houston,South,2023-02-03,Bronze
+C2494,Female,25-34,Seattle,West,2024-02-24,Bronze
+C2495,Male,18-24,New York,East,2025-06-22,Bronze
+C2496,Female,25-34,Chicago,North,2024-06-09,Gold
+C2497,Male,18-24,New York,East,2025-07-10,Silver
+C2498,Male,25-34,Detroit,North,2024-05-27,Gold
+C2499,Male,25-34,Miami,South,2025-09-01,Silver
+C2500,Male,18-24,Boston,East,2025-09-29,Gold
+C2501,Female,45-54,Minneapolis,North,2025-10-28,Bronze
+C2502,Male,25-34,New York,East,2024-12-31,Bronze
+C2503,Male,18-24,Chicago,North,2023-02-13,Bronze
+C2504,Female,18-24,Chicago,North,2024-01-03,Bronze
+C2505,Female,18-24,Chicago,North,2025-07-09,Silver
+C2506,Male,45-54,Boston,East,2025-01-20,Silver
+C2507,Male,18-24,Atlanta,South,2023-05-10,Bronze
+C2508,Male,45-54,Houston,South,2023-12-25,Bronze
+C2509,Female,18-24,Chicago,North,2023-05-30,Silver
+C2510,Male,18-24,Detroit,North,2024-11-06,Bronze
+C2511,Female,35-44,Boston,East,2025-07-08,Bronze
+C2512,Male,35-44,Houston,South,2024-03-14,Bronze
+C2513,Male,45-54,Houston,South,2025-08-10,Silver
+C2514,Female,35-44,Chicago,North,2023-04-21,Bronze
+C2515,Female,18-24,Houston,South,2023-10-04,Silver
+C2516,Female,35-44,Houston,South,2023-04-14,Bronze
+C2517,Female,18-24,Boston,East,2024-11-25,Bronze
+C2518,Female,25-34,Chicago,North,2024-01-01,Bronze
+C2519,Female,35-44,Los Angeles,West,2023-07-03,Bronze
+C2520,Male,25-34,New York,East,2023-06-14,Silver
+C2521,Female,35-44,Los Angeles,West,2024-11-22,Silver
+C2522,Female,18-24,Philadelphia,East,2023-03-04,Silver
+C2523,Male,25-34,New York,East,2023-06-19,Bronze
+C2524,Female,35-44,Seattle,West,2025-01-30,Bronze
+C2525,Female,35-44,Detroit,North,2024-12-24,Silver
+C2526,Female,25-34,Los Angeles,West,2024-06-18,Silver
+C2527,Female,25-34,New York,East,2025-09-03,Bronze
+C2528,Female,35-44,San Francisco,West,2024-08-14,Bronze
+C2529,Female,18-24,Chicago,North,2025-06-09,Bronze
+C2530,Female,35-44,Houston,South,2024-05-18,Bronze
+C2531,Female,25-34,New York,East,2023-11-04,Bronze
+C2532,Female,25-34,Seattle,West,2025-11-13,Bronze
+C2533,Male,25-34,Houston,South,2023-12-15,Bronze
+C2534,Female,18-24,Minneapolis,North,2025-08-20,Silver
+C2535,Female,35-44,New York,East,2025-07-31,Silver
+C2536,Female,18-24,Los Angeles,West,2024-01-14,Gold
+C2537,Male,18-24,Seattle,West,2024-06-01,Gold
+C2538,Male,25-34,Philadelphia,East,2024-06-19,Bronze
+C2539,Male,25-34,Los Angeles,West,2025-10-17,Bronze
+C2540,Female,25-34,Seattle,West,2023-05-12,Bronze
+C2541,Male,25-34,Philadelphia,East,2024-08-27,Silver
+C2542,Female,18-24,Boston,East,2025-04-14,Silver
+C2543,Female,25-34,Minneapolis,North,2025-06-01,Bronze
+C2544,Female,55+,San Francisco,West,2025-03-10,Bronze
+C2545,Male,45-54,Los Angeles,West,2025-02-04,Bronze
+C2546,Female,35-44,San Francisco,West,2025-01-25,Bronze
+C2547,Male,25-34,San Francisco,West,2023-02-17,Bronze
+C2548,Female,55+,Miami,South,2024-08-18,Bronze
+C2549,Male,25-34,Seattle,West,2024-04-07,Silver
+C2550,Female,55+,Boston,East,2024-07-18,Silver
+C2551,Female,35-44,New York,East,2024-11-27,Gold
+C2552,Male,18-24,Atlanta,South,2024-02-24,Bronze
+C2553,Male,18-24,Philadelphia,East,2024-10-07,Bronze
+C2554,Female,35-44,Minneapolis,North,2023-07-29,Bronze
+C2555,Female,35-44,New York,East,2023-09-11,Bronze
+C2556,Female,18-24,Detroit,North,2024-02-10,Bronze
+C2557,Male,35-44,Houston,South,2025-04-12,Gold
+C2558,Female,55+,Boston,East,2025-10-31,Bronze
+C2559,Male,35-44,Seattle,West,2025-04-13,Gold
+C2560,Female,18-24,Chicago,North,2024-01-14,Bronze
+C2561,Female,18-24,Miami,South,2025-04-29,Bronze
+C2562,Female,35-44,Minneapolis,North,2025-02-11,Bronze
+C2563,Male,45-54,Houston,South,2023-09-03,Gold
+C2564,Female,35-44,New York,East,2025-03-13,Gold
+C2565,Male,45-54,Detroit,North,2023-05-26,Silver
+C2566,Female,25-34,Atlanta,South,2024-08-21,Bronze
+C2567,Male,25-34,Chicago,North,2023-10-13,Silver
+C2568,Female,25-34,Chicago,North,2024-03-17,Bronze
+C2569,Female,18-24,Houston,South,2024-11-22,Silver
+C2570,Female,25-34,Seattle,West,2024-08-25,Bronze
+C2571,Male,25-34,Atlanta,South,2023-02-13,Gold
+C2572,Female,18-24,Miami,South,2023-04-05,Bronze
+C2573,Male,55+,Los Angeles,West,2023-02-06,Bronze
+C2574,Female,35-44,Houston,South,2025-03-10,Bronze
+C2575,Female,35-44,New York,East,2023-05-29,Gold
+C2576,Male,25-34,San Francisco,West,2024-06-04,Bronze
+C2577,Female,45-54,Minneapolis,North,2023-08-11,Silver
+C2578,Male,55+,Boston,East,2023-10-20,Bronze
+C2579,Female,45-54,Los Angeles,West,2023-08-26,Silver
+C2580,Female,18-24,Seattle,West,2024-02-02,Gold
+C2581,Female,18-24,Philadelphia,East,2023-10-07,Bronze
+C2582,Female,25-34,Philadelphia,East,2023-04-20,Silver
+C2583,Female,55+,Philadelphia,East,2023-04-08,Silver
+C2584,Female,45-54,Seattle,West,2024-08-08,Gold
+C2585,Female,25-34,Seattle,West,2023-12-06,Silver
+C2586,Male,35-44,Philadelphia,East,2025-02-08,Silver
+C2587,Female,25-34,Los Angeles,West,2025-07-23,Bronze
+C2588,Male,25-34,Houston,South,2025-02-25,Bronze
+C2589,Male,45-54,Detroit,North,2023-02-13,Silver
+C2590,Male,45-54,Los Angeles,West,2024-02-03,Bronze
+C2591,Female,18-24,San Francisco,West,2024-04-01,Bronze
+C2592,Female,35-44,Philadelphia,East,2023-04-23,Bronze
+C2593,Female,25-34,Houston,South,2023-08-30,Silver
+C2594,Female,55+,Detroit,North,2024-03-18,Bronze
+C2595,Male,35-44,Boston,East,2024-10-29,Silver
+C2596,Male,25-34,Los Angeles,West,2023-10-11,Silver
+C2597,Male,55+,Seattle,West,2023-01-07,Bronze
+C2598,Female,25-34,Chicago,North,2025-06-08,Bronze
+C2599,Female,25-34,Seattle,West,2023-10-28,Bronze
+C2600,Male,45-54,Houston,South,2025-04-13,Bronze
+C2601,Female,45-54,New York,East,2025-05-22,Silver
+C2602,Female,55+,Los Angeles,West,2024-10-04,Bronze
+C2603,Female,18-24,Detroit,North,2024-06-30,Silver
+C2604,Female,45-54,Houston,South,2025-11-08,Silver
+C2605,Female,35-44,Detroit,North,2024-04-03,Bronze
+C2606,Female,18-24,Atlanta,South,2025-03-08,Bronze
+C2607,Male,25-34,Chicago,North,2024-01-31,Bronze
+C2608,Female,25-34,Minneapolis,North,2023-04-25,Silver
+C2609,Female,25-34,Chicago,North,2024-10-20,Silver
+C2610,Male,35-44,New York,East,2025-06-26,Silver
+C2611,Female,45-54,Atlanta,South,2024-07-27,Bronze
+C2612,Female,55+,Houston,South,2023-11-29,Silver
+C2613,Male,25-34,San Francisco,West,2025-04-23,Bronze
+C2614,Male,45-54,San Francisco,West,2025-10-04,Gold
+C2615,Male,25-34,San Francisco,West,2023-05-17,Gold
+C2616,Female,18-24,New York,East,2024-06-22,Bronze
+C2617,Male,25-34,Detroit,North,2023-09-29,Gold
+C2618,Female,25-34,Houston,South,2025-04-01,Bronze
+C2619,Male,18-24,Houston,South,2023-12-03,Bronze
+C2620,Female,25-34,Detroit,North,2025-05-14,Bronze
+C2621,Female,18-24,Boston,East,2024-12-07,Bronze
+C2622,Female,25-34,Philadelphia,East,2024-08-30,Gold
+C2623,Female,45-54,San Francisco,West,2024-10-23,Bronze
+C2624,Female,25-34,Los Angeles,West,2023-07-13,Bronze
+C2625,Male,25-34,Miami,South,2024-05-27,Bronze
+C2626,Male,25-34,Detroit,North,2025-08-06,Bronze
+C2627,Male,35-44,Minneapolis,North,2023-01-29,Gold
+C2628,Female,18-24,Philadelphia,East,2024-01-09,Gold
+C2629,Male,25-34,Miami,South,2024-11-27,Silver
+C2630,Male,18-24,Miami,South,2025-05-22,Bronze
+C2631,Female,55+,Minneapolis,North,2023-12-29,Bronze
+C2632,Male,18-24,Miami,South,2025-07-09,Bronze
+C2633,Female,45-54,New York,East,2025-05-27,Bronze
+C2634,Male,25-34,Boston,East,2025-04-04,Bronze
+C2635,Female,18-24,Seattle,West,2023-02-01,Bronze
+C2636,Female,35-44,Boston,East,2023-12-17,Silver
+C2637,Male,35-44,Chicago,North,2025-03-16,Silver
+C2638,Male,35-44,Boston,East,2025-07-05,Bronze
+C2639,Female,25-34,Boston,East,2023-12-23,Bronze
+C2640,Female,25-34,Seattle,West,2023-03-22,Bronze
+C2641,Male,45-54,Houston,South,2024-08-14,Bronze
+C2642,Male,55+,Seattle,West,2024-11-08,Silver
+C2643,Non-binary,25-34,Philadelphia,East,2025-06-06,Bronze
+C2644,Female,35-44,Seattle,West,2023-09-24,Silver
+C2645,Male,25-34,Boston,East,2023-05-16,Silver
+C2646,Male,25-34,Boston,East,2023-03-15,Gold
+C2647,Female,25-34,Miami,South,2025-04-02,Silver
+C2648,Male,25-34,Boston,East,2023-02-23,Silver
+C2649,Male,35-44,San Francisco,West,2023-05-11,Bronze
+C2650,Female,45-54,Philadelphia,East,2025-02-26,Gold
+C2651,Male,18-24,Philadelphia,East,2023-11-12,Bronze
+C2652,Male,25-34,Philadelphia,East,2023-03-20,Bronze
+C2653,Male,35-44,Atlanta,South,2024-01-17,Bronze
+C2654,Male,45-54,Atlanta,South,2023-03-03,Bronze
+C2655,Female,18-24,New York,East,2025-07-24,Bronze
+C2656,Male,25-34,San Francisco,West,2023-12-27,Bronze
+C2657,Female,25-34,Chicago,North,2025-03-16,Bronze
+C2658,Female,25-34,Los Angeles,West,2024-08-25,Silver
+C2659,Male,45-54,New York,East,2024-07-05,Silver
+C2660,Female,18-24,Chicago,North,2023-07-31,Silver
+C2661,Female,25-34,San Francisco,West,2024-01-18,Bronze
+C2662,Female,25-34,San Francisco,West,2025-03-07,Gold
+C2663,Female,35-44,Miami,South,2024-03-31,Bronze
+C2664,Female,35-44,Atlanta,South,2025-10-30,Bronze
+C2665,Female,55+,Seattle,West,2025-09-29,Bronze
+C2666,Male,25-34,Boston,East,2025-09-25,Bronze
+C2667,Male,45-54,Detroit,North,2023-09-03,Bronze
+C2668,Female,18-24,Los Angeles,West,2025-09-12,Bronze
+C2669,Female,18-24,Boston,East,2024-04-28,Bronze
+C2670,Female,18-24,Atlanta,South,2024-10-28,Bronze
+C2671,Female,45-54,Atlanta,South,2023-12-22,Bronze
+C2672,Female,25-34,San Francisco,West,2023-07-19,Bronze
+C2673,Male,18-24,Seattle,West,2024-06-28,Silver
+C2674,Female,25-34,Atlanta,South,2023-06-28,Bronze
+C2675,Male,25-34,Philadelphia,East,2023-09-07,Bronze
+C2676,Male,18-24,Boston,East,2023-09-27,Bronze
+C2677,Female,45-54,San Francisco,West,2024-12-14,Bronze
+C2678,Female,55+,Seattle,West,2025-05-26,Bronze
+C2679,Female,25-34,Los Angeles,West,2025-07-10,Bronze
+C2680,Female,35-44,Philadelphia,East,2025-11-10,Bronze
+C2681,Male,35-44,Boston,East,2025-05-14,Silver
+C2682,Female,18-24,Seattle,West,2024-08-12,Gold
+C2683,Non-binary,18-24,Los Angeles,West,2025-05-26,Gold
+C2684,Female,18-24,Detroit,North,2024-09-20,Silver
+C2685,Female,45-54,Chicago,North,2024-04-29,Silver
+C2686,Female,25-34,San Francisco,West,2023-05-22,Bronze
+C2687,Female,18-24,Houston,South,2025-05-21,Bronze
+C2688,Female,35-44,Miami,South,2025-02-23,Bronze
+C2689,Female,45-54,Boston,East,2024-03-30,Silver
+C2690,Female,18-24,Atlanta,South,2025-04-26,Silver
+C2691,Male,25-34,Los Angeles,West,2023-12-10,Bronze
+C2692,Male,35-44,Los Angeles,West,2023-12-21,Silver
+C2693,Female,35-44,Detroit,North,2023-05-09,Bronze
+C2694,Female,35-44,Houston,South,2023-07-09,Bronze
+C2695,Female,35-44,Atlanta,South,2025-09-29,Bronze
+C2696,Female,35-44,Philadelphia,East,2025-08-23,Bronze
+C2697,Female,25-34,Seattle,West,2024-12-17,Gold
+C2698,Female,25-34,Philadelphia,East,2024-06-28,Gold
+C2699,Female,35-44,Miami,South,2023-07-04,Silver
+C2700,Male,25-34,Miami,South,2024-05-08,Silver
+C2701,Male,18-24,Boston,East,2023-09-05,Silver
+C2702,Male,35-44,Chicago,North,2024-03-20,Gold
+C2703,Female,18-24,Seattle,West,2024-10-29,Gold
+C2704,Male,55+,Miami,South,2025-04-23,Bronze
+C2705,Male,18-24,Miami,South,2023-06-04,Bronze
+C2706,Male,35-44,Los Angeles,West,2024-10-27,Silver
+C2707,Female,45-54,San Francisco,West,2024-02-21,Bronze
+C2708,Male,45-54,New York,East,2025-08-06,Bronze
+C2709,Male,25-34,Atlanta,South,2024-05-21,Silver
+C2710,Female,35-44,New York,East,2025-10-17,Gold
+C2711,Female,25-34,Boston,East,2025-06-17,Bronze
+C2712,Male,25-34,Detroit,North,2024-05-19,Gold
+C2713,Female,45-54,Boston,East,2024-03-14,Bronze
+C2714,Female,18-24,Seattle,West,2024-05-12,Silver
+C2715,Female,35-44,Chicago,North,2025-01-16,Bronze
+C2716,Female,25-34,Detroit,North,2023-04-02,Silver
+C2717,Female,25-34,Philadelphia,East,2025-08-11,Bronze
+C2718,Male,25-34,New York,East,2025-02-01,Silver
+C2719,Male,45-54,Houston,South,2023-05-05,Bronze
+C2720,Female,25-34,Houston,South,2024-09-10,Silver
+C2721,Female,18-24,Los Angeles,West,2024-10-18,Gold
+C2722,Female,18-24,Seattle,West,2023-07-11,Bronze
+C2723,Male,18-24,Los Angeles,West,2024-12-14,Bronze
+C2724,Female,35-44,New York,East,2025-11-13,Gold
+C2725,Female,35-44,Boston,East,2025-08-20,Bronze
+C2726,Female,35-44,Seattle,West,2023-10-25,Bronze
+C2727,Male,45-54,Atlanta,South,2023-08-30,Bronze
+C2728,Female,35-44,Seattle,West,2023-10-13,Silver
+C2729,Female,18-24,Chicago,North,2025-02-22,Bronze
+C2730,Female,35-44,Philadelphia,East,2023-03-07,Silver
+C2731,Male,18-24,Philadelphia,East,2025-06-15,Silver
+C2732,Female,25-34,Atlanta,South,2024-08-24,Bronze
+C2733,Female,45-54,Minneapolis,North,2024-01-02,Silver
+C2734,Female,18-24,Chicago,North,2024-07-31,Silver
+C2735,Male,45-54,Philadelphia,East,2023-10-15,Silver
+C2736,Female,25-34,Los Angeles,West,2023-11-04,Silver
+C2737,Non-binary,25-34,Boston,East,2025-01-21,Silver
+C2738,Male,18-24,Detroit,North,2023-01-03,Bronze
+C2739,Male,35-44,Houston,South,2025-10-13,Gold
+C2740,Female,45-54,Detroit,North,2024-07-18,Bronze
+C2741,Male,18-24,Houston,South,2024-09-20,Bronze
+C2742,Female,55+,Chicago,North,2023-11-16,Bronze
+C2743,Female,25-34,Atlanta,South,2023-11-28,Bronze
+C2744,Female,35-44,New York,East,2023-05-06,Bronze
+C2745,Female,18-24,San Francisco,West,2023-02-15,Bronze
+C2746,Female,25-34,Los Angeles,West,2023-08-08,Silver
+C2747,Female,35-44,Boston,East,2023-01-16,Bronze
+C2748,Female,45-54,Minneapolis,North,2023-02-04,Gold
+C2749,Female,45-54,Boston,East,2025-07-13,Silver
+C2750,Female,25-34,Houston,South,2024-12-13,Gold
+C2751,Female,35-44,Atlanta,South,2023-08-06,Bronze
+C2752,Male,35-44,Detroit,North,2023-05-02,Bronze
+C2753,Female,18-24,Atlanta,South,2025-04-24,Bronze
+C2754,Female,25-34,Seattle,West,2025-09-28,Bronze
+C2755,Female,18-24,Chicago,North,2025-01-20,Silver
+C2756,Male,25-34,Chicago,North,2024-12-02,Bronze
+C2757,Female,25-34,Houston,South,2023-07-28,Bronze
+C2758,Female,25-34,San Francisco,West,2024-08-12,Bronze
+C2759,Female,35-44,Chicago,North,2025-03-31,Bronze
+C2760,Female,25-34,Atlanta,South,2024-12-15,Bronze
+C2761,Female,18-24,Philadelphia,East,2024-06-03,Bronze
+C2762,Female,18-24,Minneapolis,North,2024-02-15,Gold
+C2763,Female,18-24,San Francisco,West,2025-03-17,Bronze
+C2764,Male,25-34,New York,East,2023-10-11,Bronze
+C2765,Female,25-34,Atlanta,South,2025-04-29,Silver
+C2766,Male,18-24,Detroit,North,2023-05-19,Bronze
+C2767,Female,35-44,Boston,East,2024-05-31,Bronze
+C2768,Male,25-34,Philadelphia,East,2023-05-20,Silver
+C2769,Female,25-34,Philadelphia,East,2024-07-06,Gold
+C2770,Female,35-44,Detroit,North,2023-12-19,Bronze
+C2771,Male,25-34,Philadelphia,East,2025-10-14,Bronze
+C2772,Male,18-24,Philadelphia,East,2024-04-03,Bronze
+C2773,Female,25-34,Minneapolis,North,2025-04-29,Bronze
+C2774,Female,25-34,Los Angeles,West,2023-07-23,Bronze
+C2775,Female,18-24,Boston,East,2024-05-23,Bronze
+C2776,Female,45-54,Miami,South,2024-08-15,Bronze
+C2777,Female,25-34,Detroit,North,2024-06-24,Bronze
+C2778,Female,35-44,Miami,South,2023-04-15,Silver
+C2779,Female,18-24,Detroit,North,2025-04-21,Silver
+C2780,Female,45-54,Philadelphia,East,2024-06-15,Gold
+C2781,Female,35-44,Seattle,West,2024-04-26,Bronze
+C2782,Male,45-54,New York,East,2025-07-07,Gold
+C2783,Male,55+,Seattle,West,2025-10-28,Bronze
+C2784,Non-binary,45-54,San Francisco,West,2023-05-25,Bronze
+C2785,Female,45-54,Minneapolis,North,2023-09-04,Bronze
+C2786,Female,25-34,Philadelphia,East,2024-04-22,Bronze
+C2787,Female,18-24,Seattle,West,2023-12-20,Bronze
+C2788,Male,45-54,New York,East,2025-08-27,Silver
+C2789,Female,25-34,Miami,South,2023-06-24,Silver
+C2790,Male,35-44,Seattle,West,2025-11-12,Bronze
+C2791,Female,25-34,Minneapolis,North,2025-05-17,Silver
+C2792,Male,18-24,Houston,South,2025-09-04,Bronze
+C2793,Female,35-44,Miami,South,2023-08-30,Bronze
+C2794,Female,25-34,Houston,South,2023-04-01,Bronze
+C2795,Female,25-34,Houston,South,2024-04-04,Silver
+C2796,Female,35-44,Philadelphia,East,2025-03-26,Gold
+C2797,Male,25-34,Philadelphia,East,2024-08-02,Bronze
+C2798,Female,25-34,Atlanta,South,2025-05-29,Bronze
+C2799,Female,18-24,New York,East,2023-11-10,Bronze
+C2800,Male,25-34,Seattle,West,2024-05-12,Bronze
+C2801,Female,25-34,Detroit,North,2024-03-30,Bronze
+C2802,Female,25-34,Boston,East,2025-06-11,Bronze
+C2803,Female,18-24,Los Angeles,West,2025-06-30,Silver
+C2804,Female,55+,Chicago,North,2024-09-06,Bronze
+C2805,Female,35-44,Seattle,West,2024-05-23,Silver
+C2806,Male,18-24,Chicago,North,2024-02-23,Bronze
+C2807,Female,55+,Houston,South,2023-01-01,Gold
+C2808,Female,25-34,Miami,South,2025-11-12,Bronze
+C2809,Male,25-34,Minneapolis,North,2024-07-24,Bronze
+C2810,Male,45-54,Detroit,North,2024-10-13,Bronze
+C2811,Female,18-24,Detroit,North,2025-05-02,Bronze
+C2812,Male,18-24,San Francisco,West,2023-05-14,Bronze
+C2813,Female,55+,Philadelphia,East,2023-03-27,Bronze
+C2814,Female,18-24,Atlanta,South,2023-10-25,Bronze
+C2815,Male,45-54,Seattle,West,2023-08-03,Bronze
+C2816,Male,25-34,Miami,South,2025-02-10,Silver
+C2817,Male,25-34,Philadelphia,East,2024-05-24,Silver
+C2818,Female,25-34,New York,East,2025-11-03,Bronze
+C2819,Male,18-24,New York,East,2024-10-04,Silver
+C2820,Female,35-44,Boston,East,2024-01-05,Gold
+C2821,Male,18-24,Houston,South,2025-02-20,Bronze
+C2822,Female,25-34,Detroit,North,2023-05-07,Silver
+C2823,Female,55+,Miami,South,2024-10-05,Bronze
+C2824,Female,25-34,Boston,East,2024-06-16,Bronze
+C2825,Male,25-34,Detroit,North,2024-09-08,Bronze
+C2826,Non-binary,35-44,Minneapolis,North,2025-02-09,Silver
+C2827,Female,25-34,San Francisco,West,2025-06-09,Silver
+C2828,Male,45-54,Atlanta,South,2023-01-30,Bronze
+C2829,Female,45-54,Miami,South,2025-06-26,Bronze
+C2830,Male,18-24,Seattle,West,2024-10-15,Silver
+C2831,Female,35-44,Minneapolis,North,2023-09-25,Silver
+C2832,Male,18-24,San Francisco,West,2023-09-25,Bronze
+C2833,Female,25-34,Miami,South,2023-08-11,Bronze
+C2834,Male,35-44,Los Angeles,West,2023-01-19,Silver
+C2835,Female,55+,Minneapolis,North,2023-11-08,Bronze
+C2836,Female,18-24,San Francisco,West,2025-08-28,Silver
+C2837,Female,25-34,Houston,South,2023-08-01,Bronze
+C2838,Male,25-34,Seattle,West,2025-10-27,Silver
+C2839,Male,55+,Los Angeles,West,2023-01-13,Bronze
+C2840,Female,25-34,Philadelphia,East,2025-03-22,Bronze
+C2841,Female,45-54,San Francisco,West,2023-12-21,Bronze
+C2842,Male,25-34,Los Angeles,West,2023-01-28,Gold
+C2843,Male,35-44,Atlanta,South,2024-06-22,Bronze
+C2844,Female,25-34,New York,East,2023-12-04,Silver
+C2845,Female,25-34,Seattle,West,2024-12-01,Silver
+C2846,Female,25-34,Seattle,West,2023-04-09,Bronze
+C2847,Female,18-24,Seattle,West,2023-12-25,Silver
+C2848,Male,25-34,Atlanta,South,2024-10-26,Bronze
+C2849,Female,35-44,Boston,East,2025-05-29,Silver
+C2850,Male,45-54,Houston,South,2023-10-26,Bronze
+C2851,Male,55+,San Francisco,West,2023-11-12,Silver
+C2852,Male,35-44,New York,East,2025-10-03,Bronze
+C2853,Male,25-34,San Francisco,West,2025-03-26,Silver
+C2854,Female,18-24,Philadelphia,East,2023-12-07,Bronze
+C2855,Male,25-34,New York,East,2023-05-30,Silver
+C2856,Female,25-34,Chicago,North,2023-05-18,Silver
+C2857,Female,35-44,Houston,South,2024-02-03,Bronze
+C2858,Female,45-54,Boston,East,2023-10-24,Silver
+C2859,Female,45-54,Seattle,West,2023-01-25,Silver
+C2860,Male,25-34,San Francisco,West,2023-05-22,Bronze
+C2861,Male,25-34,New York,East,2023-05-18,Bronze
+C2862,Female,25-34,Miami,South,2025-01-06,Bronze
+C2863,Male,25-34,Philadelphia,East,2025-01-10,Bronze
+C2864,Female,35-44,Philadelphia,East,2023-08-08,Silver
+C2865,Female,25-34,Miami,South,2023-09-10,Bronze
+C2866,Male,25-34,Atlanta,South,2025-03-01,Gold
+C2867,Male,35-44,Philadelphia,East,2023-11-14,Bronze
+C2868,Female,35-44,San Francisco,West,2024-10-06,Bronze
+C2869,Female,18-24,Los Angeles,West,2023-10-09,Silver
+C2870,Male,18-24,Los Angeles,West,2025-02-19,Gold
+C2871,Female,18-24,Los Angeles,West,2024-04-08,Bronze
+C2872,Non-binary,55+,Seattle,West,2023-11-06,Bronze
+C2873,Male,25-34,Chicago,North,2023-11-18,Bronze
+C2874,Male,25-34,New York,East,2023-04-12,Bronze
+C2875,Female,18-24,Chicago,North,2023-08-28,Bronze
+C2876,Female,25-34,New York,East,2025-03-01,Gold
+C2877,Male,18-24,Philadelphia,East,2025-09-11,Bronze
+C2878,Female,18-24,Houston,South,2025-02-02,Gold
+C2879,Male,35-44,Miami,South,2024-08-15,Gold
+C2880,Male,25-34,Philadelphia,East,2023-04-08,Silver
+C2881,Female,55+,Minneapolis,North,2024-09-25,Silver
+C2882,Female,35-44,Los Angeles,West,2023-03-13,Bronze
+C2883,Female,35-44,San Francisco,West,2024-01-09,Gold
+C2884,Female,18-24,Los Angeles,West,2025-02-15,Gold
+C2885,Non-binary,35-44,Minneapolis,North,2025-06-05,Bronze
+C2886,Male,25-34,Chicago,North,2025-03-15,Silver
+C2887,Non-binary,18-24,Boston,East,2024-04-05,Bronze
+C2888,Male,25-34,Detroit,North,2024-07-04,Silver
+C2889,Female,25-34,Atlanta,South,2024-02-03,Bronze
+C2890,Female,35-44,Houston,South,2025-04-09,Bronze
+C2891,Female,55+,Philadelphia,East,2023-08-31,Silver
+C2892,Female,25-34,Seattle,West,2023-05-29,Bronze
+C2893,Female,45-54,Houston,South,2023-06-08,Silver
+C2894,Male,18-24,Miami,South,2023-02-15,Silver
+C2895,Female,25-34,Houston,South,2024-01-18,Bronze
+C2896,Male,55+,Minneapolis,North,2025-01-24,Bronze
+C2897,Female,25-34,Philadelphia,East,2023-08-30,Bronze
+C2898,Female,35-44,Los Angeles,West,2025-09-26,Bronze
+C2899,Female,35-44,Philadelphia,East,2023-10-24,Bronze
+C2900,Female,18-24,Minneapolis,North,2024-06-29,Bronze
+C2901,Female,35-44,Boston,East,2025-07-09,Silver
+C2902,Female,25-34,Miami,South,2023-09-28,Bronze
+C2903,Female,35-44,New York,East,2023-04-03,Bronze
+C2904,Male,25-34,New York,East,2023-09-16,Silver
+C2905,Female,25-34,Detroit,North,2023-04-12,Gold
+C2906,Female,18-24,Houston,South,2023-04-19,Bronze
+C2907,Female,45-54,Seattle,West,2023-12-30,Bronze
+C2908,Female,18-24,Philadelphia,East,2024-07-27,Silver
+C2909,Female,25-34,San Francisco,West,2024-01-10,Bronze
+C2910,Female,55+,Detroit,North,2025-05-09,Gold
+C2911,Female,18-24,San Francisco,West,2025-02-03,Gold
+C2912,Female,25-34,New York,East,2023-05-01,Silver
+C2913,Non-binary,35-44,San Francisco,West,2023-08-12,Bronze
+C2914,Male,18-24,Minneapolis,North,2023-03-31,Bronze
+C2915,Female,25-34,Boston,East,2024-02-13,Bronze
+C2916,Male,25-34,Philadelphia,East,2023-01-10,Silver
+C2917,Female,25-34,Philadelphia,East,2025-10-29,Bronze
+C2918,Male,25-34,Atlanta,South,2023-10-16,Bronze
+C2919,Female,25-34,Boston,East,2025-04-24,Gold
+C2920,Male,18-24,Seattle,West,2025-04-26,Silver
+C2921,Non-binary,18-24,Boston,East,2023-10-17,Silver
+C2922,Female,25-34,Chicago,North,2023-05-25,Bronze
+C2923,Female,18-24,Boston,East,2025-04-05,Gold
+C2924,Female,25-34,Houston,South,2025-01-07,Bronze
+C2925,Female,25-34,San Francisco,West,2025-05-11,Gold
+C2926,Female,25-34,Houston,South,2025-05-29,Gold
+C2927,Male,25-34,Seattle,West,2024-09-05,Bronze
+C2928,Female,55+,Detroit,North,2024-04-11,Gold
+C2929,Female,25-34,Houston,South,2023-10-10,Bronze
+C2930,Male,25-34,Boston,East,2024-07-20,Silver
+C2931,Male,18-24,Miami,South,2025-01-15,Bronze
+C2932,Female,25-34,San Francisco,West,2023-03-11,Bronze
+C2933,Male,35-44,Philadelphia,East,2024-09-25,Bronze
+C2934,Non-binary,25-34,Miami,South,2023-06-20,Gold
+C2935,Female,35-44,Detroit,North,2023-02-09,Gold
+C2936,Male,18-24,Philadelphia,East,2023-04-21,Bronze
+C2937,Male,25-34,Boston,East,2025-01-29,Silver
+C2938,Non-binary,45-54,Detroit,North,2023-12-29,Bronze
+C2939,Male,45-54,Atlanta,South,2024-10-04,Silver
+C2940,Male,35-44,Detroit,North,2023-11-20,Gold
+C2941,Female,45-54,Chicago,North,2023-08-16,Gold
+C2942,Female,45-54,Atlanta,South,2024-06-15,Bronze
+C2943,Female,25-34,Houston,South,2025-10-05,Silver
+C2944,Male,35-44,Philadelphia,East,2023-04-12,Silver
+C2945,Male,45-54,New York,East,2024-04-17,Bronze
+C2946,Male,35-44,Houston,South,2024-03-18,Bronze
+C2947,Female,25-34,Los Angeles,West,2023-08-31,Silver
+C2948,Female,55+,Atlanta,South,2025-11-03,Bronze
+C2949,Male,55+,Boston,East,2023-07-12,Gold
+C2950,Male,25-34,New York,East,2023-12-23,Gold
+C2951,Female,25-34,New York,East,2024-11-28,Bronze
+C2952,Female,25-34,Miami,South,2025-09-24,Bronze
+C2953,Female,25-34,Boston,East,2023-05-01,Bronze
+C2954,Non-binary,25-34,Detroit,North,2024-05-09,Silver
+C2955,Male,25-34,Boston,East,2024-03-22,Bronze
+C2956,Male,18-24,Boston,East,2025-02-06,Bronze
+C2957,Female,18-24,Houston,South,2023-11-18,Silver
+C2958,Female,55+,San Francisco,West,2023-05-30,Bronze
+C2959,Female,25-34,San Francisco,West,2024-01-12,Bronze
+C2960,Male,25-34,Chicago,North,2024-01-18,Bronze
+C2961,Male,18-24,Miami,South,2024-11-08,Silver
+C2962,Male,18-24,New York,East,2025-05-13,Bronze
+C2963,Female,25-34,Los Angeles,West,2025-04-27,Gold
+C2964,Female,18-24,Chicago,North,2025-02-25,Silver
+C2965,Male,45-54,Minneapolis,North,2024-11-16,Bronze
+C2966,Female,25-34,Los Angeles,West,2025-07-12,Bronze
+C2967,Female,25-34,New York,East,2025-05-17,Gold
+C2968,Male,45-54,Houston,South,2024-01-02,Bronze
+C2969,Female,25-34,Atlanta,South,2024-01-18,Gold
+C2970,Female,25-34,New York,East,2023-09-16,Silver
+C2971,Male,25-34,Los Angeles,West,2024-04-07,Bronze
+C2972,Female,35-44,Philadelphia,East,2023-12-11,Silver
+C2973,Female,45-54,Detroit,North,2023-09-12,Bronze
+C2974,Female,35-44,Miami,South,2023-07-13,Bronze
+C2975,Female,18-24,Philadelphia,East,2024-11-11,Gold
+C2976,Male,25-34,Philadelphia,East,2025-08-07,Silver
+C2977,Male,35-44,Atlanta,South,2023-04-02,Gold
+C2978,Female,55+,Philadelphia,East,2024-03-18,Gold
+C2979,Male,35-44,Boston,East,2025-09-09,Bronze
+C2980,Male,55+,Los Angeles,West,2023-04-20,Bronze
+C2981,Female,18-24,Los Angeles,West,2023-11-29,Silver
+C2982,Female,55+,New York,East,2024-04-13,Bronze
+C2983,Non-binary,35-44,Miami,South,2025-09-24,Bronze
+C2984,Female,55+,San Francisco,West,2023-08-13,Bronze
+C2985,Male,35-44,Philadelphia,East,2023-01-21,Bronze
+C2986,Non-binary,25-34,Detroit,North,2024-03-01,Silver
+C2987,Female,25-34,Atlanta,South,2023-09-26,Silver
+C2988,Female,35-44,Chicago,North,2023-07-31,Gold
+C2989,Female,25-34,Los Angeles,West,2025-10-27,Bronze
+C2990,Male,45-54,Atlanta,South,2023-01-06,Silver
+C2991,Female,25-34,Philadelphia,East,2025-06-20,Bronze
+C2992,Male,35-44,Philadelphia,East,2023-09-28,Bronze
+C2993,Male,35-44,Philadelphia,East,2025-05-01,Bronze
+C2994,Male,18-24,Miami,South,2023-03-25,Gold
+C2995,Female,45-54,Miami,South,2023-03-01,Bronze
+C2996,Female,18-24,Houston,South,2025-03-03,Silver
+C2997,Female,18-24,Houston,South,2023-08-31,Bronze
+C2998,Male,25-34,Boston,East,2025-01-24,Bronze
+C2999,Female,35-44,Los Angeles,West,2023-03-25,Bronze
+C3000,Female,18-24,Philadelphia,East,2025-03-17,Bronze

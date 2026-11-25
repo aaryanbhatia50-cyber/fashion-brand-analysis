@@ -1,0 +1,61 @@
+table customers
+	lineageTag: 5d0178c9-b107-4dbf-9db2-57fdf4c47f27
+
+	column customer_id
+		dataType: string
+		lineageTag: a4bf8659-a525-42e7-bf1a-372efb443a70
+		summarizeBy: none
+		sourceColumn: customer_id
+
+	column gender
+		dataType: string
+		lineageTag: a7b92c99-063d-4063-9c98-f7a006eb31bc
+		summarizeBy: none
+		sourceColumn: gender
+
+	column age_group
+		dataType: string
+		lineageTag: 23f2d1f2-2606-4db2-86d5-674736e50a02
+		summarizeBy: none
+		sourceColumn: age_group
+
+	column city
+		dataType: string
+		lineageTag: aeb2e579-a539-464d-9a63-0aac284386e4
+		dataCategory: City
+		summarizeBy: none
+		sourceColumn: city
+
+	column region
+		dataType: string
+		lineageTag: 7fc358e3-b673-4d31-87a1-7c5b1549bca0
+		summarizeBy: none
+		sourceColumn: region
+
+	column signup_date
+		dataType: dateTime
+		formatString: yyyy-mm-dd
+		lineageTag: 2a09f739-0007-4180-9361-6a02a2f1498b
+		summarizeBy: none
+		sourceColumn: signup_date
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column loyalty_tier
+		dataType: string
+		lineageTag: b71feded-9a8e-4aca-9ce3-5ede4f56fde1
+		summarizeBy: none
+		sourceColumn: loyalty_tier
+
+	partition customers = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(DataFolder & "customers.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"customer_id", type text}, {"gender", type text}, {"age_group", type text}, {"city", type text}, {"region", type text}, {"signup_date", type date}, {"loyalty_tier", type text}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table
+
